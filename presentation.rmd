@@ -36,6 +36,7 @@ output:
 
 ## Researcher support for discoverability
 - FAIR data
+
 F - [Findable](https://faircookbook.elixir-europe.org/content/recipes/findability.html)
 Can others even figure out where the data you used are?
 Concepts:
@@ -44,6 +45,7 @@ Concepts:
 
 ## Researcher support for discoverability
 - FAIR data
+
 A - [Accessible](https://faircookbook.elixir-europe.org/content/recipes/accessibility.html)
 Can others access the data you used? Can they figure out HOW to do so?
 Concepts:
@@ -53,6 +55,7 @@ Concepts:
 
 ## Researcher support for discoverability
 - FAIR data
+
 I - [Interoperable](https://faircookbook.elixir-europe.org/content/recipes/interoperability.html)
 Concepts:
 - Machine-readable
@@ -61,6 +64,7 @@ Concepts:
 
 ## Researcher support for discoverability
 - FAIR data
+
 R - [Reuseable](https://faircookbook.elixir-europe.org/content/recipes/reusability.html) 
 Concepts:
 - Provenance
