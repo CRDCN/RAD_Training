@@ -1,0 +1,607 @@
+﻿subject_id,subject_fr,subject_title,subject_parent_en
+10,Gouvernement,Government,
+1001,Bilans,Balance sheets,Government
+1002,Emploi et rémunération,Employment and remuneration,Government
+1003,Entreprises publiques,Government business enterprises,Government
+1004,Autorités monétaires,Monetary authorities,Government
+1005,Recettes et dépenses,Revenue and expenditures,Government
+1099,Autre contenu lié au Gouvernement,Other content related to Government,Government
+11,"Revenu, pensions, dépenses et richesse","Income, pensions, spending and wealth",
+1101,"Actif, endettement et richesse des ménages et des familles","Household and family assets, debts and wealth","Income, pensions, spending and wealth"
+110101,Endettement des ménages et des familles,Household and family debt,"Household and family assets, debts and wealth"
+110102,Valeur nette,Net worth,"Household and family assets, debts and wealth"
+110199,"Autre contenu lié à l'Actif, l'endettement et la richesse des ménages et des familles",Other content related to Household and family asse,"Household and family assets, debts and wealth"
+1102,Dépenses et épargne des ménages,Household spending and savings,"Income, pensions, spending and wealth"
+110201,Dépenses des ménages,Household spending,Household spending and savings
+110202,Coûts d'habitation,Shelter costs,Household spending and savings
+110203,Épargne,Savings,Household spending and savings
+110299,Autre contenu lié aux Dépenses et l'épargne des ménages,Other content related to Household spending and sa,Household spending and savings
+1103,"Revenu des ménages, des familles et des particuliers","Household, family and personal income","Income, pensions, spending and wealth"
+110301,Revenu des familles,Family income,"Household, family and personal income"
+110302,Revenu des ménages,Household income,"Household, family and personal income"
+110303,Revenu des particuliers,Personal income,"Household, family and personal income"
+110304,Sources de revenu,Sources of income,"Household, family and personal income"
+110399,"Autre contenu lié au Revenu des ménages, des familles et des particuliers","Other content related to Household, family and per","Household, family and personal income"
+1104,Faible revenu et inégalité,Low income and inequality,"Income, pensions, spending and wealth"
+110401,Inégalité,Income inequality,Low income and inequality
+110402,Faible revenu,Low income,Low income and inequality
+110499,Autre contenu lié au Faible revenu et l'inégalité,Other content related to Low income and inequality,Low income and inequality
+1105,Pensions et programmes de revenu de retraite,Pensions and retirement income programs,"Income, pensions, spending and wealth"
+110501,Régimes et fonds de pension,Pension plans and funds,Pensions and retirement income programs
+110502,Régime enregistré d'épargne-retraite (REER),Registered Retirement Savings Plan (RRSP),Pensions and retirement income programs
+110503,Planification de la retraite,Retirement planning,Pensions and retirement income programs
+110599,Autre contenu lié aux Pensions et programmes de revenu de retraite,Other content related to Pensions and retirement i,Pensions and retirement income programs
+1106,Imposition des particuliers et des ménages,Personal and household taxation,"Income, pensions, spending and wealth"
+110601,Impôt sur le revenu,Income taxes,Personal and household taxation
+110602,Impôt foncier,Property taxes,Personal and household taxation
+110699,Autre contenu lié à l'Imposition des particuliers et des ménages,Other content related to Personal and household ta,Personal and household taxation
+1107,Dons de charité,Charitable donations,"Income, pensions, spending and wealth"
+1108,Revenu élévé,High income,"Income, pensions, spending and wealth"
+1199,"Autre contenu lié au Revenu, les pensions, les dépenses et la richesse","Other content related to Income, pensions, spendin","Income, pensions, spending and wealth"
+12,Commerce international,International trade,
+1201,Importations et exportations de marchandises,Merchandise imports and exports,International trade
+1202,Importations et exportations de services,Service imports and exports,International trade
+1203,Structure des échanges,Trade patterns,International trade
+1204,Commerce par les entreprises multinationales,Trade by multinational enterprises,International trade
+1205,Commerce selon les caractéristiques des exportateurs et des importateurs,Trade by exporter and importer characteristics,International trade
+1299,Autre contenu lié au Commerce international,Other content related to International trade,International trade
+13,Santé,Health,
+1301,Incapacité,Disability,Health
+1302,Maladies et état de santé physique,Diseases and physical health conditions,Health
+130201,Arthrite,Arthritis,Diseases and physical health conditions
+130203,Cancer,Cancer,Diseases and physical health conditions
+130204,Maladies cardiovasculaires,Cardiovascular diseases,Diseases and physical health conditions
+130205,Diabète,Diabetes,Diseases and physical health conditions
+130206,Tension artérielle,Blood pressure,Diseases and physical health conditions
+130207,Grippe,Influenza,Diseases and physical health conditions
+130208,Blessures,Injuries,Diseases and physical health conditions
+130209,Poids corporel et l'obésité,Body weight and obesity,Diseases and physical health conditions
+130210,Douleurs et malaises,Pain and discomfort,Diseases and physical health conditions
+130211,Problèmes neurologiques,Neurological conditions,Diseases and physical health conditions
+130212,Maladies transmissibles sexuellement,Sexually transmitted diseases,Diseases and physical health conditions
+130218,Asthme,Asthma,Diseases and physical health conditions
+130219,Maladie pulmonaire obstructive chronique,Chronic obstructive pulmonary disease,Diseases and physical health conditions
+130221,Maladies chroniques,Chronic conditions,Diseases and physical health conditions
+130299,Autre contenu lié aux Maladies et état de santé physique,Other content related to Diseases and physical hea,Diseases and physical health conditions
+1303,Facteurs environnementaux,Environmental factors,Health
+130301,Exposition aux produits chimiques,Exposure to chemicals,Environmental factors
+130302,Fumée secondaire,Second-hand smoke,Environmental factors
+130303,Métaux lourds,Heavy metals,Environmental factors
+130399,Autre contenu lié aux Facteurs environnementaux,Other content related to Environmental factors,Environmental factors
+1304,Services de soins de santé,Health care services,Health
+130401,Accès aux soins de santé,Access to health care,Health care services
+130402,Hospitalisation,Hospitalization,Health care services
+130403,Satisfaction des patients,Patient satisfaction,Health care services
+130404,Fournisseurs de soins de santé,Health care providers,Health care services
+130405,Soins pour bénéficiaires internes,Residential care,Health care services
+130406,Soins à domicile et aidants,Home care and caregivers,Health care services
+130499,Autre contenu lié aux Services de soins de santé,Other content related to Health care services,Health care services
+1305,Espérance de vie et décès,Life expectancy and deaths,Health
+130501,Causes de décès,Causes of death,Life expectancy and deaths
+130502,Mortalité infantile et morts foetales (mortinaissances),Infant mortality and fetal deaths (stillbirths),Life expectancy and deaths
+130503,Espérance de vie,Life expectancy,Life expectancy and deaths
+130504,Mortalité et taux de mortalité,Mortality and death rates,Life expectancy and deaths
+130506,Taux de survie,Survival rates,Life expectancy and deaths
+130599,Autre contenu lié à l'Espérance de vie et les décès,Other content related to Life expectancy and death,Life expectancy and deaths
+1306,Mode de vie et conditions sociales,Lifestyle and social conditions,Health
+130601,Consommation d'alcool et de drogues,Alcohol and drug use,Lifestyle and social conditions
+130602,Nutrition,Nutrition,Lifestyle and social conditions
+130603,Activité physique,Physical activity,Lifestyle and social conditions
+130604,Tabagisme,Smoking,Lifestyle and social conditions
+130605,Consommation de médicaments sur ordonnance,Prescription drug use,Lifestyle and social conditions
+130606,Sentiment d'appartenance à la communauté locale,Sense of community belonging,Lifestyle and social conditions
+130607,Insécurité alimentaire,Food insecurity,Lifestyle and social conditions
+130608,Conditions socioéconomiques et la santé,Socioeconomic conditions and health,Lifestyle and social conditions
+130699,Autre contenu lié à la Mode de vie et les conditions sociales,Other content related to Lifestyle and social cond,Lifestyle and social conditions
+1307,Santé mentale et bien-être,Mental health and well-being,Health
+130701,Dépression,Depression,Mental health and well-being
+130702,Troubles affectifs,Emotional disorders,Mental health and well-being
+130703,Maladies mentales,Mental illness,Mental health and well-being
+130704,Stress,Stress,Mental health and well-being
+130706,Soins de santé mentale,Mental health care,Mental health and well-being
+130707,Santé perçue ou auto-évaluation de la santé,Perceived or self-rated health,Mental health and well-being
+130708,Suicide,Suicide,Mental health and well-being
+130799,Autre contenu lié à la Santé mentale et le bien-être,Other content related to Mental health and well-be,Mental health and well-being
+1308,Grossesses et naissances,Pregnancy and births,Health
+130801,Poids à la naissance,Birth weight,Pregnancy and births
+130802,Naissances et taux de fécondité,Births and birth rates,Pregnancy and births
+130803,Allaitement maternel,Breastfeeding,Pregnancy and births
+130804,Grossesse,Pregnancy,Pregnancy and births
+130899,Autre contenu lié aux Grossesses et les naissances,Other content related to Pregnancy and births,Pregnancy and births
+1309,Prévention et détection de la maladie,Prevention and detection of disease,Health
+1310,Mesures de la santé,Health measures,Health
+1399,Autre contenu lié à la Santé,Other content related to Health,Health
+14,Travail,Labour,
+1401,"Gains, salaires et avantages sociaux","Earnings, wages and non-wage benefits",Labour
+140101,"Gains et salaires selon la profession, l'industrie ou le secteur","Earnings and wages by occupation, industry or sect","Earnings, wages and non-wage benefits"
+140102,Gains et salaires selon la région ou le lieu,Earnings and wages by region or location,"Earnings, wages and non-wage benefits"
+140103,Gains selon l'âge ou le sexe,Earnings by age or sex,"Earnings, wages and non-wage benefits"
+140104,Gains des immigrants,Earnings of immigrants,"Earnings, wages and non-wage benefits"
+140105,"Éducation, compétences et gains","Education, skills and earnings","Earnings, wages and non-wage benefits"
+140106,Salaire minimum ou travail peu rémunéré,Minimum wage or low-paid work,"Earnings, wages and non-wage benefits"
+140107,Avantages sociaux,Non-wage benefits,"Earnings, wages and non-wage benefits"
+140108,"Parents, familles et gains","Parents, families and earnings","Earnings, wages and non-wage benefits"
+140199,"Autre contenu lié aux Gains, les salaires et les avantages sociaux","Other content related to Earnings, wages and non-w","Earnings, wages and non-wage benefits"
+1402,Emploi et chômage,Employment and unemployment,Labour
+140201,"Emploi selon la profession, l'industrie ou le secteur","Employment by occupation, industry or sector",Employment and unemployment
+140202,Éducation et marché du travail,Education and the labour market,Employment and unemployment
+140203,Marchés du travail régionaux,Regional labour markets,Employment and unemployment
+140204,Immigrants sur le marché du travail,Immigrants in the labour market,Employment and unemployment
+140205,Caractéristiques de la population active,Labour force characteristics,Employment and unemployment
+140207,Chômage,Unemployment,Employment and unemployment
+140208,Femmes sur le marché du travail,Women in the labour market,Employment and unemployment
+140209,Jeunes et jeunes adultes sur le marché du travail,Youth and young adults in the labour market,Employment and unemployment
+140210,Peuples autochtones et marché du travail,Indigenous peoples and the labour market,Employment and unemployment
+140211,Aperçu du marché du travail,Labour market overview,Employment and unemployment
+140299,Autre contenu lié à l'Emploi et le chômage,Other content related to Employment and unemployme,Employment and unemployment
+1403,"Assurance-emploi, aide sociale et autres transferts","Employment insurance, social assistance and other",Labour
+1404,Heures de travail et conditions de travail,Hours of work and work arrangements,Labour
+140401,Heures de travail,Hours of work,Hours of work and work arrangements
+140402,Emplois à temps partiel et non permanents,Part-time and non-permanent employment,Hours of work and work arrangements
+140403,Travail autonome,Self-employment,Hours of work and work arrangements
+140404,Travail à domicile,Working from home,Hours of work and work arrangements
+140499,Autre contenu lié aux Heures de travail et les conditions de travail,Other content related to Hours of work and work ar,Hours of work and work arrangements
+1405,Formation professionnelle et programmes pour apprentis,Job training and apprenticeship programs,Labour
+1406,"Postes vacants, mobilité de la main-d'oeuvre et mises à pied","Job vacancies, labour mobility and layoffs",Labour
+1407,Navettage,Commuting to work,Labour
+140701,Flux de navettage,Commuting flows,Commuting to work
+140702,Caractéristiques du navettage,Commuting to work characteristics,Commuting to work
+140703,Type de lieu de travail,Workplace type,Commuting to work
+140799,Autre contenu lié au Navettage,Other content related to Commuting to work,Commuting to work
+1408,Mondialisation et marché du travail,Globalization and the labour market,Labour
+1409,Syndicalisation et relations industrielles,Unionization and industrial relations,Labour
+1410,Travail non rémunéré,Unpaid work,Labour
+1411,Transitions professionnelles et stades de la vie,Work transitions and life stages,Labour
+1412,"Organisation du milieu de travail, innovation et rendement","Workplace organization, innovation and performance",Labour
+1413,Santé du milieu de travail et absences du travail,Workplace health and work absences,Labour
+1499,Autre contenu lié au Travail,Other content related to Labour,Labour
+15,Langues,Languages,
+1504,Connaissances des langues,Knowledge of languages,Languages
+150401,Langues autochtones,Indigenous languages,Knowledge of languages
+150402,Langues immigrantes,Immigrant languages,Knowledge of languages
+150403,Langues officielles et bilinguisme français-anglais,Official languages and English-French bilingualism,Knowledge of languages
+150499,Autre contenu lié aux Connaissances des langues,Other content related to Knowledge of languages,Knowledge of languages
+1507,Groupes linguistiques,Language groups,Languages
+150701,Première langue officielle parlée,First official language spoken,Language groups
+150702,Langue maternelle,Mother tongue,Language groups
+150703,Minorités de langue officielle,Official language minorities,Language groups
+150799,Autre contenu lié aux Groupes linguistiques,Other content related to Language groups,Language groups
+1508,Utilisation des langues,Use of languages,Languages
+150801,Langues parlées à la maison,Languages spoken at home,Use of languages
+150802,Langues utilisées au travail,Languages used at work,Use of languages
+150899,Autre contenu lié à l'Utilisation des langues,Other content related to Use of languages,Use of languages
+1599,Autre contenu lié aux Langues,Other content related to Languages,Languages
+16,Fabrication,Manufacturing,
+1601,"Produits chimiques, plastique et en caoutchouc","Chemicals, plastics and rubber",Manufacturing
+1602,"Aliments, boissons et tabac","Food, beverage and tobacco",Manufacturing
+1603,"Machines, produits informatiques et électroniques","Machinery, computers and electronics",Manufacturing
+1604,Minéraux non métalliques et métaux,Non-metallic mineral and metal,Manufacturing
+1605,Pétrole et charbon,Petroleum and coal,Manufacturing
+1606,"Textiles, vêtements et cuir","Textiles, clothing and leather",Manufacturing
+1607,Matériel de transport,Transportation equipment,Manufacturing
+1608,"Bois, papier et impression","Wood, paper and printing",Manufacturing
+1609,Autres produits manufacturés,Other manufactured products,Manufacturing
+1610,Utilisation de la technologie,Technology use,Manufacturing
+1611,Usines innovateurs,Innovative manufacturing plants,Manufacturing
+1612,"Production, stocks et livraisons d'engrais","Fertilizer production, inventories and shipments",Manufacturing
+1699,Autre contenu lié à la Fabrication,Other content related to Manufacturing,Manufacturing
+17,Population et démographie,Population and demography,
+1702,Fécondité (naissances),Fertility (births),Population and demography
+1704,Mortalité (décès),Mortality (deaths),Population and demography
+1707,Migration,Migration,Population and demography
+170701,Migration interne,Internal migration,Migration
+170702,Migration internationale,International migration,Migration
+170799,Autre contenu lié à la Migration,Other content related to Migration,Migration
+1710,Estimations démographiques,Population estimates,Population and demography
+171001,"Estimations annuelles, provinces et territoires","Annual estimates, provinces and territories",Population estimates
+171003,"Estimations trimestrielles, provinces et territoires","Quarterly estimates, provinces and territories",Population estimates
+171004,Estimations annuelles infraprovinciales,Annual subprovincial estimates,Population estimates
+171099,Autre contenu lié aux Estimations démographiques,Other content related to Population estimates,Population estimates
+1711,Projections démographiques,Population projections,Population and demography
+171105,Projections par âge et sexe,Projections by age and sex,Population projections
+171106,Projections spécifiques (microsimulation),Specific projections (microsimulation),Population projections
+171199,Autre contenu lié aux Projections démographiques,Other content related to Population projections,Population projections
+1712,Chiffres du recensement,Census counts,Population and demography
+171201,Âge et sexe,Age and sex,Census counts
+171202,Population totale,Total population,Census counts
+171203,"Familles, ménages et état matrimonial - recensement","Families, households and marital status - Census",Census counts
+171204,Mobilité et migration,Mobility and migration,Census counts
+171299,Autre contenu lié aux Chiffres du recensement,Other content related to Census counts,Census counts
+1799,Autre contenu lié à la Population et la démographie,Other content related to Population and demography,Population and demography
+18,Prix et indices des prix,Prices and price indexes,
+1801,Indices des prix de l'agriculture,Agriculture price indexes,Prices and price indexes
+1802,Indices des prix à la consommation,Consumer price indexes,Prices and price indexes
+1803,Comparaisons des prix intervilles et internationaux,Intercity and international price comparisons,Prices and price indexes
+1804,Indices des prix du commerce international de marchandises,International merchandise trade price indexes,Prices and price indexes
+1805,Indices des prix à la production,Producer price indexes,Prices and price indexes
+180501,Indices de prix des logements et de la construction,Housing and construction price indexes,Producer price indexes
+180502,Indices des prix des produits industriels,Industrial product price indexes,Producer price indexes
+180503,Indices des prix des machines et du matériel,Machinery and equipment price indexes,Producer price indexes
+180504,Indices des prix des services,Services price indexes,Producer price indexes
+180599,Autre contenu lié aux Indices des prix à la production,Other content related to Producer price indexes,Producer price indexes
+1806,Indices des prix des comptes économiques,Economic accounts price indexes,Prices and price indexes
+1899,Autre contenu lié aux Prix et les indices des prix,Other content related to Prices and price indexes,Prices and price indexes
+19,Méthodes statistiques,Statistical methods,
+1901,Données administratives,Administrative data,Statistical methods
+1902,Collecte et questionnaires,Collection and questionnaires,Statistical methods
+1903,Analyse des données,Data analysis,Statistical methods
+1904,Contrôle de la divulgation et diffusion de données,Disclosure control and data dissemination,Statistical methods
+1905,Vérification et imputation,Editing and imputation,Statistical methods
+1906,Bases de sondage et couverture,Frames and coverage,Statistical methods
+1907,Histoire et contexte,History and context,Statistical methods
+1908,Inférence et fondements,Inference and foundations,Statistical methods
+1909,Assurance de la qualité,Quality assurance,Statistical methods
+1910,Réponse et non-réponse,Response and nonresponse,Statistical methods
+1911,Simulations,Simulations,Statistical methods
+1912,Techniques statistiques,Statistical techniques,Statistical methods
+1913,Plan de sondage,Survey design,Statistical methods
+1914,Séries chronologiques,Time series,Statistical methods
+1915,Pondération et estimation,Weighting and estimation,Statistical methods
+1999,Autre contenu lié aux Méthodes statistiques,Other content related to Statistical methods,Statistical methods
+20,Commerce de détail et de gros,Retail and wholesale,
+2001,Ventes au détail selon le type de produit,Retail sales by type of product,Retail and wholesale
+2002,Ventes au détail selon le type de magasin,Retail sales by type of store,Retail and wholesale
+2003,Ventes et stocks des grossistes,Wholesale sales and inventories,Retail and wholesale
+2099,Autre contenu lié au Commerce de détail et de gros,Other content related to Retail and wholesale,Retail and wholesale
+21,Services aux entreprises et aux consommateurs et culture,Business and consumer services and culture,
+2102,Culture,Culture,Business and consumer services and culture
+210201,"Production cinématographique, télévisuelle et vidéo","Film, television and video production",Culture
+210202,Commerce des biens et de services de la culture,Trade in culture goods and services,Culture
+210203,Musique et arts du spectacle,Music and performing arts,Culture
+210204,Édition,Publishing,Culture
+210206,Radiodiffusion et télédiffusion,Radio and television broadcasting,Culture
+210299,Autre contenu lié à la Culture,Other content related to Culture,Culture
+2104,Services aux entreprises et aux consommateurs,Business and consumer services,Business and consumer services and culture
+210401,Services de comptabilité et de conseils,Accounting and consulting services,Business and consumer services
+210402,Services de publicité,Advertising services,Business and consumer services
+210404,Services immobiliers et services de location et de location à bail,"Rental, leasing and real estate services",Business and consumer services
+210407,"Services d'architecte, d'ingéniere, de conception et de prospection, d'arpentage et de cartographie","Architect, engineering, design and surveying and m",Business and consumer services
+210408,Hébergement et services de restauration,Accommodation and food services,Business and consumer services
+210409,Sports et loisirs,Sports and leisure,Business and consumer services
+210410,Développement de logiciels et les services informatiques,Software development and computer services,Business and consumer services
+210411,Services de réparation et d'entretien,Repair and maintenance services,Business and consumer services
+210412,Services d'emploi,Employment services,Business and consumer services
+210413,Agences de voyages et voyagistes,Travel agencies and tour operators,Business and consumer services
+210414,Services personnels,Personal services,Business and consumer services
+210499,Autre contenu lié aux Services aux entreprises et aux consommateurs,Other content related to Business and consumer ser,Business and consumer services
+2199,Autre contenu lié aux Services aux entreprises et aux consommateurs et culture,Other content related to Business and consumer services and culture,Business and consumer services and culture
+22,Économie et société numériques,Digital economy and society,
+2203,Secteur des technologies de l'information et des communications,Information and communications technology sector,Digital economy and society
+2204,Utilisation d'Internet,Internet use,Digital economy and society
+220401,Utilisation d'Internet par les entreprises et les gouvernements,Business and government Internet use,Internet use
+220402,Commerce électronique (n'utilisez pas),E-commerce (do not use),Internet use
+220403,Utilisation d'Internet par les particuliers et les ménages,Individual and household Internet use,Internet use
+220499,Autre contenu lié à l'Utilisation d'Internet,Other content related to Internet use,Internet use
+2206,Télécommunications,Telecommunications,Digital economy and society
+2207,Industries de la radiodiffusion et de la télédiffusion,Television and radio industries,Digital economy and society
+2208,Cybersécurité et cybercrime,Cyber security and cybercrime,Digital economy and society
+2209,Commerce électronique,E-commerce,Digital economy and society
+2299,Autre contenu lié à l'Économie et société numériques,Other content related to Digital economy and socie,Digital economy and society
+23,Transport,Transportation,
+2301,Transport aérien,Air transportation,Transportation
+230101,Tarifs aériens,Air fares,Air transportation
+230102,Origine et destination des passagers aériens,Air passenger origin and destination,Air transportation
+230103,Mouvements d'aéronefs,Aircraft movements,Air transportation
+230104,Activité aéroportuaire,Airport activity,Air transportation
+230105,Statistiques financières et d'exploitation de l'aviation,Aviation financial and operating statistics,Air transportation
+230199,Autre contenu lié au Transport aérien,Other content related to Air transportation,Air transportation
+2302,Messageries et services de messagers,Couriers and messengers,Transportation
+2303,Transport ferroviaire,Rail transportation,Transportation
+2304,Transport routier,Road transportation,Transportation
+230401,Industrie du camionnage,Trucking industry,Road transportation
+230402,Véhicules automobiles,Motor vehicles,Road transportation
+230403,Industries du transport de passagers par autobus et du transport,Passenger bus and transit industries,Road transportation
+230404,Passagers-kilomètres,Passenger-kilometres,Road transportation
+230405,Véhicules-kilomètres,Vehicle-kilometres,Road transportation
+230499,Autre contenu lié au Transport routier,Other content related to Road transportation,Road transportation
+2306,Transport maritime,Water transportation,Transportation
+2399,Autre contenu lié au Transport,Other content related to Transportation,Transportation
+24,Voyages et tourisme,Travel and tourism,
+2401,Voyages intérieurs,Domestic travel,Travel and tourism
+2402,Voyages internationaux,International travel,Travel and tourism
+2403,Emploi généré par le tourisme,Tourism employment,Travel and tourism
+2404,Indicateurs du tourisme,Tourism indicators,Travel and tourism
+2405,Caractéristiques des voyages et des voyageurs,Travel and traveller characteristics,Travel and tourism
+2499,Autre contenu lié aux Voyages et le tourisme,Other content related to Travel and tourism,Travel and tourism
+25,Énergie,Energy,
+2502,Disponibilité et utilisation d'énergie,Energy supply and use,Energy
+2504,Électricité et énergie renouvelable,Electricity and renewable energy,Energy
+2506,Oléoducs,Pipelines,Energy
+2507,Énergies fossiles,Fossil fuels,Energy
+250701,Charbon,Coal,Fossil fuels
+250702,Pétrole brut et gaz naturel,Crude oil and natural gas,Fossil fuels
+250703,Produits pétroliers,Petroleum products,Fossil fuels
+250799,Autre contenu lié aux Énergies fossiles,Other content related to Fossil fuels,Fossil fuels
+2599,Autre contenu lié à l'Énergie,Other content related to Energy,Energy
+27,Sciences et technologie,Science and technology,
+2701,Biotechnologie et nanotechnologie,Biotechnology and nanotechnology,Science and technology
+2702,Ressources humaines en sciences et technologie,Human resources in science and technology,Science and technology
+2703,Innovation et stratégies d'entreprise,Innovation and business strategy,Science and technology
+270301,Licence de logiciel et utilisation des technologies de pointe,Software licensing and advanced technology use,Innovation and business strategy
+270302,Produits et processus,Products and processes,Innovation and business strategy
+270303,Activités des entreprises et des filiales,Enterprise and subsidiary activities,Innovation and business strategy
+270304,Pratiques organisationnelles et de gestion,Organizational and management practices,Innovation and business strategy
+270305,Activités industrielles,Industrial activities,Innovation and business strategy
+270306,"Brevets, droits d'auteur et marques de commerce","Patents, copyrights and trademarks",Innovation and business strategy
+270399,Autre contenu lié à l'Innovation et les stratégies d'entreprise,Other content related to Innovation and business s,Innovation and business strategy
+2704,Technologies géomatiques et géospatiales,Geomatics and geospatial technologies,Science and technology
+2705,Recherche et développement,Research and development,Science and technology
+270501,Dépenses et activités du secteur institutionnel,Institutional expenditures and activities,Research and development
+270502,Dépenses et activités du secteur privé,Private expenditures and activities,Research and development
+270503,Dépenses et activités du secteur public,Public expenditures and activities,Research and development
+270505,Dépenses et activités du secteur de la santé,Health expenditures and activities,Research and development
+270599,Autre contenu lié à la Recherche et le développement,Other content related to Research and development,Research and development
+2799,Autre contenu lié aux Sciences et la technologie,Other content related to Science and technology,Science and technology
+32,Agriculture et alimentation,Agriculture and food,
+3201,Production végétale,Crop production,Agriculture and food
+320101,Grandes cultures,Field crops,Crop production
+320102,Légumes,Vegetables,Crop production
+320104,"Fruits, petits fruits et noix","Fruits, berries and nuts",Crop production
+320105,"Serres, champignons, pépinières, gazon, érable et arbres de Noël","Greenhouses, mushrooms, nurseries, maple, sod and",Crop production
+320199,Autre contenu lié à la Production végétale,Other content related to Crop production,Crop production
+3202,Entreprise agricole,Farm business,Agriculture and food
+320201,Revenu et dépenses d'exploitation agricole,Farm revenue and expenses,Farm business
+320202,Capital agricole,Farm capital,Farm business
+320204,Revenu agricole et non agricole,Farm and off-farm income,Farm business
+320299,Autre contenu lié à l'Entreprise agricole,Other content related to Farm business,Farm business
+3203,Caractéristiques de la ferme,Farm characteristics,Agriculture and food
+320301,Agriculture biologique et modification génétique,Organic farming and genetic modification,Farm characteristics
+320302,Classification et type de ferme,Farm classification and farm type,Farm characteristics
+320399,Autre contenu lié aux Caractéristiques de la ferme,Other content related to Farm characteristics,Farm characteristics
+3204,Production animale,Animal production,Agriculture and food
+320401,Aquaculture,Aquaculture,Animal production
+320402,Bétail,Cattle,Animal production
+320403,Produits laitiers,Dairy products,Animal production
+320404,Produits de viande,Meat products,Animal production
+320405,Volailles et œufs,Poultry and eggs,Animal production
+320407,"Produits des fourrures, peaux et laine","Fur, pelt and wool products",Animal production
+320408,"Moutons, caprins, chevaux et autres animaux","Sheep, goats, horses and other animals",Animal production
+320409,Porcs,Pigs,Animal production
+320410,Abeilles et miel,Bees and honey,Animal production
+320499,Autre contenu lié à la Production animale,Other content related to Animal production,Animal production
+3205,Alimentation,Food,Agriculture and food
+320501,Production et disponibilité des aliments,Food production and availability,Food
+320502,Régime alimentaire et nutrition,Diet and nutrition,Food
+320503,Fabrication d'aliments,Food manufacturing,Food
+320599,Autre contenu lié à l'Alimentation,Other content related to Food,Food
+3206,Utilisation des terres,Land use,Agriculture and food
+320601,Pratiques environnementales,Environmental practices,Land use
+320604,"Superficie agricole, mode d'occupation et utilisation des terres","Farm area, land tenure and land use",Land use
+320606,Utilisation de l'eau et irrigation,Water use and irrigation,Land use
+320699,Autre contenu lié à l'Utilisation des terres,Other content related to Land use,Land use
+3207,Géographie agricole,Agricultural geography,Agriculture and food
+3208,Population agricole,Farm population,Agriculture and food
+3299,Autre contenu lié à l'Agriculture et l'alimentation,Other content related to Agriculture and food,Agriculture and food
+33,Rendement des entreprises et propriété,Business performance and ownership,
+3301,Dynamique des entreprises,Business dynamics,Business performance and ownership
+330101,Adaptation et ajustement des entreprises,Business adaptation and adjustment,Business dynamics
+330102,"Création, disparitions, fusions et croissance","Entry, exit, mergers and growth",Business dynamics
+330103,Conditions actuelles des entreprises,Current business conditions,Business dynamics
+330104,Profils régionaux et urbains,Regional and urban profiles,Business dynamics
+330105,Petites et moyennes entreprises,Small and medium sized business,Business dynamics
+330199,Autre contenu lié à la Dynamique des entreprises,Other content related to Business dynamics,Business dynamics
+3302,Propriété des entreprises,Business ownership,Business performance and ownership
+330201,Contrôle étranger et canadien,Foreign and domestic control,Business ownership
+330202,Multinationales,Multinationals,Business ownership
+330299,Autre contenu lié à la Propriété des entreprises,Other content related to Business ownership,Business ownership
+3303,États financiers et rendement,Financial statements and performance,Business performance and ownership
+330301,Fiscalité des entreprises,Corporate taxation,Financial statements and performance
+330302,Institutions et intermédiaires financiers,Financial institutions and intermediaries,Financial statements and performance
+330303,Performance financière,Financial performance,Financial statements and performance
+330304,Marchés financiers,Financial markets,Financial statements and performance
+330305,Statistiques d'exploitation,Operating statistics,Financial statements and performance
+330399,Autre contenu lié aux États financiers et le rendement,Other content related to Financial statements and,Financial statements and performance
+3304,Gouvernance et durabilité,Governance and sustainability,Business performance and ownership
+3399,Autre contenu lié au Rendement des entreprises et la propriété,Other content related to Business performance and,Business performance and ownership
+34,Construction,Construction,
+3401,Matériaux de construction,Construction materials,Construction
+3402,Machines et matériel,Machinery and equipment,Construction
+3403,Construction non résidentielle,Non-residential construction,Construction
+3405,Investissements en construction,Investment in construction,Construction
+3406,Valeurs des propriétés,Property values,Construction
+3407,Dépenses en immobilisations et réparations,Capital and repair expenditures,Construction
+3408,Mises en chantier,Housing starts,Construction
+3409,Permis de bâtir,Building permits,Construction
+3410,Infrastructure,Infrastructure,Construction
+3499,Autre contenu lié à la Construction,Other content related to Construction,Construction
+35,Crime et justice,Crime and justice,
+3501,Services correctionnels,Correctional services,Crime and justice
+350101,Services correctionnels pour adultes,Adult correctional services,Correctional services
+350102,Services correctionnels pour jeunes,Youth correctional services,Correctional services
+350199,Autre contenu lié aux Services correctionnels,Other content related to Correctional services,Correctional services
+3502,Tribunaux,Courts,Crime and justice
+350201,Tribunaux criminels pour adultes,Adult criminal courts,Courts
+350202,Tribunaux civils,Civil courts,Courts
+350203,Tribunaux de la jeunesse,Youth courts,Courts
+350204,Aide juridique,Legal aid,Courts
+350299,Autre contenu lié aux Tribunaux,Other content related to Courts,Courts
+3503,Crimes et infractions,Crimes and offences,Crime and justice
+350302,Crimes haineux,Hate crimes,Crimes and offences
+350303,Homicides,Homicides,Crimes and offences
+350304,Agressions sexuelles,Sexual assaults,Crimes and offences
+350305,Taux de criminalité,Crime rates,Crimes and offences
+350306,Indice de gravité de la criminalité,Crime Severity Index,Crimes and offences
+350399,Autre contenu lié aux Crimes et les infractions,Other content related to Crimes and offences,Crimes and offences
+3504,Services de police,Police services,Crime and justice
+3505,Victimisation,Victimization,Crime and justice
+350501,Violence familiale,Family violence,Victimization
+350502,Maisons d'hébergement,Transition homes,Victimization
+350503,Services aux victimes,Victim services,Victimization
+350504,Victimisation des enfants et jeunes,Victimization of children and youth,Victimization
+350505,Victimisation des aînés,Victimization of seniors,Victimization
+350506,Victimisation des femmes,Victimization of women,Victimization
+350599,Autre contenu lié à la Victimisation,Other content related to Victimization,Victimization
+3599,Autre contenu lié au Crime et la justice,Other content related to Crime and justice,Crime and justice
+36,Comptes économiques,Economic accounts,
+3601,Stock et consommation de capital fixe,Stock and consumption of fixed capital,Economic accounts
+3602,Comptes de l'environnement,Environment accounts,Economic accounts
+3603,Finances publiques,Government finance statistics,Economic accounts
+360301,Flux financiers et bilan des administrations publiques,Government financial flows and balance sheets,Government finance statistics
+360302,Recettes et dépenses des administrations publiques,Government revenue and expenditures,Government finance statistics
+360399,Autre contenu lié aux Finances publiques,Other content related to Government finance statis,Government finance statistics
+3604,Comptes internationaux,International accounts,Economic accounts
+360401,Balance des paiements internationaux,Balance of international payments,International accounts
+360402,Bilan des investissements internationaux,International investment position,International accounts
+360403,Commerce international de services,International trade in services,International accounts
+360404,Opérations internationales en valeurs mobilières,International transactions in securities,International accounts
+360405,Investissements de portefeuille à l'étranger,Portfolio investment abroad,International accounts
+360499,Autre contenu lié aux Comptes internationaux,Other content related to International accounts,International accounts
+3605,Comptes nationaux et produit intérieur brut,National accounts and Gross Domestic Product,Economic accounts
+360501,Comptes des flux financiers et du bilan national,Financial flows and national balance sheet account,National accounts and Gross Domestic Product
+360502,Produit intérieur brut en termes de revenus et de dépenses,Gross Domestic Product by income and by expenditur,National accounts and Gross Domestic Product
+360503,Produit intérieur brut par comptes des industries,Gross Domestic Product by industry accounts,National accounts and Gross Domestic Product
+360504,Tableaux des ressources et des emplois,Supply and use tables,National accounts and Gross Domestic Product
+360599,Autre contenu lié aux Comptes nationaux et le produit intérieur brut,Other content related to National accounts and Gro,National accounts and Gross Domestic Product
+3606,Comptes de la productivité,Productivity accounts,Economic accounts
+360601,Productivité du travail,Labour productivity,Productivity accounts
+360602,Productivité multifactorielle,Multifactor productivity,Productivity accounts
+360699,Autre contenu lié aux Comptes de la productivité,Other content related to Productivity accounts,Productivity accounts
+3607,Parités de pouvoir d'achat,Purchasing power parities,Economic accounts
+3608,Comptes satellites,Satellite accounts,Economic accounts
+360801,Compte satellite de la culture,Culture accounts,Satellite accounts
+360802,Compte satellite des pensions,Pension accounts,Satellite accounts
+360803,Compte satellite du tourisme,Tourism accounts,Satellite accounts
+360804,Économie souterraine,Underground economy,Satellite accounts
+360805,Compte satellite des ressources naturelles,Natural resources accounts,Satellite accounts
+360806,Compte satellite du cannabis,Cannabis accounts,Satellite accounts
+360899,Autre contenu lié aux Comptes satellites,Other content related to Satellite accounts,Satellite accounts
+3699,Autre contenu lié aux Comptes économiques,Other content related to Economic accounts,Economic accounts
+37,"Éducation, formation et apprentissage","Education, training and learning",
+3701,Apprentissage des adultes,Adult learning,"Education, training and learning"
+3702,Ressources financières investies dans l'éducation,Financial resources invested in education,"Education, training and learning"
+370201,Ressources financières investies dans l'enseignement primaire et secondaire,Financial resources invested in elementary and sec,Financial resources invested in education
+370202,Ressources financières investies dans l'enseignement postsecondaire,Financial resources invested in postsecondary educ,Financial resources invested in education
+370299,Autre contenu lié aux Ressources financières investies dans l'éducation,Other content related to Financial resources inves,Financial resources invested in education
+3703,Indicateurs de l'éducation,Education indicators,"Education, training and learning"
+370301,"Caractéristiques de la population d'âge scolaire, indicateurs","Characteristics of the school-age population, indi",Education indicators
+370302,"Études primaires et secondaires, indicateurs","Elementary and secondary education, indicators",Education indicators
+370303,"Financement des systèmes d'éducation, indicateurs","Financing of education systems, indicators",Education indicators
+370304,"Études postsecondaires, indicateurs","Postsecondary education, indicators",Education indicators
+370305,"Transitions et résultats, indicateurs","Transitions and outcomes, indicators",Education indicators
+370399,Autres indicateurs de l'éducation,Other education indicators,Education indicators
+3704,Niveau de scolarité et qualifications,Educational attainment and qualifications,"Education, training and learning"
+3707,Littératie,Literacy,"Education, training and learning"
+3708,Éducation et résultats sur le marché du travail,Education and labour market outcomes,"Education, training and learning"
+3711,Apprentis et métiers,Apprenticeship and trades,"Education, training and learning"
+3712,Éducation de la petite enfance,Early childhood education,"Education, training and learning"
+3714,Études primaires et secondaires,Elementary and secondary education,"Education, training and learning"
+371401,"Effectifs et fréquentation scolaire, études primaires et secondaires","Enrolments and attendance, elementary and secondar",Elementary and secondary education
+371402,"Diplômés, études primaires et secondaires","Graduates, elementary and secondary",Elementary and secondary education
+371403,Enseignants et éducateurs,Teachers and educators,Elementary and secondary education
+371499,Autre contenu lié aux Études primaires et secondaires,Other content related to Elementary and secondary,Elementary and secondary education
+3715,Études postsecondaires,Postsecondary education,"Education, training and learning"
+371501,"Effectifs et fréquentation scolaire, études postsecondaires","Enrolments and attendance, postsecondary",Postsecondary education
+371502,Corps professoral et enseignants,Faculty and teachers,Postsecondary education
+371503,Domaines d'études,Field of study,Postsecondary education
+371504,"Diplômés, études postsecondaires","Graduates, postsecondary",Postsecondary education
+371505,Lieu des études,Location of study,Postsecondary education
+371506,Aide financière aux études et endettement étudiant,Student financial assistance and debt,Postsecondary education
+371508,Frais de scolarité et autres frais,Tuition and other fees,Postsecondary education
+371599,Autre contenu lié aux Études postsecondaires,Other content related to Postsecondary education,Postsecondary education
+3716,Cheminement des étudiants,Student pathways,"Education, training and learning"
+3799,"Autre contenu lié à l'Éducation, la formation et l'apprentissage","Other content related to Education, training and l","Education, training and learning"
+38,Environnement,Environment,
+3801,Air et climat,Air and climate,Environment
+3802,Qualité de l'environnement,Environmental quality,Environment
+3803,Protection de l'environnement,Environmental protection,Environment
+3804,Ressources naturelles,Natural resources,Environment
+380403,Terres et forêts,Land and forests,Natural resources
+380404,Eau,Water,Natural resources
+380405,Ressources énergétiques et minérales,Energy and mineral resources,Natural resources
+380499,Autre contenu lié aux Ressources naturelles,Other content related to Natural resources,Natural resources
+3807,Pollution et déchets,Pollution and waste,Environment
+380701,Accidents impliquant des marchandises dangereuses,Accidents involving dangerous goods,Pollution and waste
+380703,Gaz à effet de serre,Greenhouse gases,Pollution and waste
+380704,Gestion des déchets,Waste management,Pollution and waste
+380799,Autre contenu lié à la Pollution et les déchets,Other content related to Pollution and waste,Pollution and waste
+3808,Pratiques environnementales des ménages,Household environmental practices,Environment
+3809,Profils d'écorégions,Ecoregion profiles,Environment
+3810,Désastres naturels,Natural disasters,Environment
+3811,Flore et faune,Flora and fauna,Environment
+3899,Autre contenu lié à l'Environnement,Other content related to Environment,Environment
+39,"Familles, ménages et état matrimonial","Families, households and marital status",
+3901,Divorce et séparation,Divorce and separation,"Families, households and marital status"
+3902,Familles,Families,"Families, households and marital status"
+3903,Ménages,Households,"Families, households and marital status"
+3905,Particuliers,Individuals,"Families, households and marital status"
+3906,Mariage et union libre,Marriage and common-law unions,"Families, households and marital status"
+3999,"Autre contenu lié aux Familles, ménages et état matrimonial","Other content related to Families, households and","Families, households and marital status"
+41,Peuples autochtones,Indigenous peoples,
+4101,Caractéristiques démographiques et groupes autochtones,Demographic characteristics and Indigenous groups,Indigenous peoples
+4102,"Éducation, apprentissage et compétences","Education, learning and skills",Indigenous peoples
+4103,Santé et bien-être,Health and well-being,Indigenous peoples
+4104,Criminalité et victimisation,Crime and victimization,Indigenous peoples
+4105,Langues et cultures,Language and culture,Indigenous peoples
+4106,Situation des particuliers et logement,Living arrangements and housing,Indigenous peoples
+4107,Travail et emploi,Labour and employment,Indigenous peoples
+4108,Revenu et dépenses,Income and spending,Indigenous peoples
+4109,Profils de la population autochtone,Indigenous population profiles,Indigenous peoples
+4110,Enfants autochtones,Indigenous children,Indigenous peoples
+4199,Autre contenu lié aux Peuples autochtones,Other content related to Indigenous peoples,Indigenous peoples
+42,Enfants et jeunes,Children and youth,
+4201,Développement et comportement de l'enfant,Child development and behaviour,Children and youth
+420101,Comportements de santé chez les jeunes,Healthy behaviours among youth,Child development and behaviour
+420102,Comportements à risque chez les jeunes,Risk behaviours among youth,Child development and behaviour
+420103,Autoperceptions chez les jeunes,Self-perceptions among youth,Child development and behaviour
+420104,Vie familiale chez les jeunes,Home life among youth,Child development and behaviour
+420199,Autre contenu lié au Développement et le comportement de l'enfant,Other content related to Child development and beh,Child development and behaviour
+4202,Éducation,Education,Children and youth
+4203,Santé des enfants et des jeunes,Health of children and youth,Children and youth
+4204,Enfants et jeunes immigrants,Immigrant children and youth,Children and youth
+4205,Activités sur le marché du travail pour les jeunes,Labour market activities for youth,Children and youth
+4206,Familles à faible revenu,Low income families,Children and youth
+4209,Violence chez les enfants et les jeunes,Violence among children and youth,Children and youth
+4210,Soins aux enfants,Child care,Children and youth
+4211,Crime et justice chez les jeunes,Youth crime and justice,Children and youth
+4213,Présence d'enfants à la maison,Children at home,Children and youth
+4299,Autre contenu lié aux Enfants et les jeunes,Other content related to Children and youth,Children and youth
+43,Immigration et diversité ethnoculturelle,Immigration and ethnocultural diversity,
+4301,Citoyenneté,Citizenship,Immigration and ethnocultural diversity
+4303,Générations d'immigrants,Immigrant generations,Immigration and ethnocultural diversity
+4305,Immigrants et résidents non permanents,Immigrants and non-permanent residents,Immigration and ethnocultural diversity
+430501,"Éducation, formation et compétences","Education, training and skills",Immigrants and non-permanent residents
+430502,Familles et ménages,Families and households,Immigrants and non-permanent residents
+430503,Santé et bien-être des immigrants,Health and well-being of immigrants,Immigrants and non-permanent residents
+430504,Travail et revenu,Labour and income,Immigrants and non-permanent residents
+430506,Langues des immigrants,Languages of immigrants,Immigrants and non-permanent residents
+430507,"Population, démographie et lieu de naissance","Population, demography and place of birth",Immigrants and non-permanent residents
+430508,Statut d'immigration et période d'immigration,Immigration status and period of immigration,Immigrants and non-permanent residents
+430599,Autre contenu lié aux Immigrants et les résidents non permanents,Other content related to Immigrants and non-perman,Immigrants and non-permanent residents
+4308,Minorités visibles,Visible minorities,Immigration and ethnocultural diversity
+4309,Origine ethnique,Ethnicity,Immigration and ethnocultural diversity
+4310,Appartenance religieuse,Religious affiliation,Immigration and ethnocultural diversity
+4399,Autre contenu relié à l'Immigration et la diversité ethnoculturelle,Other content related to Immigration and ethnocult,Immigration and ethnocultural diversity
+44,Aînés et vieillissement,Seniors and aging,
+4401,Santé et incapacité chez les aînés,Health and disability among seniors,Seniors and aging
+4402,"Revenu, pension et patrimoine","Income, pensions and wealth",Seniors and aging
+4403,Travail et retraite,Work and retirement,Seniors and aging
+4404,Soins et soutien social,Care and social support,Seniors and aging
+4405,Victimisation et abus envers les aînés,Elder abuse and victimization,Seniors and aging
+4406,Logement et caractéristiques familiales et du ménage des aînés,Housing and family and household characteristics o,Seniors and aging
+4499,Autre contenu lié aux Aînés et le vieillissement,Other content related to Seniors and aging,Seniors and aging
+45,Société et communauté,Society and community,
+4501,Religion,Religion,Society and community
+4502,Canada rural,Rural Canada,Society and community
+4503,Participation communautaire,Civic participation,Society and community
+4504,Emploi du temps,Time use,Society and community
+4505,Don et bénévolat,Volunteering and donating,Society and community
+4506,Femmes et rapports entre les sexes,Women and gender,Society and community
+4507,Égalité et inclusion,Equity and inclusion,Society and community
+4508,Réseaux sociaux et personnels,Social and personal networks,Society and community
+4509,Cannabis,Cannabis,Society and community
+4510,Coronavirus,Coronavirus,Society and community
+451001,Maladie à coronavirus,Coronavirus disease,Coronavirus
+451002,Impacts de COVID-19 sur le travail,Labour impacts of COVID-19,Coronavirus
+451003,Impacts économiques de COVID-19,Economic impacts of COVID-19,Coronavirus
+451004,Impacts sociaux de COVID-19,Social impacts of COVID-19,Coronavirus
+451099,Autre contenue lié au Coronavirus,Other content related to Coronavirus,Coronavirus
+4599,Autre contenu lié à la Société et la communauté,Other content related to Society and community,Society and community
+46,Logement,Housing,
+4601,Caractéristiques du logement,Dwelling characteristics,Housing
+4602,Coût de l'habitation et abordabilité du logement,Housing costs and affordability,Housing
+4603,Indices des prix des logements,Housing price indexes,Housing
+4604,Logement et situation dans le ménage,Housing and living arrangements,Housing
+4605,Construction résidentielle et investissements,Residential construction and investment,Housing
+4606,Taux d'inoccupation,Vacancy rates,Housing
+4699,Autre contenu lié au Logement,Other content related to Housing,Housing
+98,Recensement,Census,
