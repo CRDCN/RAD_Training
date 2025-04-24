@@ -7,7 +7,7 @@ header-includes:
 output: 
  beamer_presentation:
   includes: 
-    in_header: Content/CRDCNtheme.tex
+    in_header: content/CRDCNtheme.tex
     slide_level: 2
     fig_caption: FALSE
 ---
@@ -27,7 +27,7 @@ output:
 ## Data lifecycle
 
 - image of data lifecycle & description
-![“Data Lifecycle model” by University of Wisconsin Data Governance Program. Updated Aug 9, 2022. License: CC-BY-NC 4.0.]("../content/research_data_lifecycle.png")
+![“Data Lifecycle model” by University of Wisconsin Data Governance Program. Updated Aug 9, 2022. License: CC-BY-NC 4.0.]("./content/research_data_lifecycle.png")
 
 ## Targets
 - FAIR data
