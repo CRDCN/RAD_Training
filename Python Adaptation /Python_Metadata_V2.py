@@ -22,9 +22,48 @@ import_df['splitsubs'] = import_df['Subjects'].str.split('>')
 #import_df['splitsubs'] = import_df['splitsubs'].apply(lambda x: [subject.strip() for subject in x])
 
 # Function to clean the subjects by removing everything after a pipe character
+
+"""
 def cls(subjectlist):
     cleaned = [subject.split('|')[0] for subject in subjectlist]
     return cleaned
+"""
+
+count = 0
+list_count = 0
+merged_list = []
+
+while count != (len(df['splitsubs'])):
+    
+    if list_count == len(df['splitsubs'][count]):
+        
+        for i in df['splitsubs'][count]:
+            if isinstance(i, list):
+                merged_list.extend(i)
+            
+            else:
+                merged_list.append(i)
+                
+        df['splitsubs'][count] = merged_list
+        count += 1
+        list_count = 0
+        merged_list = []
+    
+    elif '|' in df['splitsubs'][count][list_count]:
+        
+        df['splitsubs'][count][list_count] = df['splitsubs'][count][list_count].split('|')
+        list_count += 1
+    
+    else:
+        list_count += 1
+
+
+
+
+
+
+
+
 
 # Function to concatenate the cleaned subjects into a single string separated by semicolons
 def cct(vec):

@@ -40,22 +40,55 @@ df['splitsubs'] = df['Subjects'].str.split('>')
 
 count = 0
 list_count = 0
+merged_list = []
+
+# Second clean up to remove | symbols
 
 while count != (len(df['splitsubs'])):
     
     if list_count == len(df['splitsubs'][count]):
+        
+        for i in df['splitsubs'][count]:
+            if isinstance(i, list):
+                merged_list.extend(i)
+            
+            else:
+                merged_list.append(i)
+                
+        df['splitsubs'][count] = merged_list
         count += 1
         list_count = 0
+        merged_list = []
     
     elif '|' in df['splitsubs'][count][list_count]:
+        
         df['splitsubs'][count][list_count] = df['splitsubs'][count][list_count].split('|')
         list_count += 1
     
     else:
         list_count += 1        
 
-   
 print(df['splitsubs'])
+# Third clean up to concatenate lists
+count = 0
+"""
+
+while count != (len(df['splitsubs'])):
+    print(['splitsubs'][count])
+    count += 1
+    
+    """
+    
+    
+    #if type(df['splitsubs'][count]) == list:
+    #    df['splitsubs'][count] = sum(df['splitsubs'][count], [])
+    #    count += 1
+    
+    #else:
+    #    count += 1
+
+   
+
  
   
   
