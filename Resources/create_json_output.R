@@ -2,7 +2,7 @@
 
 ##read in the data, with the foreign library, many different types of data can be read in. Our export type here is a .csv (comma separated value). A very common format for text-data
 library(foreign)
-import<-read.csv("F:/CRDCN data/lunaris_transform/Data/2025_03_27_WPDATA.csv")
+import<-read.csv("/Users/thierryletendre/Desktop/CRDCN/RAD_Training/Resources/Data/2025_03_27_WPDATA.csv")
 
 ##This is where we begin to transform our output file to match the Schema provided by Lunaris
 library(dplyr)

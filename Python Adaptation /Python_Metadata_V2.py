@@ -84,9 +84,8 @@ df = text_to_columns(df, "Subjects")
 
 
 
-"""
 # Read the translations CSV file (adjust the file path as needed)
-translations_path = "F:/CRDCN data/lunaris_transform/Data/subject_translations.csv"
+translations_path = "/Users/thierryletendre/Desktop/CRDCN/RAD_Training/Resources/Data/subject_translations.csv"
 subjectsdata = pd.read_csv(translations_path)
 
 # Function to translate subjects
@@ -106,6 +105,10 @@ def translate_subject(subject, translations):
         else:
             return np.nan
 
+
+
+#Translating column names
+
 # Function to translate columns
 # Create the list of columns to translate
 # Apply the translations to all the columns
@@ -113,30 +116,39 @@ def translate_columns(data, translations):
     subj_cols = [col for col in data.columns if col.startswith("subjen_")]
     
     for column in subj_cols:
-        data[f"{column}_fr"] = data[column].apply(lambda x: translate_subject(x, translations))
+        data[f"{column}_fr"] = data[column].apply(lambda x: 
+                                                  translate_subject(x, translations))
         
         return data
 
 # Apply the translate_columns function
-import_df = translate_columns(import_df, subjectsdata)
+df = translate_columns(df, subjectsdata)
 
 # Combine translated subjects into a single column
-fr_cols = [col for col in import_df.columns if col.endswith("_fr")]
-import_df['subjects_fr'] = import_df[fr_cols].apply(lambda row: '; '.join(row.dropna()), axis=1)
+fr_cols = [col for col in df.columns if col.endswith("_fr")]
+df['subjects_fr'] = df[fr_cols].apply(lambda row: '; '.join(row.dropna()), axis=1)
+
 
 # Create keywords from various fields in the data
-import_df['keywords.en'] = ""
-import_df['keywords.fr'] = ""
+df['keywords.en'] = ""
+df['keywords.fr'] = ""
 
-import_df['keywords.en'] = import_df.apply(lambda row: list(set([row['Acronym']] + [row[f"subjen_{i}"] for i in range(1, 14) if pd.notna(row[f"subjen_{i}"])])), axis=1)
-import_df['keywords.fr'] = import_df.apply(lambda row: list(set(["CDR"] + [row['Acronym.French']] + [row[f"subjen_{i}_fr"] for i in range(1, 14) if pd.notna(row[f"subjen_{i}_fr"])])), axis=1)
-
-
-
-
+df['keywords.en'] = df.apply(lambda row: 
+                             list(set([row['Acronym']] + 
+                                      [row[f"subjen_{i}"] for i in range(1, 14) 
+                                       if pd.notna(row[f"subjen_{i}"])])), axis=1)
 
 
+df['keywords.fr'] = df.apply(lambda row: 
+                             list(set(["CDR"] + 
+                                      [row['Acronym French']] + 
+                                      [row[f"subjen_{i}_fr"] for i in range(1, 14) 
+                                       if pd.notna(row[f"subjen_{i}_fr"])])), axis=1)
 
+
+
+
+"""
 
 # Add constant values to specific columns
 import_df['creators.ROR'] = "https://ror.org/05k71ja87"
