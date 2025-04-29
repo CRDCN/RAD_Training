@@ -14,7 +14,7 @@ output:
 
 ## Introduction
 
-= Evolution of data discovery & open science
+- Evolution of data discovery & open science
 - Journal pressures
 - Council pressures
 - University pressures
@@ -26,7 +26,7 @@ output:
 
 ## Data lifecycle
 
-- image of data lifecycle & description
+- Image of data lifecycle & description (credit: University of Wisconsin Data Governance Program)
 ![“Data Lifecycle model” by University of Wisconsin Data Governance Program. Updated Aug 9, 2022. License: CC-BY-NC 4.0.]("./content/research_data_lifecycle.png")
 
 ## Targets
@@ -38,8 +38,11 @@ output:
 - FAIR data
 
 F - [Findable](https://faircookbook.elixir-europe.org/content/recipes/findability.html)
+
 Can others even figure out where the data you used are?
+
 Concepts:
+
 - Persistent Identifiers
 - Indexing
 
@@ -47,8 +50,13 @@ Concepts:
 - FAIR data
 
 A - [Accessible](https://faircookbook.elixir-europe.org/content/recipes/accessibility.html)
-Can others access the data you used? Can they figure out HOW to do so?
+
+Can others access the data you used? 
+
+Can they figure out HOW to do so?
+
 Concepts:
+
 - Data accessibility statement
 - Access metadata
 - Transparent process
@@ -57,7 +65,9 @@ Concepts:
 - FAIR data
 
 I - [Interoperable](https://faircookbook.elixir-europe.org/content/recipes/interoperability.html)
+
 Concepts:
+
 - Machine-readable
 - Metadata
 - Control vocabularies
@@ -66,6 +76,7 @@ Concepts:
 - FAIR data
 
 R - [Reuseable](https://faircookbook.elixir-europe.org/content/recipes/reusability.html) 
+
 Concepts:
 - Provenance
 - Licensing
@@ -106,14 +117,14 @@ Concepts:
 
 ## Reusability
 - Data often belong to an organization and so don't suffer the same risks that data held by individuals do
-- Similar to Interoperability/Findability issues though, improper data management makes data less reusable.
+- Similar to Interoperability/Findability issues though, improper data management makes data less reusable
 
 ## What would success look like? (GA)
 
 ## What gets us there?
 - [Data management planning](https://dmp-pgd.ca/)
-- Consider what anyone following on from you will be starting from. Everything that got you from that step to another point becomes part of your research data.
-- Not every part of the project data will therefore be restricted.
+- Consider what anyone following on from you will be starting from. Everything that got you from that step to another point becomes part of your research data
+- Not every part of the project data will therefore be restricted and you need to plan for that
 
 ## What gets us there?
 - Data accessibility statements
@@ -123,7 +134,7 @@ Concepts:
 ## Data Accessibility Statements
 - Thorough description of the access process, links to info, financing considerations, and licensing info/terms-of-use.
 - "Access available on request" NOT sufficient
-- Encourage data source to template this language! If no, DIY with review.
+- Encourage data source to template this language! If no, DIY with review
 
 ## Data discovery efforts
 - Any datasource can now be indexed in Lunaris relatively easily.
@@ -132,8 +143,10 @@ Concepts:
 
 ## Preservation efforts
 - If a datasource overwrites my data with a new copy and doesn't say anything then someone trying to recreate my work will be very confused at best
-- Ideally new versions get new PIDs and older versions point to the newest.
+- Ideally new versions get new PIDs and older versions point to the newest
 - Frequency of versioning will depend on frequency of access and preferences of organizations. 
 
-## Test
-- Test
+## How do I talk to my data source?
+- Raise the issue
+- Highlight the benefits
+- Point to resources
