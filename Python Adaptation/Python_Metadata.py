@@ -32,8 +32,82 @@ df.rename(columns = {"title.fr": "Dataset Title (French)",
 # The way the data is organised, they are split by ">" and "|", and other symbols. 
 # These represent the hierarchal nature of these subjects. 
 # The following code is used to remove the hierarchal symbology.
- 
+
+df.fillna('', inplace=True)
+
 df['splitsubs'] = df['Subjects'].str.split('>')
+
+
+count = 0
+list_count = 0
+
+while count != (len(df['splitsubs'])):
+    
+    if list_count == len(df['splitsubs'][count]):
+        count += 1
+        list_count = 0
+    
+    elif '|' in df['splitsubs'][count][list_count]:
+        df['splitsubs'][count][list_count] = df['splitsubs'][count][list_count].split('|')
+        list_count += 1
+    
+    else:
+        list_count += 1        
+
+   
+print(df['splitsubs'])
+ 
+  
+  
+""" 
+  if "|" in df['splitsubs'][count][list_count]:
+    df['Subjects'][count][list_count].split('|')
+    
+    
+    
+    print("yes")
+    
+    count += 1
+    
+
+
+#for i in df['splitsubs'][1][:]:
+  #  print(i)
+
+
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+x = "the|dumb|dog"
+
+
+if "|" in x:
+    y = x.split('|')
+ 
+print(y)
+
+
+
+
+
 
 def cls(subjectlist):
     cleaned = [subject.split('|')[0] for subject in subjectlist]
@@ -46,8 +120,6 @@ print(df)
 
 #print(df['cleaned'].to_string())
 
-
-"""
 for i in df['Subjects']:
   if type(i) == str:
     f = i.split('>')

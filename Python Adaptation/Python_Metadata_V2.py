@@ -5,24 +5,21 @@ import pandas as pd
 import numpy as np
 
 # Read the CSV file (adjust the file path as needed)
-file_path = "/path/to/your/2025_03_27_WPDATA.csv"
+file_path = "/Users/thierryletendre/Desktop/CRDCN/RAD_Training/Resources/Data/2025_03_27_WPDATA.csv"
 import_df = pd.read_csv(file_path)
 
 # Rename columns
-import_df = import_df.rename(columns={
-    'Dataset.Title..French.': 'title.fr',
-    'Title': 'title.en',
-    'Summary.French': 'summary.fr',
-    'Summary': 'summary.en',
-    'Permalink': 'url',
-    'Dataset.ID': 'identifier'
-})
+import_df = import_df.rename(columns = {"title.fr": "Dataset Title (French)", 
+                     "title.en": "Title", "summary.fr": "Summary French",
+                     "summary.en": "Summary", "url": "Permalink",
+                     "identifier": "Dataset ID"
+                     })
 
 # Split the 'Subjects' column by '>'
 import_df['splitsubs'] = import_df['Subjects'].str.split('>')
 
 # Trim whitespace from each subject
-import_df['splitsubs'] = import_df['splitsubs'].apply(lambda x: [subject.strip() for subject in x])
+#import_df['splitsubs'] = import_df['splitsubs'].apply(lambda x: [subject.strip() for subject in x])
 
 # Function to clean the subjects by removing everything after a pipe character
 def cls(subjectlist):
