@@ -1,79 +1,65 @@
 # Whatever chat GPT spat out
 
-
+import os
 import pandas as pd
 import numpy as np
 
 # Read the CSV file (adjust the file path as needed)
-file_path = "/Users/thierryletendre/Desktop/CRDCN/RAD_Training/Resources/Data/2025_03_27_WPDATA.csv"
-import_df = pd.read_csv(file_path)
+path = "/Users/thierryletendre/Desktop/CRDCN/RAD_Training/Resources/Data"
+os.chdir(path)
 
-# Rename columns
-import_df = import_df.rename(columns = {"title.fr": "Dataset Title (French)", 
+# Setting up the dataset as a dataframe, will allow for editing
+data = pd.read_csv('2025_03_27_WPDATA.csv')
+df = pd.DataFrame(data)
+
+# This line of code can be used to see the entire dataset in the shell.
+#print(df.to_string())
+
+#Renaming column names
+df.rename(columns = {"title.fr": "Dataset Title (French)", 
                      "title.en": "Title", "summary.fr": "Summary French",
                      "summary.en": "Summary", "url": "Permalink",
-                     "identifier": "Dataset ID"
-                     })
+                     "identifier": "Dataset ID"}, inplace = True)
 
-# Split the 'Subjects' column by '>'
-import_df['splitsubs'] = import_df['Subjects'].str.split('>')
 
-# Trim whitespace from each subject
-#import_df['splitsubs'] = import_df['splitsubs'].apply(lambda x: [subject.strip() for subject in x])
+# The way the data is organised, they are split by ">" and "|", and other symbols. 
+# These represent the hierarchal nature of these subjects. 
+# The following code is used to remove the hierarchal symbology.
 
-# Function to clean the subjects by removing everything after a pipe character
+df.fillna('', inplace=True)
 
-"""
-def cls(subjectlist):
-    cleaned = [subject.split('|')[0] for subject in subjectlist]
-    return cleaned
-"""
+df['Subjects'] = df['Subjects'].str.split('>')
+
 
 count = 0
 list_count = 0
 merged_list = []
 
-while count != (len(df['splitsubs'])):
+while count != (len(df['Subjects'])):
     
-    if list_count == len(df['splitsubs'][count]):
+    if list_count == len(df['Subjects'][count]):
         
-        for i in df['splitsubs'][count]:
+        for i in df['Subjects'][count]:
             if isinstance(i, list):
                 merged_list.extend(i)
             
             else:
                 merged_list.append(i)
-                
-        df['splitsubs'][count] = merged_list
+        
+        concatenation = "; ".join(merged_list)
+        df['Subjects'][count] = concatenation
         count += 1
         list_count = 0
         merged_list = []
     
-    elif '|' in df['splitsubs'][count][list_count]:
+    elif '|' in df['Subjects'][count][list_count]:
         
-        df['splitsubs'][count][list_count] = df['splitsubs'][count][list_count].split('|')
+        df['Subjects'][count][list_count] = df['Subjects'][count][list_count].split('|')
         list_count += 1
     
     else:
-        list_count += 1
+        list_count += 1 
 
-
-
-
-
-
-
-
-
-# Function to concatenate the cleaned subjects into a single string separated by semicolons
-def cct(vec):
-    return '; '.join(vec)
-
-# Apply the cleaning function
-import_df['splitsubs'] = import_df['splitsubs'].apply(cls)
-
-# Apply the concatenation function
-import_df['subjects_en'] = import_df['splitsubs'].apply(cct)
 
 # Function to split the concatenated subjects into multiple columns
 # Split the string in the specified column by semicolon and whitespace
@@ -91,8 +77,14 @@ def text_to_columns(data, column):
     return data
 
 # Apply the text_to_columns function
-import_df = text_to_columns(import_df, "subjects_en")
+df = text_to_columns(df, "Subjects")
 
+
+
+
+
+
+"""
 # Read the translations CSV file (adjust the file path as needed)
 translations_path = "F:/CRDCN data/lunaris_transform/Data/subject_translations.csv"
 subjectsdata = pd.read_csv(translations_path)
@@ -222,3 +214,5 @@ output_path = "F:/CRDCN data/lunaris_transform/Data/json_dictionary"
 
 with open(output_path, 'w', encoding='utf-8') as f:
     f.write(json_output)
+
+"""

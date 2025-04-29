@@ -42,8 +42,6 @@ count = 0
 list_count = 0
 merged_list = []
 
-# Second clean up to remove | symbols
-
 while count != (len(df['splitsubs'])):
     
     if list_count == len(df['splitsubs'][count]):
@@ -54,8 +52,9 @@ while count != (len(df['splitsubs'])):
             
             else:
                 merged_list.append(i)
-                
-        df['splitsubs'][count] = merged_list
+        
+        concatenation = "; ".join(merged_list)
+        df['splitsubs'][count] = concatenation
         count += 1
         list_count = 0
         merged_list = []
@@ -68,7 +67,7 @@ while count != (len(df['splitsubs'])):
     else:
         list_count += 1        
 
-print(df['splitsubs'])
+print(df['splitsubs'].to_string())
 # Third clean up to concatenate lists
 count = 0
 """
