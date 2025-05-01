@@ -47,7 +47,7 @@ text_to_columns <- function(data, column) {
 import<-text_to_columns(import,"subjects_en")
 
 ## insheet the dataframe of translations
-subjectsdata<-read.csv("F:/CRDCN data/lunaris_transform/Data/subject_translations.csv")
+subjectsdata<-read.csv("/Users/thierryletendre/Desktop/CRDCN/RAD_Training/Resources/Data/subject_translations.csv")
 translate_subject <- function(subject, translations) {
   if (length(subject) > 1) {
     translated_subjects <- map_chr(subject, ~ {
@@ -215,4 +215,4 @@ json_ex<-lapply(1:nrow(export), function(i) datacite_conversion(export[i,]))
 
 json_output<-toJSON(json_ex, pretty=TRUE, auto_unbox= TRUE)
 
-write(json_output, file="F:/CRDCN data/lunaris_transform/Data/json_dictionary")
+write(json_output, file="/Users/thierryletendre/Desktop/CRDCN/RAD_Training/Resources/Data/JSON_R_output.py")

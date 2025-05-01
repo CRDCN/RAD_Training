@@ -1,6 +1,7 @@
 # Whatever chat GPT spat out
 
 import os
+import json
 import pandas as pd
 import numpy as np
 
@@ -72,7 +73,7 @@ def text_to_columns(data, column):
     
     for i in range(1, max_elements + 1):
         new_column_name = f"subjen_{i}"
-        data[new_column_name] = split_columns.apply(lambda x: x[i-1].strip() if len(x) >= i else None)
+        data[new_column_name] = split_columns.apply(lambda x: x[i-1].strip() if len(x) >= i else "")
     
     return data
 
@@ -87,6 +88,8 @@ df = text_to_columns(df, "Subjects")
 # Read the translations CSV file (adjust the file path as needed)
 translations_path = "/Users/thierryletendre/Desktop/CRDCN/RAD_Training/Resources/Data/subject_translations.csv"
 subjectsdata = pd.read_csv(translations_path)
+
+
 
 # Function to translate subjects
 def translate_subject(subject, translations):
@@ -110,23 +113,36 @@ def translate_subject(subject, translations):
 #Translating column names
 
 # Function to translate columns
-# Create the list of columns to translate
-# Apply the translations to all the columns
+
 def translate_columns(data, translations):
-    subj_cols = [col for col in data.columns if col.startswith("subjen_")]
     
+    # Create the list of columns to translate
+    global subj_cols
+    subj_cols = [col for col in data.columns if col.startswith("subjen_")]
+
+
+    # Apply the translations to all the columns
     for column in subj_cols:
         data[f"{column}_fr"] = data[column].apply(lambda x: 
                                                   translate_subject(x, translations))
         
-        return data
+    return data
+
+
 
 # Apply the translate_columns function
 df = translate_columns(df, subjectsdata)
 
+
+# Replacing empty strings with NaN values to facilitate concatenation
+df = df.replace('', np.nan)
+df['subjects_en'] = df[subj_cols].apply(lambda row: '; '.join(row.dropna()), axis=1)
+
+
 # Combine translated subjects into a single column
 fr_cols = [col for col in df.columns if col.endswith("_fr")]
 df['subjects_fr'] = df[fr_cols].apply(lambda row: '; '.join(row.dropna()), axis=1)
+
 
 
 # Create keywords from various fields in the data
@@ -139,6 +155,8 @@ df['keywords.en'] = df.apply(lambda row:
                                        if pd.notna(row[f"subjen_{i}"])])), axis=1)
 
 
+# problem here seems to be specifically the _fr
+
 df['keywords.fr'] = df.apply(lambda row: 
                              list(set(["CDR"] + 
                                       [row['Acronym French']] + 
@@ -147,28 +165,29 @@ df['keywords.fr'] = df.apply(lambda row:
 
 
 
-
-"""
-
 # Add constant values to specific columns
-import_df['creators.ROR'] = "https://ror.org/05k71ja87"
-import_df['creators.en'] = "Statistics Canada"
-import_df['creators.fr'] = "Statistique Canada"
-import_df['contributors.ROR'] = "https://ror.org/0042y9w49"
-import_df['contributors.en'] = "Canadian Research Data Centre Network"
-import_df['contributors.fr'] = "Réseau canadien de centre de données de recherche"
-import_df['publisher.ROR'] = "https://ror.org/05k71ja87"
-import_df['publisher.en'] = "Statistics Canada"
-import_df['publisher.fr'] = "Statistique Canada"
-import_df['rights.en'] = "Access to data is restricted to researchers with approved projects working on RDC (Research Data Centre) infrastructure. For instructions on how to apply, please visit: https://crdcn.ca/publications-data/access-crdcn-data/. Output released from the RDC is subject to the Statistics Canada Open License available at [http://www.statcan.gc.ca/eng/reference/licence-eng]. The raw data may not be copied or shared."
-import_df['rights.fr'] = "L'accès aux données est réservé aux chercheurs dont les projets sont approuvés et qui travaillent avec l'infrastructure du CDR (Centre de données de recherche). Pour obtenir des instructions sur la manière de soumettre une proposition, veuillez consulter le site : https://crdcn.ca/publications-data/acceder-aux-donnees-des-cdr/?lang=fr. Les résultats provenant du CDR sont sous la licence ouverte de Statistique Canada disponible à l'adresse suivante : [https://www.statcan.gc.ca/fr/reference/licence]. Les données brutes ne peuvent être ni copiées ni partagées."
-import_df['series.en'] = "RDC Masterfiles"
-import_df['series.fr'] = "Fichiers-maîtres du CDR"
-import_df['access'] = "Restricted"
+df['creators.ROR'] = "https://ror.org/05k71ja87"
+df['creators.en'] = "Statistics Canada"
+df['creators.fr'] = "Statistique Canada"
+df['contributors.ROR'] = "https://ror.org/0042y9w49"
+df['contributors.en'] = "Canadian Research Data Centre Network"
+df['contributors.fr'] = "Réseau canadien de centre de données de recherche"
+df['publisher.ROR'] = "https://ror.org/05k71ja87"
+df['publisher.en'] = "Statistics Canada"
+df['publisher.fr'] = "Statistique Canada"
+df['rights.en'] = "Access to data is restricted to researchers with approved projects working on RDC (Research Data Centre) infrastructure. For instructions on how to apply, please visit: https://crdcn.ca/publications-data/access-crdcn-data/. Output released from the RDC is subject to the Statistics Canada Open License available at [http://www.statcan.gc.ca/eng/reference/licence-eng]. The raw data may not be copied or shared."
+df['rights.fr'] = "L'accès aux données est réservé aux chercheurs dont les projets sont approuvés et qui travaillent avec l'infrastructure du CDR (Centre de données de recherche). Pour obtenir des instructions sur la manière de soumettre une proposition, veuillez consulter le site : https://crdcn.ca/publications-data/acceder-aux-donnees-des-cdr/?lang=fr. Les résultats provenant du CDR sont sous la licence ouverte de Statistique Canada disponible à l'adresse suivante : [https://www.statcan.gc.ca/fr/reference/licence]. Les données brutes ne peuvent être ni copiées ni partagées."
+df['series.en'] = "RDC Masterfiles"
+df['series.fr'] = "Fichiers-maîtres du CDR"
+df['access'] = "Restricted"
+
+
 
 # Drop unnecessary columns
-export_df = import_df.drop(columns=['splitsubs', 'Subjects'])
-export_df = export_df.drop(columns=[col for col in export_df.columns if col.endswith("_fr") and col.startswith("subjen_")])
+export_df = df.drop(columns = ['Subjects'])
+export_df = export_df.drop(columns = [col for col in export_df.columns if col.startswith("subjen_")])
+
+
 
 # Define the mapping and convert to JSON
 def datacite_conversion(data):
@@ -176,8 +195,8 @@ def datacite_conversion(data):
         "data": {
             "attributes": {
                 "titles": [
-                    {"title": data['title.en'], "lang": "en"},
-                    {"title": data['title.fr'], "lang": "fr"}
+                    {"title": data['Title'], "lang": "en"},
+                    {"title": data['Dataset Title (French)'], "lang": "fr"}
                     ],
                 "creators": [
                     {"creator": data['creators.en'], "lang": "en", "ROR": data['creators.ROR']},
@@ -200,15 +219,15 @@ def datacite_conversion(data):
                     {"rights": data['rights.fr'], "lang": "fr"}
                     ],
                 "summary": [
-                    {"summary": data['summary.en'], "lang": "en"},
-                    {"summary": data['summary.fr'], "lang": "fr"}
+                    {"summary": data['Summary'], "lang": "en"},
+                    {"summary": data['Summary French'], "lang": "fr"}
                     ],
                 "series": [
                     {"series": data['series.en'], "lang": "en"},
                     {"series": data['series.fr'], "lang": "fr"}
                     ],
-                "url": data['url'],
-                "identifier": data['identifier'],
+                "url": data['Permalink'],
+                "identifier": data['Dataset ID'],
                 "access": data['access'],
                 "date": data['Date']
             }
@@ -216,15 +235,22 @@ def datacite_conversion(data):
     }
     return datacite
 
+
+
+
+
+
 json_ex = [datacite_conversion(export_df.iloc[i]) for i in range(len(export_df))]
 
-json_output = json.dumps(json_ex, indent=4, ensure_ascii=False)
+json_output = json.dumps(json_ex, indent=4, ensure_ascii=False, default = str)
+
+
+
 
 # Write the JSON output to a file
 
-output_path = "F:/CRDCN data/lunaris_transform/Data/json_dictionary"
+output_path = "/Users/thierryletendre/Desktop/CRDCN/RAD_Training/Python_Adaptation/Output_Data/JSON_output.py"
 
 with open(output_path, 'w', encoding='utf-8') as f:
     f.write(json_output)
 
-"""
