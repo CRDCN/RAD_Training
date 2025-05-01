@@ -2,7 +2,7 @@
 
 ##read in the data, with the foreign library, many different types of data can be read in. Our export type here is a .csv (comma separated value). A very common format for text-data
 library(foreign)
-import<-read.csv("/your/path/here")
+import<-read.csv("C:/Users/gibso/Documents/CRDCN/RAD_Training/Resources/Data/2025_05_01_WPDATA.csv")
 
 ##This is where we begin to transform our output file to match the Schema provided by Lunaris
 library(dplyr)
@@ -47,7 +47,7 @@ text_to_columns <- function(data, column) {
 import<-text_to_columns(import,"subjects_en")
 
 ## insheet the dataframe of translations
-subjectsdata<-read.csv("/path/to/translation/file")
+subjectsdata<-read.csv("C:/Users/gibso/Documents/CRDCN/RAD_Training/Resources/Data/subject_translations.csv")
 translate_subject <- function(subject, translations) {
   if (length(subject) > 1) {
     translated_subjects <- map_chr(subject, ~ {
@@ -215,4 +215,4 @@ json_ex<-lapply(1:nrow(export), function(i) datacite_conversion(export[i,]))
 
 json_output<-toJSON(json_ex, pretty=TRUE, auto_unbox= TRUE)
 
-write(json_output, file="/your/path/here")
+write(json_output, file="C:/Users/gibso/Documents/CRDCN/RAD_Training/Resources/Data/json_dictionary")
