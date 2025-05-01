@@ -1,31 +1,41 @@
-# Whatever chat GPT spat out
+# Restricted Metadata JSON file creator
+# This code was created with Macintosh
 
+
+# Importing modules necessary in the process of converting the CSV file to JSON
 import os
 import json
 import pandas as pd
 import numpy as np
 
+
+####################### Loading and Creating Dataframe #########################
+
 # Read the CSV file (adjust the file path as needed)
-path = "/Users/thierryletendre/Desktop/CRDCN/RAD_Training/Resources/Data"
+path = "/Your/Path/Here"
 os.chdir(path)
 
-# Setting up the dataset as a dataframe, will allow for editing
+
+# Setting up the dataset as a dataframe which will allow for editing
 data = pd.read_csv('2025_03_27_WPDATA.csv')
 df = pd.DataFrame(data)
 
-# This line of code can be used to see the entire dataset in the shell.
-#print(df.to_string())
 
-#Renaming column names
+#Renaming column names in the newly created dataframe
 df.rename(columns = {"title.fr": "Dataset Title (French)", 
                      "title.en": "Title", "summary.fr": "Summary French",
                      "summary.en": "Summary", "url": "Permalink",
                      "identifier": "Dataset ID"}, inplace = True)
 
 
-# The way the data is organised, they are split by ">" and "|", and other symbols. 
-# These represent the hierarchal nature of these subjects. 
-# The following code is used to remove the hierarchal symbology.
+
+####################### Removing Hierarchal Symbols ############################
+
+"""
+Subject terms are divided by ">" and "|" symbols. 
+These represent the hierarchal nature of these subjects. 
+The following code is used to remove this hierarchal symbology.
+"""
 
 df.fillna('', inplace=True)
 
@@ -62,6 +72,11 @@ while count != (len(df['Subjects'])):
         list_count += 1 
 
 
+
+
+################## Creating Individual Columns for Subjects ####################
+
+
 # Function to split the concatenated subjects into multiple columns
 # Split the string in the specified column by semicolon and whitespace
 # Determine the maximum number of elements in any row
@@ -82,12 +97,14 @@ df = text_to_columns(df, "Subjects")
 
 
 
-
+########################## Loading Translation File ############################
 
 
 # Read the translations CSV file (adjust the file path as needed)
-translations_path = "/Users/thierryletendre/Desktop/CRDCN/RAD_Training/Resources/Data/subject_translations.csv"
+translations_path = "/path/to/translation/file"
 subjectsdata = pd.read_csv(translations_path)
+
+
 
 
 
@@ -237,19 +254,18 @@ def datacite_conversion(data):
 
 
 
-
+class NpEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        return super(NpEncoder, self).default(obj)
 
 
 json_ex = [datacite_conversion(export_df.iloc[i]) for i in range(len(export_df))]
-
-json_output = json.dumps(json_ex, indent=4, ensure_ascii=False, default = str)
-
+json_output = json.dumps(json_ex, indent = 2, ensure_ascii=False, cls = NpEncoder)
 
 
-
-# Write the JSON output to a file
-
-output_path = "/Users/thierryletendre/Desktop/CRDCN/RAD_Training/Python_Adaptation/Output_Data/JSON_output.py"
+output_path = "/your/output/file/directory/here"
 
 with open(output_path, 'w', encoding='utf-8') as f:
     f.write(json_output)
