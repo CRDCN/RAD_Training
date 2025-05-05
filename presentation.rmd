@@ -44,7 +44,7 @@ Can others even figure out where the data you used are?
 Concepts:
 
 - Persistent Identifiers
-- Indexing
+- Indexing (including metadata)
 
 ## Researcher support for discoverability
 - FAIR data
@@ -75,7 +75,7 @@ Concepts:
 ## Researcher support for discoverability
 - FAIR data
 
-R - [Reuseable](https://faircookbook.elixir-europe.org/content/recipes/reusability.html) 
+R - [Reusable](https://faircookbook.elixir-europe.org/content/recipes/reusability.html) 
 
 Concepts:
 - Provenance
@@ -121,18 +121,15 @@ Concepts:
 
 ## What would success look like? (GA)
 
-## What gets us there?
-- [Data management planning](https://dmp-pgd.ca/)
-- Consider what anyone following on from you will be starting from. Everything that got you from that step to another point becomes part of your research data
-- Not every part of the project data will therefore be restricted and you need to plan for that
+# What gets us there?
 
-## What gets us there?
-- Data accessibility statements
-- Data discovery efforts
-- Preservation efforts (both yours and your data source's) are important
+## Data management planning
+- [*DMP template tool*](https://dmp-pgd.ca/)
+  - Consider what anyone following on from you will be starting from. Everything that got you from that step to another point becomes part of your research data
+  - Not every part of the project data will therefore be restricted and you need to plan for that
 
 ## Data Accessibility Statements
-- Thorough description of the access process, links to info, financing considerations, and licensing info/terms-of-use.
+- Thorough description of the access process, links to info, financing considerations, and licensing info/terms-of-use
 - "Access available on request" NOT sufficient
 - Encourage data source to template this language! If no, DIY with review
 
