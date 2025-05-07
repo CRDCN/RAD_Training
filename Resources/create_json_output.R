@@ -2,8 +2,9 @@
 
 ##read in the data, with the foreign library, many different types of data can be read in. Our export type here is a .csv (comma separated value). A very common format for text-data
 library(foreign)
-setwd("S:/CRDCN/RAD_Training/") #office
-#setwd("C:/Users/gibso/Documents/CRDCN/RAD_Training)
+#setwd("S:/CRDCN/RAD_Training/") 
+setwd("F:/CRDCN/RAD_Training/")
+
 #alternate
 import<-read.csv("Resources/Data/2025_05_01_WPDATA.csv")
 ##This is where we begin to transform our output file to match the Schema provided by Lunaris
@@ -49,7 +50,7 @@ text_to_columns <- function(data, column) {
 import<-text_to_columns(import,"subjects_en")
 
 ## insheet the dataframe of translations
-subjectsdata<-read.csv("Resources/Data/subject_translations.csv")
+subjectsdata<-read.csv("F:/CRDCN data/lunaris_transform/Data/subject_translations.csv")
 translate_subject <- function(subject, translations) {
   if (length(subject) > 1) {
     translated_subjects <- map_chr(subject, ~ {
@@ -91,59 +92,48 @@ import <- import %>%
   mutate(subjects_fr = paste(na.omit(unlist(c_across(all_of(fr_cols)))), collapse = ";")) %>%
   ungroup()
 
-##Create keywords from various fields in the data
-import$keywords.en<-""
-import$keywords.fr<-""
 
-import <- import %>%
-  rowwise() %>%
+# Function to create keyword lists
+create_keyword_list <- function(row, language = "en") {
+  if (language == "en") {
+    static_keywords <- c("RDC", "Statistics Canada")
+    subject_string <- row["subjects_en"]
+    prefix <- "subjen_"
+  } else {
+    static_keywords <- c("CDR", "Statistique Canada")
+    subject_string <- row["subjects_fr"]
+    prefix <- "subjen_"
+  }
+  
+  # Check if subject_string is NA, convert to "" if it is.
+  subject_string <- ifelse(is.na(subject_string), "", as.character(subject_string)) # Added as.character()
+  
+  # Split the subject string by the delimiter (";") and trim spaces
+  subject_keywords <- trimws(strsplit(subject_string, ";")[[1]])
+  
+  # Collect additional keywords from subjen columns
+  additional_keywords <- c()
+  for (i in 1:13) {
+    col_name <- paste0(prefix, i, ifelse(language == "en", "", "_fr"))
+    if (col_name %in% names(row) && !is.na(row[col_name])) {
+      additional_keywords <- c(additional_keywords, row[col_name])
+    }
+  }
+  # Remove any NA values that might have been introduced.
+  additional_keywords <- additional_keywords[!is.na(additional_keywords)]
+  # Combine all keywords and remove duplicates
+  all_keywords <- c(static_keywords, subject_keywords, additional_keywords)
+  unique_keywords <- unique(all_keywords)
+  unique_keywords <- unique_keywords[unique_keywords != "1"] # Remove "1"
+  return(unique_keywords)
+}
+
+# Apply the function to each row to create the new columns
+import <- import %>% # Changed data to import
   mutate(
-      keywords.en = list({
-      acronym <- Acronym
-      subjen_cols_en_base <- paste0("subjen_", 1:13)
-      subjects_en <- character(0)
-      for (col in subjen_cols_en_base) {
-        if (col %in% names(.)) {
-          value <- .[[col]][1]
-          if (!is.na(value)) {
-            subjects_en <- c(subjects_en, value)
-          }
-        }
-      }
-      keywords_list <- c()
-      if (!is.na(acronym) && trimws(acronym) != "") {
-        keywords_list <- c(keywords_list, trimws(acronym))
-      }
-      keywords_list <- c(keywords_list, trimws(subjects_en))
-      if (!is.na(acronym) && trimws(acronym) != "") {
-        keywords_list <- c(keywords_list, trimws(acronym))
-      }
-      unique(keywords_list)
-      }),
-    keywords.fr = list({
-      acronym_fr <- Acronym.French
-      subjen_cols_fr_base <- paste0("subjen_", 1:13, "_fr")
-      subjects_fr <- character(0)
-      for (col in subjen_cols_fr_base) {
-        if (col %in% names(.)) {
-          value <- .[[col]][1]
-          if (!is.na(value)) {
-            subjects_fr <- c(subjects_fr, value)
-          }
-        }
-      }
-      keywords_list_fr <- c("CDR")
-      if (!is.na(acronym_fr) && trimws(acronym_fr) != "") {
-        keywords_list_fr <- c(keywords_list_fr, trimws(acronym_fr))
-      }
-      keywords_list_fr <- c(keywords_list_fr, trimws(na.omit(subjects_fr)))
-      if (!is.na(acronym_fr) && trimws(acronym_fr) != "") {
-        keywords_list_fr <- c(keywords_list_fr, trimws(acronym_fr))
-      }
-      unique(keywords_list_fr)
-      })
-  ) %>%
-  ungroup()
+    keywords_en = apply(import, 1, create_keyword_list, language = "en"), # Changed data to import
+    keywords_fr = apply(import, 1, create_keyword_list, language = "fr") # Changed data to import
+  )
 
 ##Some of my columns will have the same value for everything and don't appear in my database
 import$creators.ROR<-"https://ror.org/05k71ja87"
@@ -188,9 +178,9 @@ datacite_conversion <- function(data) {
           list(publisher = data$publisher.en, lang = "en",ROR = data$publisher.ROR),
           list(publisher = data$publisher.fr, lang = "fr",ROR = data$publisher.ROR)
         ),
-        keywords = c(
-          map(data$subjects_en[[1]], ~list(keyword = .x, lang = "en")),
-          map(data$subjects_fr[[1]], ~list(keyword = .x, lang = "fr"))
+        keywords = list(
+          list(keywords = data$keywords_en, lang="en"),
+          list(keywords = data$keywords_fr, lang="fr")
         ),
         rights = list(
           list(rights = data$rights.en, lang = "en"),
