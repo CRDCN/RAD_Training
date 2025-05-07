@@ -188,9 +188,9 @@ datacite_conversion <- function(data) {
           list(publisher = data$publisher.en, lang = "en",ROR = data$publisher.ROR),
           list(publisher = data$publisher.fr, lang = "fr",ROR = data$publisher.ROR)
         ),
-        keywords = list(
-          list(keywords = data$subjects_en, lang="en"),
-          list(keywords = data$subjects_fr, lang="fr")
+        keywords = c(
+          map(data$subjects_en[[1]], ~list(keyword = .x, lang = "en")),
+          map(data$subjects_fr[[1]], ~list(keyword = .x, lang = "fr"))
         ),
         rights = list(
           list(rights = data$rights.en, lang = "en"),

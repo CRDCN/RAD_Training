@@ -50,11 +50,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability; Equity and inclusion",
+            "keyword": "Health; Disability; Equity and inclusion",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité;Égalité et inclusion",
+            "keyword": "Santé;Incapacité;Égalité et inclusion",
             "lang": "fr"
           }
         ],
@@ -146,11 +146,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
+            "keyword": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
+            "keyword": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -242,11 +242,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Child development and behaviour",
+            "keyword": "Children and youth; Child development and behaviour",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Développement et comportement de l'enfant",
+            "keyword": "Enfants et jeunes;Développement et comportement de l'enfant",
             "lang": "fr"
           }
         ],
@@ -338,11 +338,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Immigration and ethnocultural diversity",
+            "keyword": "Immigration and ethnocultural diversity",
             "lang": "en"
           },
           {
-            "keywords": "Immigration et diversité ethnoculturelle",
+            "keyword": "Immigration et diversité ethnoculturelle",
             "lang": "fr"
           }
         ],
@@ -434,11 +434,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Census; Census counts; Families, households and marital status; Families",
+            "keyword": "Census; Census counts; Families, households and marital status; Families",
             "lang": "en"
           },
           {
-            "keywords": "Recensement;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
+            "keyword": "Recensement;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
             "lang": "fr"
           }
         ],
@@ -530,11 +530,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Population and demography; Census counts; Families, households and marital status; Families; Household, family and personal income; Low income and inequality",
+            "keyword": "Population and demography; Census counts; Families, households and marital status; Families; Household, family and personal income; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
+            "keyword": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -626,11 +626,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health",
+            "keyword": "Health",
             "lang": "en"
           },
           {
-            "keywords": "Santé",
+            "keyword": "Santé",
             "lang": "fr"
           }
         ],
@@ -722,11 +722,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Immigration and ethnocultural diversity; Immigrants and non-permanent residents",
+            "keyword": "Immigration and ethnocultural diversity; Immigrants and non-permanent residents",
             "lang": "en"
           },
           {
-            "keywords": "Immigration et diversité ethnoculturelle;Immigrants et résidents non permanents",
+            "keyword": "Immigration et diversité ethnoculturelle;Immigrants et résidents non permanents",
             "lang": "fr"
           }
         ],
@@ -818,11 +818,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education",
+            "keyword": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation",
+            "keyword": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -914,11 +914,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Indigenous peoples; Demographic characteristics and Indigenous groups; Education, learning and skills; Health and well-being; Income and spending; Labour and employment; Language and culture; Living arrangements and housing; Culture; Other content related to Culture; Student pathways; Education indicators; Transitions and outcomes, indicators",
+            "keyword": "Indigenous peoples; Demographic characteristics and Indigenous groups; Education, learning and skills; Health and well-being; Income and spending; Labour and employment; Language and culture; Living arrangements and housing; Culture; Other content related to Culture; Student pathways; Education indicators; Transitions and outcomes, indicators",
             "lang": "en"
           },
           {
-            "keywords": "Peuples autochtones;Caractéristiques démographiques et groupes autochtones;Éducation, apprentissage et compétences;Santé et bien-être;Revenu et dépenses;Travail et emploi;Langues et cultures;Situation des particuliers et logement;Culture;Autre contenu lié à la Culture;Cheminement des étudiants;Indicateurs de l'éducation;Transitions et résultats, indicateurs",
+            "keyword": "Peuples autochtones;Caractéristiques démographiques et groupes autochtones;Éducation, apprentissage et compétences;Santé et bien-être;Revenu et dépenses;Travail et emploi;Langues et cultures;Situation des particuliers et logement;Culture;Autre contenu lié à la Culture;Cheminement des étudiants;Indicateurs de l'éducation;Transitions et résultats, indicateurs",
             "lang": "fr"
           }
         ],
@@ -1010,11 +1010,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Income, pensions, spending and wealth; Household spending and savings",
+            "keyword": "Income, pensions, spending and wealth; Household spending and savings",
             "lang": "en"
           },
           {
-            "keywords": "Revenu, pensions, dépenses et richesse;Dépenses et épargne des ménages",
+            "keyword": "Revenu, pensions, dépenses et richesse;Dépenses et épargne des ménages",
             "lang": "fr"
           }
         ],
@@ -1106,11 +1106,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Income, pensions, spending and wealth; Household and family assets, debts and wealth; Net worth",
+            "keyword": "Income, pensions, spending and wealth; Household and family assets, debts and wealth; Net worth",
             "lang": "en"
           },
           {
-            "keywords": "Revenu, pensions, dépenses et richesse;Actif, endettement et richesse des ménages et des familles;Valeur nette",
+            "keyword": "Revenu, pensions, dépenses et richesse;Actif, endettement et richesse des ménages et des familles;Valeur nette",
             "lang": "fr"
           }
         ],
@@ -1202,11 +1202,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Population and demography; Census counts; Families, households and marital status; Families; Household spending and savings; Household spending",
+            "keyword": "Population and demography; Census counts; Families, households and marital status; Families; Household spending and savings; Household spending",
             "lang": "en"
           },
           {
-            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Dépenses et épargne des ménages;Dépenses des ménages",
+            "keyword": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Dépenses et épargne des ménages;Dépenses des ménages",
             "lang": "fr"
           }
         ],
@@ -1298,11 +1298,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Pregnancy and births",
+            "keyword": "Health; Health care services; Pregnancy and births",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Grossesses et naissances",
+            "keyword": "Santé;Services de soins de santé;Grossesses et naissances",
             "lang": "fr"
           }
         ],
@@ -1394,11 +1394,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Unpaid work; Volunteering and donating",
+            "keyword": "Labour; Unpaid work; Volunteering and donating",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Travail non rémunéré;Don et bénévolat",
+            "keyword": "Travail;Travail non rémunéré;Don et bénévolat",
             "lang": "fr"
           }
         ],
@@ -1490,11 +1490,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Child development and behaviour",
+            "keyword": "Children and youth; Child development and behaviour",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Développement et comportement de l'enfant",
+            "keyword": "Enfants et jeunes;Développement et comportement de l'enfant",
             "lang": "fr"
           }
         ],
@@ -1586,11 +1586,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Education, training and learning; Adult learning; Educational attainment and qualifications; Hours of work and work arrangements; Earnings, wages and non-wage benefits; Non-wage benefits; Workplace organization, innovation and performance",
+            "keyword": "Education, training and learning; Adult learning; Educational attainment and qualifications; Hours of work and work arrangements; Earnings, wages and non-wage benefits; Non-wage benefits; Workplace organization, innovation and performance",
             "lang": "en"
           },
           {
-            "keywords": "Éducation, formation et apprentissage;Apprentissage des adultes;Niveau de scolarité et qualifications;Heures de travail et conditions de travail;Gains, salaires et avantages sociaux;Avantages sociaux;Organisation du milieu de travail, innovation et rendement",
+            "keyword": "Éducation, formation et apprentissage;Apprentissage des adultes;Niveau de scolarité et qualifications;Heures de travail et conditions de travail;Gains, salaires et avantages sociaux;Avantages sociaux;Organisation du milieu de travail, innovation et rendement",
             "lang": "fr"
           }
         ],
@@ -1682,11 +1682,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth",
+            "keyword": "Children and youth",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes",
+            "keyword": "Enfants et jeunes",
             "lang": "fr"
           }
         ],
@@ -1778,11 +1778,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Employment and unemployment; Hours of work and work arrangements",
+            "keyword": "Labour; Employment and unemployment; Hours of work and work arrangements",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Emploi et chômage;Heures de travail et conditions de travail",
+            "keyword": "Travail;Emploi et chômage;Heures de travail et conditions de travail",
             "lang": "fr"
           }
         ],
@@ -1874,11 +1874,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education; Literacy",
+            "keyword": "Children and youth; Education; Literacy",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation;Littératie",
+            "keyword": "Enfants et jeunes;Éducation;Littératie",
             "lang": "fr"
           }
         ],
@@ -1970,11 +1970,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability; Health and disability among seniors; Health care services",
+            "keyword": "Health; Disability; Health and disability among seniors; Health care services",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité;Santé et incapacité chez les aînés;Services de soins de santé",
+            "keyword": "Santé;Incapacité;Santé et incapacité chez les aînés;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -2066,11 +2066,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Education, training and learning; Apprenticeship and trades; Education",
+            "keyword": "Education, training and learning; Apprenticeship and trades; Education",
             "lang": "en"
           },
           {
-            "keywords": "Éducation, formation et apprentissage;Apprentis et métiers;Éducation",
+            "keyword": "Éducation, formation et apprentissage;Apprentis et métiers;Éducation",
             "lang": "fr"
           }
         ],
@@ -2162,11 +2162,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Income, pensions, spending and wealth; Household, family and personal income; Low income and inequality",
+            "keyword": "Income, pensions, spending and wealth; Household, family and personal income; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": "Revenu, pensions, dépenses et richesse;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
+            "keyword": "Revenu, pensions, dépenses et richesse;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -2258,11 +2258,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Employment insurance, social assistance and other",
+            "keyword": "Labour; Employment insurance, social assistance and other",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Assurance-emploi, aide sociale et autres transferts",
+            "keyword": "Travail;Assurance-emploi, aide sociale et autres transferts",
             "lang": "fr"
           }
         ],
@@ -2354,11 +2354,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Population and demography; Census counts; Families, households and marital status; Families; Health of children and youth; Other content related to Children and youth",
+            "keyword": "Population and demography; Census counts; Families, households and marital status; Families; Health of children and youth; Other content related to Children and youth",
             "lang": "en"
           },
           {
-            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Santé des enfants et des jeunes;Autre contenu lié aux Enfants et les jeunes",
+            "keyword": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Santé des enfants et des jeunes;Autre contenu lié aux Enfants et les jeunes",
             "lang": "fr"
           }
         ],
@@ -2450,11 +2450,11 @@
         ],
         "keywords": [
           {
-            "keywords": "",
+            "keyword": "",
             "lang": "en"
           },
           {
-            "keywords": "",
+            "keyword": "",
             "lang": "fr"
           }
         ],
@@ -2546,11 +2546,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education; Literacy",
+            "keyword": "Children and youth; Education; Literacy",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation;Littératie",
+            "keyword": "Enfants et jeunes;Éducation;Littératie",
             "lang": "fr"
           }
         ],
@@ -2642,11 +2642,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Hours of work and work arrangements; Lifestyle and social conditions; Mental health and well-being",
+            "keyword": "Health; Health care services; Hours of work and work arrangements; Lifestyle and social conditions; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Heures de travail et conditions de travail;Mode de vie et conditions sociales;Santé mentale et bien-être",
+            "keyword": "Santé;Services de soins de santé;Heures de travail et conditions de travail;Mode de vie et conditions sociales;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -2738,11 +2738,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services",
+            "keyword": "Health; Health care services",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé",
+            "keyword": "Santé;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -2834,11 +2834,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Life expectancy and deaths",
+            "keyword": "Health; Health care services; Life expectancy and deaths",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Espérance de vie et décès",
+            "keyword": "Santé;Services de soins de santé;Espérance de vie et décès",
             "lang": "fr"
           }
         ],
@@ -2930,11 +2930,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Languages; Language groups; Use of languages",
+            "keyword": "Languages; Language groups; Use of languages",
             "lang": "en"
           },
           {
-            "keywords": "Langues;Groupes linguistiques;Utilisation des langues",
+            "keyword": "Langues;Groupes linguistiques;Utilisation des langues",
             "lang": "fr"
           }
         ],
@@ -3026,11 +3026,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Postsecondary education; Student financial assistance and debt; Postsecondary education; Tuition and other fees",
+            "keyword": "Children and youth; Postsecondary education; Student financial assistance and debt; Postsecondary education; Tuition and other fees",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Études postsecondaires;Aide financière aux études et endettement étudiant;Études postsecondaires;Frais de scolarité et autres frais",
+            "keyword": "Enfants et jeunes;Études postsecondaires;Aide financière aux études et endettement étudiant;Études postsecondaires;Frais de scolarité et autres frais",
             "lang": "fr"
           }
         ],
@@ -3122,11 +3122,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Government; Employment and remuneration",
+            "keyword": "Government; Employment and remuneration",
             "lang": "en"
           },
           {
-            "keywords": "Gouvernement;Emploi et rémunération",
+            "keyword": "Gouvernement;Emploi et rémunération",
             "lang": "fr"
           }
         ],
@@ -3218,11 +3218,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Crime and justice; Crimes and offences",
+            "keyword": "Crime and justice; Crimes and offences",
             "lang": "en"
           },
           {
-            "keywords": "Crime et justice;Crimes et infractions",
+            "keyword": "Crime et justice;Crimes et infractions",
             "lang": "fr"
           }
         ],
@@ -3314,11 +3314,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Income, pensions, spending and wealth; Household spending and savings",
+            "keyword": "Income, pensions, spending and wealth; Household spending and savings",
             "lang": "en"
           },
           {
-            "keywords": "Revenu, pensions, dépenses et richesse;Dépenses et épargne des ménages",
+            "keyword": "Revenu, pensions, dépenses et richesse;Dépenses et épargne des ménages",
             "lang": "fr"
           }
         ],
@@ -3410,11 +3410,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education; Census counts; Families, households and marital status; Families",
+            "keyword": "Children and youth; Education; Census counts; Families, households and marital status; Families",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
+            "keyword": "Enfants et jeunes;Éducation;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
             "lang": "fr"
           }
         ],
@@ -3506,11 +3506,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Digital economy and society; Internet use; Individual and household Internet use; Information and communications technology sector",
+            "keyword": "Digital economy and society; Internet use; Individual and household Internet use; Information and communications technology sector",
             "lang": "en"
           },
           {
-            "keywords": "Économie et société numériques;Utilisation d'Internet;Utilisation d'Internet par les particuliers et les ménages;Secteur des technologies de l'information et des communications",
+            "keyword": "Économie et société numériques;Utilisation d'Internet;Utilisation d'Internet par les particuliers et les ménages;Secteur des technologies de l'information et des communications",
             "lang": "fr"
           }
         ],
@@ -3602,11 +3602,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Transportation",
+            "keyword": "Transportation",
             "lang": "en"
           },
           {
-            "keywords": "Transport",
+            "keyword": "Transport",
             "lang": "fr"
           }
         ],
@@ -3698,11 +3698,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Indigenous children",
+            "keyword": "Children and youth; Indigenous children",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Enfants autochtones",
+            "keyword": "Enfants et jeunes;Enfants autochtones",
             "lang": "fr"
           }
         ],
@@ -3794,11 +3794,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Population and demography; Census counts; Families, households and marital status; Families",
+            "keyword": "Population and demography; Census counts; Families, households and marital status; Families",
             "lang": "en"
           },
           {
-            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
+            "keyword": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
             "lang": "fr"
           }
         ],
@@ -3890,11 +3890,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Education, training and learning; Educational attainment and qualifications; Other content related to Education, training and l",
+            "keyword": "Education, training and learning; Educational attainment and qualifications; Other content related to Education, training and l",
             "lang": "en"
           },
           {
-            "keywords": "Éducation, formation et apprentissage;Niveau de scolarité et qualifications;Autre contenu lié à l'Éducation, la formation et l'apprentissage",
+            "keyword": "Éducation, formation et apprentissage;Niveau de scolarité et qualifications;Autre contenu lié à l'Éducation, la formation et l'apprentissage",
             "lang": "fr"
           }
         ],
@@ -3986,11 +3986,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education",
+            "keyword": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation",
+            "keyword": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -4082,11 +4082,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Employment insurance, social assistance and other; Earnings, wages and non-wage benefits; Non-wage benefits",
+            "keyword": "Labour; Employment insurance, social assistance and other; Earnings, wages and non-wage benefits; Non-wage benefits",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Assurance-emploi, aide sociale et autres transferts;Gains, salaires et avantages sociaux;Avantages sociaux",
+            "keyword": "Travail;Assurance-emploi, aide sociale et autres transferts;Gains, salaires et avantages sociaux;Avantages sociaux",
             "lang": "fr"
           }
         ],
@@ -4178,11 +4178,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Lifestyle and social conditions",
+            "keyword": "Health; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Mode de vie et conditions sociales",
+            "keyword": "Santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -4274,11 +4274,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Environment; Pollution and waste",
+            "keyword": "Environment; Pollution and waste",
             "lang": "en"
           },
           {
-            "keywords": "Environnement;Pollution et déchets",
+            "keyword": "Environnement;Pollution et déchets",
             "lang": "fr"
           }
         ],
@@ -4370,11 +4370,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Child care; Child development and behaviour",
+            "keyword": "Children and youth; Child care; Child development and behaviour",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Soins aux enfants;Développement et comportement de l'enfant",
+            "keyword": "Enfants et jeunes;Soins aux enfants;Développement et comportement de l'enfant",
             "lang": "fr"
           }
         ],
@@ -4466,11 +4466,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education",
+            "keyword": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation",
+            "keyword": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -4562,11 +4562,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Postsecondary education",
+            "keyword": "Children and youth; Postsecondary education",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Études postsecondaires",
+            "keyword": "Enfants et jeunes;Études postsecondaires",
             "lang": "fr"
           }
         ],
@@ -4658,11 +4658,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Diseases and physical health conditions; Chronic conditions",
+            "keyword": "Health; Diseases and physical health conditions; Chronic conditions",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Maladies et état de santé physique;Maladies chroniques",
+            "keyword": "Santé;Maladies et état de santé physique;Maladies chroniques",
             "lang": "fr"
           }
         ],
@@ -4754,11 +4754,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Postsecondary education; Graduates, postsecondary",
+            "keyword": "Children and youth; Postsecondary education; Graduates, postsecondary",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Études postsecondaires;Diplômés, études postsecondaires",
+            "keyword": "Enfants et jeunes;Études postsecondaires;Diplômés, études postsecondaires",
             "lang": "fr"
           }
         ],
@@ -4850,11 +4850,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Work transitions and life stages",
+            "keyword": "Labour; Work transitions and life stages",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Transitions professionnelles et stades de la vie",
+            "keyword": "Travail;Transitions professionnelles et stades de la vie",
             "lang": "fr"
           }
         ],
@@ -4946,11 +4946,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Child care; Child development and behaviour; Education",
+            "keyword": "Children and youth; Child care; Child development and behaviour; Education",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Soins aux enfants;Développement et comportement de l'enfant;Éducation",
+            "keyword": "Enfants et jeunes;Soins aux enfants;Développement et comportement de l'enfant;Éducation",
             "lang": "fr"
           }
         ],
@@ -5042,11 +5042,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Diseases and physical health conditions; Neurological conditions",
+            "keyword": "Health; Diseases and physical health conditions; Neurological conditions",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Maladies et état de santé physique;Problèmes neurologiques",
+            "keyword": "Santé;Maladies et état de santé physique;Problèmes neurologiques",
             "lang": "fr"
           }
         ],
@@ -5138,11 +5138,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Lifestyle and social conditions; Smoking",
+            "keyword": "Health; Lifestyle and social conditions; Smoking",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Mode de vie et conditions sociales;Tabagisme",
+            "keyword": "Santé;Mode de vie et conditions sociales;Tabagisme",
             "lang": "fr"
           }
         ],
@@ -5234,11 +5234,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education",
+            "keyword": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation",
+            "keyword": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -5330,11 +5330,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Income, pensions, spending and wealth; Household, family and personal income; Personal and household taxation",
+            "keyword": "Income, pensions, spending and wealth; Household, family and personal income; Personal and household taxation",
             "lang": "en"
           },
           {
-            "keywords": "Revenu, pensions, dépenses et richesse;Revenu des ménages, des familles et des particuliers;Imposition des particuliers et des ménages",
+            "keyword": "Revenu, pensions, dépenses et richesse;Revenu des ménages, des familles et des particuliers;Imposition des particuliers et des ménages",
             "lang": "fr"
           }
         ],
@@ -5426,11 +5426,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Crime and justice; Crimes and offences",
+            "keyword": "Crime and justice; Crimes and offences",
             "lang": "en"
           },
           {
-            "keywords": "Crime et justice;Crimes et infractions",
+            "keyword": "Crime et justice;Crimes et infractions",
             "lang": "fr"
           }
         ],
@@ -5522,11 +5522,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services",
+            "keyword": "Health; Health care services",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé",
+            "keyword": "Santé;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -5618,11 +5618,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Diseases and physical health conditions; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
+            "keyword": "Health; Diseases and physical health conditions; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Maladies et état de santé physique;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
+            "keyword": "Santé;Maladies et état de santé physique;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -5714,11 +5714,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health",
+            "keyword": "Health",
             "lang": "en"
           },
           {
-            "keywords": "Santé",
+            "keyword": "Santé",
             "lang": "fr"
           }
         ],
@@ -5810,11 +5810,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Lifestyle and social conditions",
+            "keyword": "Health; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Mode de vie et conditions sociales",
+            "keyword": "Santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -5906,11 +5906,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health",
+            "keyword": "Health",
             "lang": "en"
           },
           {
-            "keywords": "Santé",
+            "keyword": "Santé",
             "lang": "fr"
           }
         ],
@@ -6002,11 +6002,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Population and demography; Census counts; Families, households and marital status; Fertility (births)",
+            "keyword": "Population and demography; Census counts; Families, households and marital status; Fertility (births)",
             "lang": "en"
           },
           {
-            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Fécondité (naissances)",
+            "keyword": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Fécondité (naissances)",
             "lang": "fr"
           }
         ],
@@ -6098,11 +6098,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Seniors and aging; Care and social support; Census counts; Families, households and marital status",
+            "keyword": "Seniors and aging; Care and social support; Census counts; Families, households and marital status",
             "lang": "en"
           },
           {
-            "keywords": "Aînés et vieillissement;Soins et soutien social;Chiffres du recensement;Familles, ménages et état matrimonial",
+            "keyword": "Aînés et vieillissement;Soins et soutien social;Chiffres du recensement;Familles, ménages et état matrimonial",
             "lang": "fr"
           }
         ],
@@ -6194,11 +6194,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Hours of work and work arrangements; Time use",
+            "keyword": "Labour; Hours of work and work arrangements; Time use",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Heures de travail et conditions de travail;Emploi du temps",
+            "keyword": "Travail;Heures de travail et conditions de travail;Emploi du temps",
             "lang": "fr"
           }
         ],
@@ -6290,11 +6290,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Society and community; Civic participation; Social and personal networks; Coronavirus; Social impacts of COVID-19",
+            "keyword": "Society and community; Civic participation; Social and personal networks; Coronavirus; Social impacts of COVID-19",
             "lang": "en"
           },
           {
-            "keywords": "Société et communauté;Participation communautaire;Réseaux sociaux et personnels;Coronavirus;Impacts sociaux de COVID-19",
+            "keyword": "Société et communauté;Participation communautaire;Réseaux sociaux et personnels;Coronavirus;Impacts sociaux de COVID-19",
             "lang": "fr"
           }
         ],
@@ -6386,11 +6386,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Crime and justice",
+            "keyword": "Crime and justice",
             "lang": "en"
           },
           {
-            "keywords": "Crime et justice",
+            "keyword": "Crime et justice",
             "lang": "fr"
           }
         ],
@@ -6482,11 +6482,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Digital economy and society; Internet use",
+            "keyword": "Digital economy and society; Internet use",
             "lang": "en"
           },
           {
-            "keywords": "Économie et société numériques;Utilisation d'Internet",
+            "keyword": "Économie et société numériques;Utilisation d'Internet",
             "lang": "fr"
           }
         ],
@@ -6578,11 +6578,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Education, training and learning; Adult learning; Employment and unemployment; Education and the labour market; Student pathways; Work and retirement; Work transitions and life stages",
+            "keyword": "Education, training and learning; Adult learning; Employment and unemployment; Education and the labour market; Student pathways; Work and retirement; Work transitions and life stages",
             "lang": "en"
           },
           {
-            "keywords": "Éducation, formation et apprentissage;Apprentissage des adultes;Emploi et chômage;Éducation et marché du travail;Cheminement des étudiants;Travail et retraite;Transitions professionnelles et stades de la vie",
+            "keyword": "Éducation, formation et apprentissage;Apprentissage des adultes;Emploi et chômage;Éducation et marché du travail;Cheminement des étudiants;Travail et retraite;Transitions professionnelles et stades de la vie",
             "lang": "fr"
           }
         ],
@@ -6674,11 +6674,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability; Diseases and physical health conditions; Health care services; Lifestyle and social conditions",
+            "keyword": "Health; Disability; Diseases and physical health conditions; Health care services; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité;Maladies et état de santé physique;Services de soins de santé;Mode de vie et conditions sociales",
+            "keyword": "Santé;Incapacité;Maladies et état de santé physique;Services de soins de santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -6770,11 +6770,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Society and community",
+            "keyword": "Society and community",
             "lang": "en"
           },
           {
-            "keywords": "Société et communauté",
+            "keyword": "Société et communauté",
             "lang": "fr"
           }
         ],
@@ -6866,11 +6866,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability; Health and disability among seniors; Health care services",
+            "keyword": "Health; Disability; Health and disability among seniors; Health care services",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité;Santé et incapacité chez les aînés;Services de soins de santé",
+            "keyword": "Santé;Incapacité;Santé et incapacité chez les aînés;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -6962,11 +6962,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health",
+            "keyword": "Health",
             "lang": "en"
           },
           {
-            "keywords": "Santé",
+            "keyword": "Santé",
             "lang": "fr"
           }
         ],
@@ -7058,11 +7058,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
+            "keyword": "Health; Disability; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
+            "keyword": "Santé;Incapacité;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -7154,11 +7154,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Health and disability among seniors; Health and well-being; Health care services; Lifestyle and social conditions",
+            "keyword": "Children and youth; Health and disability among seniors; Health and well-being; Health care services; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Santé et incapacité chez les aînés;Santé et bien-être;Services de soins de santé;Mode de vie et conditions sociales",
+            "keyword": "Enfants et jeunes;Santé et incapacité chez les aînés;Santé et bien-être;Services de soins de santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -7250,11 +7250,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education; Census counts; Families, households and marital status; Families",
+            "keyword": "Children and youth; Education; Census counts; Families, households and marital status; Families",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
+            "keyword": "Enfants et jeunes;Éducation;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
             "lang": "fr"
           }
         ],
@@ -7346,11 +7346,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth",
+            "keyword": "Children and youth",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes",
+            "keyword": "Enfants et jeunes",
             "lang": "fr"
           }
         ],
@@ -7442,11 +7442,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability",
+            "keyword": "Health; Disability",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité",
+            "keyword": "Santé;Incapacité",
             "lang": "fr"
           }
         ],
@@ -7538,11 +7538,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services",
+            "keyword": "Health; Health care services",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé",
+            "keyword": "Santé;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -7634,11 +7634,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Population and demography; Census counts; Families, households and marital status; Families; Household spending and savings",
+            "keyword": "Population and demography; Census counts; Families, households and marital status; Families; Household spending and savings",
             "lang": "en"
           },
           {
-            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Dépenses et épargne des ménages",
+            "keyword": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Dépenses et épargne des ménages",
             "lang": "fr"
           }
         ],
@@ -7730,11 +7730,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Child development and behaviour",
+            "keyword": "Children and youth; Child development and behaviour",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Développement et comportement de l'enfant",
+            "keyword": "Enfants et jeunes;Développement et comportement de l'enfant",
             "lang": "fr"
           }
         ],
@@ -7826,11 +7826,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Elementary and secondary education",
+            "keyword": "Children and youth; Elementary and secondary education",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Études primaires et secondaires",
+            "keyword": "Enfants et jeunes;Études primaires et secondaires",
             "lang": "fr"
           }
         ],
@@ -7922,11 +7922,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Income, pensions, spending and wealth; Household, family and personal income; Low income and inequality",
+            "keyword": "Income, pensions, spending and wealth; Household, family and personal income; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": "Revenu, pensions, dépenses et richesse;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
+            "keyword": "Revenu, pensions, dépenses et richesse;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -8018,11 +8018,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Mental health and well-being",
+            "keyword": "Health; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Santé mentale et bien-être",
+            "keyword": "Santé;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -8114,11 +8114,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health",
+            "keyword": "Health",
             "lang": "en"
           },
           {
-            "keywords": "Santé",
+            "keyword": "Santé",
             "lang": "fr"
           }
         ],
@@ -8210,11 +8210,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Prevention and detection of disease",
+            "keyword": "Children and youth; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Prévention et détection de la maladie",
+            "keyword": "Enfants et jeunes;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -8306,11 +8306,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health",
+            "keyword": "Health",
             "lang": "en"
           },
           {
-            "keywords": "Santé",
+            "keyword": "Santé",
             "lang": "fr"
           }
         ],
@@ -8402,11 +8402,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education",
+            "keyword": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation",
+            "keyword": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -8498,11 +8498,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education; Literacy",
+            "keyword": "Children and youth; Education; Literacy",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation;Littératie",
+            "keyword": "Enfants et jeunes;Éducation;Littératie",
             "lang": "fr"
           }
         ],
@@ -8594,11 +8594,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Society and community; Volunteering and donating",
+            "keyword": "Society and community; Volunteering and donating",
             "lang": "en"
           },
           {
-            "keywords": "Société et communauté;Don et bénévolat",
+            "keyword": "Société et communauté;Don et bénévolat",
             "lang": "fr"
           }
         ],
@@ -8690,11 +8690,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Income, pensions, spending and wealth; Household, family and personal income; Low income and inequality",
+            "keyword": "Income, pensions, spending and wealth; Household, family and personal income; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": "Revenu, pensions, dépenses et richesse;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
+            "keyword": "Revenu, pensions, dépenses et richesse;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -8786,11 +8786,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Digital economy and society; Information and communications technology sector; Telecommunications",
+            "keyword": "Digital economy and society; Information and communications technology sector; Telecommunications",
             "lang": "en"
           },
           {
-            "keywords": "Économie et société numériques;Secteur des technologies de l'information et des communications;Télécommunications",
+            "keyword": "Économie et société numériques;Secteur des technologies de l'information et des communications;Télécommunications",
             "lang": "fr"
           }
         ],
@@ -8882,11 +8882,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Employment and unemployment",
+            "keyword": "Labour; Employment and unemployment",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Emploi et chômage",
+            "keyword": "Travail;Emploi et chômage",
             "lang": "fr"
           }
         ],
@@ -8978,11 +8978,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Employment insurance, social assistance and other; Hours of work and work arrangements",
+            "keyword": "Labour; Employment insurance, social assistance and other; Hours of work and work arrangements",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Assurance-emploi, aide sociale et autres transferts;Heures de travail et conditions de travail",
+            "keyword": "Travail;Assurance-emploi, aide sociale et autres transferts;Heures de travail et conditions de travail",
             "lang": "fr"
           }
         ],
@@ -9074,11 +9074,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Environmental factors; Mental health and well-being",
+            "keyword": "Health; Environmental factors; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Facteurs environnementaux;Santé mentale et bien-être",
+            "keyword": "Santé;Facteurs environnementaux;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -9170,11 +9170,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Society and community; Civic participation; Volunteering and donating",
+            "keyword": "Society and community; Civic participation; Volunteering and donating",
             "lang": "en"
           },
           {
-            "keywords": "Société et communauté;Participation communautaire;Don et bénévolat",
+            "keyword": "Société et communauté;Participation communautaire;Don et bénévolat",
             "lang": "fr"
           }
         ],
@@ -9266,11 +9266,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health",
+            "keyword": "Health",
             "lang": "en"
           },
           {
-            "keywords": "Santé",
+            "keyword": "Santé",
             "lang": "fr"
           }
         ],
@@ -9362,11 +9362,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Lifestyle and social conditions",
+            "keyword": "Health; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Mode de vie et conditions sociales",
+            "keyword": "Santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -9458,11 +9458,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Population and demography; Census counts; Families, households and marital status; Families; Household, family and personal income; Low income and inequality",
+            "keyword": "Population and demography; Census counts; Families, households and marital status; Families; Household, family and personal income; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
+            "keyword": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -9554,11 +9554,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Mental health and well-being",
+            "keyword": "Health; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Santé mentale et bien-être",
+            "keyword": "Santé;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -9650,11 +9650,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Society and community",
+            "keyword": "Society and community",
             "lang": "en"
           },
           {
-            "keywords": "Société et communauté",
+            "keyword": "Société et communauté",
             "lang": "fr"
           }
         ],
@@ -9746,11 +9746,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth",
+            "keyword": "Children and youth",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes",
+            "keyword": "Enfants et jeunes",
             "lang": "fr"
           }
         ],
@@ -9842,11 +9842,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Lifestyle and social conditions",
+            "keyword": "Health; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Mode de vie et conditions sociales",
+            "keyword": "Santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -9938,11 +9938,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
+            "keyword": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
+            "keyword": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -10034,11 +10034,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Immigration and ethnocultural diversity; Immigrants and non-permanent residents",
+            "keyword": "Immigration and ethnocultural diversity; Immigrants and non-permanent residents",
             "lang": "en"
           },
           {
-            "keywords": "Immigration et diversité ethnoculturelle;Immigrants et résidents non permanents",
+            "keyword": "Immigration et diversité ethnoculturelle;Immigrants et résidents non permanents",
             "lang": "fr"
           }
         ],
@@ -10130,11 +10130,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Seniors and aging; Income, pensions and wealth; Low income and inequality",
+            "keyword": "Seniors and aging; Income, pensions and wealth; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": "Aînés et vieillissement;Revenu, pension et patrimoine;Faible revenu et inégalité",
+            "keyword": "Aînés et vieillissement;Revenu, pension et patrimoine;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -10226,11 +10226,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Environment; Life expectancy and deaths",
+            "keyword": "Environment; Life expectancy and deaths",
             "lang": "en"
           },
           {
-            "keywords": "Environnement;Espérance de vie et décès",
+            "keyword": "Environnement;Espérance de vie et décès",
             "lang": "fr"
           }
         ],
@@ -10322,11 +10322,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Pregnancy and births",
+            "keyword": "Health; Pregnancy and births",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Grossesses et naissances",
+            "keyword": "Santé;Grossesses et naissances",
             "lang": "fr"
           }
         ],
@@ -10418,11 +10418,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Population and demography; Census counts; Families, households and marital status; Families; Household, family and personal income; Low income and inequality",
+            "keyword": "Population and demography; Census counts; Families, households and marital status; Families; Household, family and personal income; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
+            "keyword": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -10514,11 +10514,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Unionization and industrial relations",
+            "keyword": "Labour; Unionization and industrial relations",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Syndicalisation et relations industrielles",
+            "keyword": "Travail;Syndicalisation et relations industrielles",
             "lang": "fr"
           }
         ],
@@ -10610,11 +10610,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Hours of work and work arrangements",
+            "keyword": "Labour; Hours of work and work arrangements",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Heures de travail et conditions de travail",
+            "keyword": "Travail;Heures de travail et conditions de travail",
             "lang": "fr"
           }
         ],
@@ -10706,11 +10706,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Employment and unemployment",
+            "keyword": "Labour; Employment and unemployment",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Emploi et chômage",
+            "keyword": "Travail;Emploi et chômage",
             "lang": "fr"
           }
         ],
@@ -10802,11 +10802,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being",
+            "keyword": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être",
+            "keyword": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -10898,11 +10898,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education; Literacy",
+            "keyword": "Children and youth; Education; Literacy",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation;Littératie",
+            "keyword": "Enfants et jeunes;Éducation;Littératie",
             "lang": "fr"
           }
         ],
@@ -10994,11 +10994,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Unpaid work; Volunteering and donating",
+            "keyword": "Labour; Unpaid work; Volunteering and donating",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Travail non rémunéré;Don et bénévolat",
+            "keyword": "Travail;Travail non rémunéré;Don et bénévolat",
             "lang": "fr"
           }
         ],
@@ -11090,11 +11090,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services",
+            "keyword": "Health; Health care services",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé",
+            "keyword": "Santé;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -11186,11 +11186,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Society and community",
+            "keyword": "Society and community",
             "lang": "en"
           },
           {
-            "keywords": "Société et communauté",
+            "keyword": "Société et communauté",
             "lang": "fr"
           }
         ],
@@ -11282,11 +11282,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Government",
+            "keyword": "Government",
             "lang": "en"
           },
           {
-            "keywords": "Gouvernement",
+            "keyword": "Gouvernement",
             "lang": "fr"
           }
         ],
@@ -11378,11 +11378,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Government; Employment and remuneration",
+            "keyword": "Government; Employment and remuneration",
             "lang": "en"
           },
           {
-            "keywords": "Gouvernement;Emploi et rémunération",
+            "keyword": "Gouvernement;Emploi et rémunération",
             "lang": "fr"
           }
         ],
@@ -11474,11 +11474,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
+            "keyword": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
+            "keyword": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -11570,11 +11570,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education; Census counts; Families, households and marital status; Families; Household, family and personal income; Low income and inequality; Census counts; Mobility and migration",
+            "keyword": "Children and youth; Education; Census counts; Families, households and marital status; Families; Household, family and personal income; Low income and inequality; Census counts; Mobility and migration",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité;Chiffres du recensement;Mobilité et migration",
+            "keyword": "Enfants et jeunes;Éducation;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité;Chiffres du recensement;Mobilité et migration",
             "lang": "fr"
           }
         ],
@@ -11666,11 +11666,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being",
+            "keyword": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être",
+            "keyword": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -11762,11 +11762,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour",
+            "keyword": "Labour",
             "lang": "en"
           },
           {
-            "keywords": "Travail",
+            "keyword": "Travail",
             "lang": "fr"
           }
         ],
@@ -11858,11 +11858,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education",
+            "keyword": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation",
+            "keyword": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -11954,11 +11954,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Pregnancy and births",
+            "keyword": "Health; Pregnancy and births",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Grossesses et naissances",
+            "keyword": "Santé;Grossesses et naissances",
             "lang": "fr"
           }
         ],
@@ -12050,11 +12050,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Life expectancy and deaths",
+            "keyword": "Health; Life expectancy and deaths",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Espérance de vie et décès",
+            "keyword": "Santé;Espérance de vie et décès",
             "lang": "fr"
           }
         ],
@@ -12146,11 +12146,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Access to health care",
+            "keyword": "Health; Health care services; Access to health care",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Accès aux soins de santé",
+            "keyword": "Santé;Services de soins de santé;Accès aux soins de santé",
             "lang": "fr"
           }
         ],
@@ -12242,11 +12242,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health and well-being",
+            "keyword": "Health; Health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Santé et bien-être",
+            "keyword": "Santé;Santé et bien-être",
             "lang": "fr"
           }
         ],
@@ -12338,11 +12338,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Hours of work and work arrangements",
+            "keyword": "Labour; Hours of work and work arrangements",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Heures de travail et conditions de travail",
+            "keyword": "Travail;Heures de travail et conditions de travail",
             "lang": "fr"
           }
         ],
@@ -12434,11 +12434,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education; Elementary and secondary education; Teachers and educators",
+            "keyword": "Children and youth; Education; Elementary and secondary education; Teachers and educators",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation;Études primaires et secondaires;Enseignants et éducateurs",
+            "keyword": "Enfants et jeunes;Éducation;Études primaires et secondaires;Enseignants et éducateurs",
             "lang": "fr"
           }
         ],
@@ -12530,11 +12530,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Income, pensions, spending and wealth; Personal and household taxation",
+            "keyword": "Income, pensions, spending and wealth; Personal and household taxation",
             "lang": "en"
           },
           {
-            "keywords": "Revenu, pensions, dépenses et richesse;Imposition des particuliers et des ménages",
+            "keyword": "Revenu, pensions, dépenses et richesse;Imposition des particuliers et des ménages",
             "lang": "fr"
           }
         ],
@@ -12626,11 +12626,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health",
+            "keyword": "Health",
             "lang": "en"
           },
           {
-            "keywords": "Santé",
+            "keyword": "Santé",
             "lang": "fr"
           }
         ],
@@ -12722,11 +12722,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Society and community",
+            "keyword": "Society and community",
             "lang": "en"
           },
           {
-            "keywords": "Société et communauté",
+            "keyword": "Société et communauté",
             "lang": "fr"
           }
         ],
@@ -12818,11 +12818,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health",
+            "keyword": "Health",
             "lang": "en"
           },
           {
-            "keywords": "Santé",
+            "keyword": "Santé",
             "lang": "fr"
           }
         ],
@@ -12914,11 +12914,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Life expectancy and deaths",
+            "keyword": "Health; Life expectancy and deaths",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Espérance de vie et décès",
+            "keyword": "Santé;Espérance de vie et décès",
             "lang": "fr"
           }
         ],
@@ -13010,11 +13010,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education; Census counts; Mobility and migration",
+            "keyword": "Children and youth; Education; Census counts; Mobility and migration",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation;Chiffres du recensement;Mobilité et migration",
+            "keyword": "Enfants et jeunes;Éducation;Chiffres du recensement;Mobilité et migration",
             "lang": "fr"
           }
         ],
@@ -13106,11 +13106,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education; Census counts; Mobility and migration",
+            "keyword": "Children and youth; Education; Census counts; Mobility and migration",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation;Chiffres du recensement;Mobilité et migration",
+            "keyword": "Enfants et jeunes;Éducation;Chiffres du recensement;Mobilité et migration",
             "lang": "fr"
           }
         ],
@@ -13202,11 +13202,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education",
+            "keyword": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation",
+            "keyword": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -13298,11 +13298,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Lifestyle and social conditions; Mental health and well-being; Census counts; Mobility and migration; Prevention and detection of disease",
+            "keyword": "Health; Lifestyle and social conditions; Mental health and well-being; Census counts; Mobility and migration; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Chiffres du recensement;Mobilité et migration;Prévention et détection de la maladie",
+            "keyword": "Santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Chiffres du recensement;Mobilité et migration;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -13394,11 +13394,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Employment and unemployment; Employment insurance, social assistance and other",
+            "keyword": "Labour; Employment and unemployment; Employment insurance, social assistance and other",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Emploi et chômage;Assurance-emploi, aide sociale et autres transferts",
+            "keyword": "Travail;Emploi et chômage;Assurance-emploi, aide sociale et autres transferts",
             "lang": "fr"
           }
         ],
@@ -13490,11 +13490,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Mental health and well-being",
+            "keyword": "Health; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Santé mentale et bien-être",
+            "keyword": "Santé;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -13586,11 +13586,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Government; Employment and remuneration; Employment and unemployment; Employment insurance, social assistance and other",
+            "keyword": "Government; Employment and remuneration; Employment and unemployment; Employment insurance, social assistance and other",
             "lang": "en"
           },
           {
-            "keywords": "Gouvernement;Emploi et rémunération;Emploi et chômage;Assurance-emploi, aide sociale et autres transferts",
+            "keyword": "Gouvernement;Emploi et rémunération;Emploi et chômage;Assurance-emploi, aide sociale et autres transferts",
             "lang": "fr"
           }
         ],
@@ -13682,11 +13682,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Economic accounts",
+            "keyword": "Economic accounts",
             "lang": "en"
           },
           {
-            "keywords": "Comptes économiques",
+            "keyword": "Comptes économiques",
             "lang": "fr"
           }
         ],
@@ -13778,11 +13778,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Government; Employment and remuneration; Employment and unemployment",
+            "keyword": "Government; Employment and remuneration; Employment and unemployment",
             "lang": "en"
           },
           {
-            "keywords": "Gouvernement;Emploi et rémunération;Emploi et chômage",
+            "keyword": "Gouvernement;Emploi et rémunération;Emploi et chômage",
             "lang": "fr"
           }
         ],
@@ -13874,11 +13874,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Life expectancy and deaths; Mental health and well-being",
+            "keyword": "Health; Health care services; Life expectancy and deaths; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Espérance de vie et décès;Santé mentale et bien-être",
+            "keyword": "Santé;Services de soins de santé;Espérance de vie et décès;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -13970,11 +13970,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Immigrants and non-permanent residents",
+            "keyword": "Health; Health care services; Immigrants and non-permanent residents",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Immigrants et résidents non permanents",
+            "keyword": "Santé;Services de soins de santé;Immigrants et résidents non permanents",
             "lang": "fr"
           }
         ],
@@ -14066,11 +14066,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education",
+            "keyword": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation",
+            "keyword": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -14162,11 +14162,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Education, training and learning; Financial resources invested in education",
+            "keyword": "Education, training and learning; Financial resources invested in education",
             "lang": "en"
           },
           {
-            "keywords": "Éducation, formation et apprentissage;Ressources financières investies dans l'éducation",
+            "keyword": "Éducation, formation et apprentissage;Ressources financières investies dans l'éducation",
             "lang": "fr"
           }
         ],
@@ -14258,11 +14258,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Business and consumer services and culture; Business ownership; Earnings, wages and non-wage benefits; Earnings and wages by occupation, industry or sect; Business dynamics; Entry, exit, mergers and growth; Earnings, wages and non-wage benefits; Other content related to Earnings, wages and non-w; Other content related to Labour; Business dynamics; Small and medium sized business; Workplace organization, innovation and performance",
+            "keyword": "Business and consumer services and culture; Business ownership; Earnings, wages and non-wage benefits; Earnings and wages by occupation, industry or sect; Business dynamics; Entry, exit, mergers and growth; Earnings, wages and non-wage benefits; Other content related to Earnings, wages and non-w; Other content related to Labour; Business dynamics; Small and medium sized business; Workplace organization, innovation and performance",
             "lang": "en"
           },
           {
-            "keywords": "Services aux entreprises et aux consommateurs et culture;Propriété des entreprises;Gains, salaires et avantages sociaux;Gains et salaires selon la profession, l'industrie ou le secteur;Dynamique des entreprises;Création, disparitions, fusions et croissance;Gains, salaires et avantages sociaux;Autre contenu lié aux Gains, les salaires et les avantages sociaux;Autre contenu lié au Travail;Dynamique des entreprises;Petites et moyennes entreprises;Organisation du milieu de travail, innovation et rendement",
+            "keyword": "Services aux entreprises et aux consommateurs et culture;Propriété des entreprises;Gains, salaires et avantages sociaux;Gains et salaires selon la profession, l'industrie ou le secteur;Dynamique des entreprises;Création, disparitions, fusions et croissance;Gains, salaires et avantages sociaux;Autre contenu lié aux Gains, les salaires et les avantages sociaux;Autre contenu lié au Travail;Dynamique des entreprises;Petites et moyennes entreprises;Organisation du milieu de travail, innovation et rendement",
             "lang": "fr"
           }
         ],
@@ -14354,11 +14354,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Child care",
+            "keyword": "Children and youth; Child care",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Soins aux enfants",
+            "keyword": "Enfants et jeunes;Soins aux enfants",
             "lang": "fr"
           }
         ],
@@ -14450,11 +14450,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Income, pensions, spending and wealth",
+            "keyword": "Income, pensions, spending and wealth",
             "lang": "en"
           },
           {
-            "keywords": "Revenu, pensions, dépenses et richesse",
+            "keyword": "Revenu, pensions, dépenses et richesse",
             "lang": "fr"
           }
         ],
@@ -14546,11 +14546,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability",
+            "keyword": "Health; Disability",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité",
+            "keyword": "Santé;Incapacité",
             "lang": "fr"
           }
         ],
@@ -14642,11 +14642,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health",
+            "keyword": "Health",
             "lang": "en"
           },
           {
-            "keywords": "Santé",
+            "keyword": "Santé",
             "lang": "fr"
           }
         ],
@@ -14738,11 +14738,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Globalization and the labour market; Household, family and personal income; Immigrant children and youth; Immigrants and non-permanent residents",
+            "keyword": "Labour; Globalization and the labour market; Household, family and personal income; Immigrant children and youth; Immigrants and non-permanent residents",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Mondialisation et marché du travail;Revenu des ménages, des familles et des particuliers;Enfants et jeunes immigrants;Immigrants et résidents non permanents",
+            "keyword": "Travail;Mondialisation et marché du travail;Revenu des ménages, des familles et des particuliers;Enfants et jeunes immigrants;Immigrants et résidents non permanents",
             "lang": "fr"
           }
         ],
@@ -14834,11 +14834,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability; Health and disability among seniors; Health and well-being; Health care services; Mental health and well-being",
+            "keyword": "Health; Disability; Health and disability among seniors; Health and well-being; Health care services; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité;Santé et incapacité chez les aînés;Santé et bien-être;Services de soins de santé;Santé mentale et bien-être",
+            "keyword": "Santé;Incapacité;Santé et incapacité chez les aînés;Santé et bien-être;Services de soins de santé;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -14930,11 +14930,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Indigenous peoples; Health and well-being; Health care services",
+            "keyword": "Indigenous peoples; Health and well-being; Health care services",
             "lang": "en"
           },
           {
-            "keywords": "Peuples autochtones;Santé et bien-être;Services de soins de santé",
+            "keyword": "Peuples autochtones;Santé et bien-être;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -15026,11 +15026,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Research and development",
+            "keyword": "Health; Research and development",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Recherche et développement",
+            "keyword": "Santé;Recherche et développement",
             "lang": "fr"
           }
         ],
@@ -15122,11 +15122,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Education",
+            "keyword": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Éducation",
+            "keyword": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -15218,11 +15218,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Crime and justice; Victimization; Family violence",
+            "keyword": "Crime and justice; Victimization; Family violence",
             "lang": "en"
           },
           {
-            "keywords": "Crime et justice;Victimisation;Violence familiale",
+            "keyword": "Crime et justice;Victimisation;Violence familiale",
             "lang": "fr"
           }
         ],
@@ -15314,11 +15314,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Mental health and well-being; Pregnancy and births",
+            "keyword": "Health; Mental health and well-being; Pregnancy and births",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Santé mentale et bien-être;Grossesses et naissances",
+            "keyword": "Santé;Santé mentale et bien-être;Grossesses et naissances",
             "lang": "fr"
           }
         ],
@@ -15410,11 +15410,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Travel and tourism; Domestic travel",
+            "keyword": "Travel and tourism; Domestic travel",
             "lang": "en"
           },
           {
-            "keywords": "Voyages et tourisme;Voyages intérieurs",
+            "keyword": "Voyages et tourisme;Voyages intérieurs",
             "lang": "fr"
           }
         ],
@@ -15506,11 +15506,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health",
+            "keyword": "Health",
             "lang": "en"
           },
           {
-            "keywords": "Santé",
+            "keyword": "Santé",
             "lang": "fr"
           }
         ],
@@ -15602,11 +15602,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Population and demography; Census counts; Families, households and marital status; Families",
+            "keyword": "Population and demography; Census counts; Families, households and marital status; Families",
             "lang": "en"
           },
           {
-            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
+            "keyword": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
             "lang": "fr"
           }
         ],
@@ -15698,11 +15698,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Health care services",
+            "keyword": "Children and youth; Health care services",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Services de soins de santé",
+            "keyword": "Enfants et jeunes;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -15794,11 +15794,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being",
+            "keyword": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être",
+            "keyword": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -15890,11 +15890,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Personal and household taxation",
+            "keyword": "Health; Health care services; Personal and household taxation",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Imposition des particuliers et des ménages",
+            "keyword": "Santé;Services de soins de santé;Imposition des particuliers et des ménages",
             "lang": "fr"
           }
         ],
@@ -15986,11 +15986,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Lifestyle and social conditions",
+            "keyword": "Health; Health care services; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales",
+            "keyword": "Santé;Services de soins de santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -16082,11 +16082,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Crime and justice; Crimes and offences; Education",
+            "keyword": "Crime and justice; Crimes and offences; Education",
             "lang": "en"
           },
           {
-            "keywords": "Crime et justice;Crimes et infractions;Éducation",
+            "keyword": "Crime et justice;Crimes et infractions;Éducation",
             "lang": "fr"
           }
         ],
@@ -16178,11 +16178,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability; Census counts; Families, households and marital status; Families; Census counts; Families, households and marital status; Households",
+            "keyword": "Health; Disability; Census counts; Families, households and marital status; Families; Census counts; Families, households and marital status; Households",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Chiffres du recensement;Familles, ménages et état matrimonial;Ménages",
+            "keyword": "Santé;Incapacité;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Chiffres du recensement;Familles, ménages et état matrimonial;Ménages",
             "lang": "fr"
           }
         ],
@@ -16274,11 +16274,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Revenue and expenditures",
+            "keyword": "Labour; Revenue and expenditures",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Recettes et dépenses",
+            "keyword": "Travail;Recettes et dépenses",
             "lang": "fr"
           }
         ],
@@ -16370,11 +16370,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services",
+            "keyword": "Health; Health care services",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé",
+            "keyword": "Santé;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -16466,11 +16466,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability; Income and spending",
+            "keyword": "Health; Disability; Income and spending",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité;Revenu et dépenses",
+            "keyword": "Santé;Incapacité;Revenu et dépenses",
             "lang": "fr"
           }
         ],
@@ -16562,11 +16562,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Digital economy and society; Internet use; Business and government Internet use",
+            "keyword": "Digital economy and society; Internet use; Business and government Internet use",
             "lang": "en"
           },
           {
-            "keywords": "Économie et société numériques;Utilisation d'Internet;Utilisation d'Internet par les entreprises et les gouvernements",
+            "keyword": "Économie et société numériques;Utilisation d'Internet;Utilisation d'Internet par les entreprises et les gouvernements",
             "lang": "fr"
           }
         ],
@@ -16658,11 +16658,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Hours of work and work arrangements; Income and spending",
+            "keyword": "Labour; Hours of work and work arrangements; Income and spending",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Heures de travail et conditions de travail;Revenu et dépenses",
+            "keyword": "Travail;Heures de travail et conditions de travail;Revenu et dépenses",
             "lang": "fr"
           }
         ],
@@ -16754,11 +16754,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Digital economy and society; Internet use; Business and government Internet use",
+            "keyword": "Digital economy and society; Internet use; Business and government Internet use",
             "lang": "en"
           },
           {
-            "keywords": "Économie et société numériques;Utilisation d'Internet;Utilisation d'Internet par les entreprises et les gouvernements",
+            "keyword": "Économie et société numériques;Utilisation d'Internet;Utilisation d'Internet par les entreprises et les gouvernements",
             "lang": "fr"
           }
         ],
@@ -16850,11 +16850,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Lifestyle and social conditions; Alcohol and drug use; Lifestyle and social conditions; Other content related to Lifestyle and social cond; Lifestyle and social conditions; Smoking",
+            "keyword": "Health; Lifestyle and social conditions; Alcohol and drug use; Lifestyle and social conditions; Other content related to Lifestyle and social cond; Lifestyle and social conditions; Smoking",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Mode de vie et conditions sociales;Consommation d'alcool et de drogues;Mode de vie et conditions sociales;Autre contenu lié à la Mode de vie et les conditions sociales;Mode de vie et conditions sociales;Tabagisme",
+            "keyword": "Santé;Mode de vie et conditions sociales;Consommation d'alcool et de drogues;Mode de vie et conditions sociales;Autre contenu lié à la Mode de vie et les conditions sociales;Mode de vie et conditions sociales;Tabagisme",
             "lang": "fr"
           }
         ],
@@ -16946,11 +16946,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Prevention and detection of disease",
+            "keyword": "Health; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Prévention et détection de la maladie",
+            "keyword": "Santé;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -17042,11 +17042,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Crime and justice; Victimization; Family violence; Lifestyle and social conditions; Mental health and well-being",
+            "keyword": "Crime and justice; Victimization; Family violence; Lifestyle and social conditions; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Crime et justice;Victimisation;Violence familiale;Mode de vie et conditions sociales;Santé mentale et bien-être",
+            "keyword": "Crime et justice;Victimisation;Violence familiale;Mode de vie et conditions sociales;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -17138,11 +17138,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability; Equity and inclusion",
+            "keyword": "Health; Disability; Equity and inclusion",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité;Égalité et inclusion",
+            "keyword": "Santé;Incapacité;Égalité et inclusion",
             "lang": "fr"
           }
         ],
@@ -17234,11 +17234,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Environmental factors; Lifestyle and social conditions",
+            "keyword": "Health; Environmental factors; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Facteurs environnementaux;Mode de vie et conditions sociales",
+            "keyword": "Santé;Facteurs environnementaux;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -17330,11 +17330,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Business and consumer services and culture; Business and consumer services; Housing and family and household characteristics o; Immigrants and non-permanent residents; Vacancy rates",
+            "keyword": "Business and consumer services and culture; Business and consumer services; Housing and family and household characteristics o; Immigrants and non-permanent residents; Vacancy rates",
             "lang": "en"
           },
           {
-            "keywords": "Services aux entreprises et aux consommateurs et culture;Services aux entreprises et aux consommateurs;Logement et caractéristiques familiales et du ménage des aînés;Immigrants et résidents non permanents;Taux d'inoccupation",
+            "keyword": "Services aux entreprises et aux consommateurs et culture;Services aux entreprises et aux consommateurs;Logement et caractéristiques familiales et du ménage des aînés;Immigrants et résidents non permanents;Taux d'inoccupation",
             "lang": "fr"
           }
         ],
@@ -17426,11 +17426,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Income, pensions, spending and wealth; Household spending and savings; Household, family and personal income; Income, pensions and wealth; Personal and household taxation",
+            "keyword": "Income, pensions, spending and wealth; Household spending and savings; Household, family and personal income; Income, pensions and wealth; Personal and household taxation",
             "lang": "en"
           },
           {
-            "keywords": "Revenu, pensions, dépenses et richesse;Dépenses et épargne des ménages;Revenu des ménages, des familles et des particuliers;Revenu, pension et patrimoine;Imposition des particuliers et des ménages",
+            "keyword": "Revenu, pensions, dépenses et richesse;Dépenses et épargne des ménages;Revenu des ménages, des familles et des particuliers;Revenu, pension et patrimoine;Imposition des particuliers et des ménages",
             "lang": "fr"
           }
         ],
@@ -17522,11 +17522,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Agriculture and food; Food",
+            "keyword": "Agriculture and food; Food",
             "lang": "en"
           },
           {
-            "keywords": "Agriculture et alimentation;Alimentation",
+            "keyword": "Agriculture et alimentation;Alimentation",
             "lang": "fr"
           }
         ],
@@ -17618,11 +17618,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Society and community; Coronavirus",
+            "keyword": "Society and community; Coronavirus",
             "lang": "en"
           },
           {
-            "keywords": "Société et communauté;Coronavirus",
+            "keyword": "Société et communauté;Coronavirus",
             "lang": "fr"
           }
         ],
@@ -17714,11 +17714,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Life expectancy and deaths; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
+            "keyword": "Health; Health care services; Life expectancy and deaths; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Espérance de vie et décès;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
+            "keyword": "Santé;Services de soins de santé;Espérance de vie et décès;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -17810,11 +17810,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Diseases and physical health conditions; Life expectancy and deaths",
+            "keyword": "Health; Diseases and physical health conditions; Life expectancy and deaths",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Maladies et état de santé physique;Espérance de vie et décès",
+            "keyword": "Santé;Maladies et état de santé physique;Espérance de vie et décès",
             "lang": "fr"
           }
         ],
@@ -17906,11 +17906,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Lifestyle and social conditions",
+            "keyword": "Health; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Mode de vie et conditions sociales",
+            "keyword": "Santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -18002,11 +18002,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability; Diseases and physical health conditions; Hours of work and work arrangements",
+            "keyword": "Health; Disability; Diseases and physical health conditions; Hours of work and work arrangements",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité;Maladies et état de santé physique;Heures de travail et conditions de travail",
+            "keyword": "Santé;Incapacité;Maladies et état de santé physique;Heures de travail et conditions de travail",
             "lang": "fr"
           }
         ],
@@ -18098,11 +18098,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Health of children and youth; Immigrant children and youth; Immigrant generations",
+            "keyword": "Health; Health care services; Health of children and youth; Immigrant children and youth; Immigrant generations",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Santé des enfants et des jeunes;Enfants et jeunes immigrants;Générations d'immigrants",
+            "keyword": "Santé;Services de soins de santé;Santé des enfants et des jeunes;Enfants et jeunes immigrants;Générations d'immigrants",
             "lang": "fr"
           }
         ],
@@ -18194,11 +18194,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Crime and justice; Other content related to Crime and justice",
+            "keyword": "Crime and justice; Other content related to Crime and justice",
             "lang": "en"
           },
           {
-            "keywords": "Crime et justice;Autre contenu lié au Crime et la justice",
+            "keyword": "Crime et justice;Autre contenu lié au Crime et la justice",
             "lang": "fr"
           }
         ],
@@ -18290,11 +18290,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Population and demography; Census counts; Families, households and marital status; Families; Census counts; Families, households and marital status; Households; Unpaid work; Work transitions and life stages",
+            "keyword": "Population and demography; Census counts; Families, households and marital status; Families; Census counts; Families, households and marital status; Households; Unpaid work; Work transitions and life stages",
             "lang": "en"
           },
           {
-            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Chiffres du recensement;Familles, ménages et état matrimonial;Ménages;Travail non rémunéré;Transitions professionnelles et stades de la vie",
+            "keyword": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Chiffres du recensement;Familles, ménages et état matrimonial;Ménages;Travail non rémunéré;Transitions professionnelles et stades de la vie",
             "lang": "fr"
           }
         ],
@@ -18386,11 +18386,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services",
+            "keyword": "Health; Health care services",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé",
+            "keyword": "Santé;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -18482,11 +18482,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability",
+            "keyword": "Health; Disability",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité",
+            "keyword": "Santé;Incapacité",
             "lang": "fr"
           }
         ],
@@ -18578,11 +18578,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Crime and justice; Crimes and offences",
+            "keyword": "Crime and justice; Crimes and offences",
             "lang": "en"
           },
           {
-            "keywords": "Crime et justice;Crimes et infractions",
+            "keyword": "Crime et justice;Crimes et infractions",
             "lang": "fr"
           }
         ],
@@ -18674,11 +18674,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Mental health and well-being; Workplace organization, innovation and performance",
+            "keyword": "Health; Health care services; Mental health and well-being; Workplace organization, innovation and performance",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Santé mentale et bien-être;Organisation du milieu de travail, innovation et rendement",
+            "keyword": "Santé;Services de soins de santé;Santé mentale et bien-être;Organisation du milieu de travail, innovation et rendement",
             "lang": "fr"
           }
         ],
@@ -18770,11 +18770,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Crime and justice; Crimes and offences",
+            "keyword": "Crime and justice; Crimes and offences",
             "lang": "en"
           },
           {
-            "keywords": "Crime et justice;Crimes et infractions",
+            "keyword": "Crime et justice;Crimes et infractions",
             "lang": "fr"
           }
         ],
@@ -18866,11 +18866,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health of children and youth; Income and spending",
+            "keyword": "Health; Health of children and youth; Income and spending",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Santé des enfants et des jeunes;Revenu et dépenses",
+            "keyword": "Santé;Santé des enfants et des jeunes;Revenu et dépenses",
             "lang": "fr"
           }
         ],
@@ -18962,11 +18962,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Government; Employment and remuneration; Mental health and well-being",
+            "keyword": "Government; Employment and remuneration; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Gouvernement;Emploi et rémunération;Santé mentale et bien-être",
+            "keyword": "Gouvernement;Emploi et rémunération;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -19058,11 +19058,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability; Mental health and well-being",
+            "keyword": "Health; Disability; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité;Santé mentale et bien-être",
+            "keyword": "Santé;Incapacité;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -19154,11 +19154,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health",
+            "keyword": "Health",
             "lang": "en"
           },
           {
-            "keywords": "Santé",
+            "keyword": "Santé",
             "lang": "fr"
           }
         ],
@@ -19250,11 +19250,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health",
+            "keyword": "Health",
             "lang": "en"
           },
           {
-            "keywords": "Santé",
+            "keyword": "Santé",
             "lang": "fr"
           }
         ],
@@ -19346,11 +19346,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Government",
+            "keyword": "Government",
             "lang": "en"
           },
           {
-            "keywords": "Gouvernement",
+            "keyword": "Gouvernement",
             "lang": "fr"
           }
         ],
@@ -19442,11 +19442,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being",
+            "keyword": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être",
+            "keyword": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -19538,11 +19538,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Agriculture and food",
+            "keyword": "Agriculture and food",
             "lang": "en"
           },
           {
-            "keywords": "Agriculture et alimentation",
+            "keyword": "Agriculture et alimentation",
             "lang": "fr"
           }
         ],
@@ -19634,11 +19634,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Seniors and aging; Care and social support; Child care; Children at home",
+            "keyword": "Seniors and aging; Care and social support; Child care; Children at home",
             "lang": "en"
           },
           {
-            "keywords": "Aînés et vieillissement;Soins et soutien social;Soins aux enfants;Présence d'enfants à la maison",
+            "keyword": "Aînés et vieillissement;Soins et soutien social;Soins aux enfants;Présence d'enfants à la maison",
             "lang": "fr"
           }
         ],
@@ -19730,11 +19730,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Crime and justice; Information and communications technology sector; Internet use",
+            "keyword": "Crime and justice; Information and communications technology sector; Internet use",
             "lang": "en"
           },
           {
-            "keywords": "Crime et justice;Secteur des technologies de l'information et des communications;Utilisation d'Internet",
+            "keyword": "Crime et justice;Secteur des technologies de l'information et des communications;Utilisation d'Internet",
             "lang": "fr"
           }
         ],
@@ -19826,11 +19826,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Diseases and physical health conditions; Lifestyle and social conditions",
+            "keyword": "Health; Diseases and physical health conditions; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Maladies et état de santé physique;Mode de vie et conditions sociales",
+            "keyword": "Santé;Maladies et état de santé physique;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -19922,11 +19922,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Crime and justice; Correctional services; Crimes and offences",
+            "keyword": "Crime and justice; Correctional services; Crimes and offences",
             "lang": "en"
           },
           {
-            "keywords": "Crime et justice;Services correctionnels;Crimes et infractions",
+            "keyword": "Crime et justice;Services correctionnels;Crimes et infractions",
             "lang": "fr"
           }
         ],
@@ -20018,11 +20018,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Commuting to work; Earnings, wages and non-wage benefits; Mental health and well-being; Unionization and industrial relations",
+            "keyword": "Labour; Commuting to work; Earnings, wages and non-wage benefits; Mental health and well-being; Unionization and industrial relations",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Navettage;Gains, salaires et avantages sociaux;Santé mentale et bien-être;Syndicalisation et relations industrielles",
+            "keyword": "Travail;Navettage;Gains, salaires et avantages sociaux;Santé mentale et bien-être;Syndicalisation et relations industrielles",
             "lang": "fr"
           }
         ],
@@ -20114,11 +20114,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability; Health and disability among seniors; Health care services",
+            "keyword": "Health; Disability; Health and disability among seniors; Health care services",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité;Santé et incapacité chez les aînés;Services de soins de santé",
+            "keyword": "Santé;Incapacité;Santé et incapacité chez les aînés;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -20210,11 +20210,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Business performance and ownership; Business dynamics; Earnings, wages and non-wage benefits; Labour and employment",
+            "keyword": "Business performance and ownership; Business dynamics; Earnings, wages and non-wage benefits; Labour and employment",
             "lang": "en"
           },
           {
-            "keywords": "Rendement des entreprises et propriété;Dynamique des entreprises;Gains, salaires et avantages sociaux;Travail et emploi",
+            "keyword": "Rendement des entreprises et propriété;Dynamique des entreprises;Gains, salaires et avantages sociaux;Travail et emploi",
             "lang": "fr"
           }
         ],
@@ -20306,11 +20306,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Business and consumer services and culture; Culture; Mental health and well-being",
+            "keyword": "Business and consumer services and culture; Culture; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": "Services aux entreprises et aux consommateurs et culture;Culture;Santé mentale et bien-être",
+            "keyword": "Services aux entreprises et aux consommateurs et culture;Culture;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -20402,11 +20402,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Environment; Environmental protection; Land use",
+            "keyword": "Environment; Environmental protection; Land use",
             "lang": "en"
           },
           {
-            "keywords": "Environnement;Protection de l'environnement;Utilisation des terres",
+            "keyword": "Environnement;Protection de l'environnement;Utilisation des terres",
             "lang": "fr"
           }
         ],
@@ -20498,11 +20498,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Labour; Hours of work and work arrangements; Mental health and well-being; Workplace organization, innovation and performance",
+            "keyword": "Labour; Hours of work and work arrangements; Mental health and well-being; Workplace organization, innovation and performance",
             "lang": "en"
           },
           {
-            "keywords": "Travail;Heures de travail et conditions de travail;Santé mentale et bien-être;Organisation du milieu de travail, innovation et rendement",
+            "keyword": "Travail;Heures de travail et conditions de travail;Santé mentale et bien-être;Organisation du milieu de travail, innovation et rendement",
             "lang": "fr"
           }
         ],
@@ -20594,11 +20594,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Seniors and aging; Housing and family and household characteristics o",
+            "keyword": "Seniors and aging; Housing and family and household characteristics o",
             "lang": "en"
           },
           {
-            "keywords": "Aînés et vieillissement;Logement et caractéristiques familiales et du ménage des aînés",
+            "keyword": "Aînés et vieillissement;Logement et caractéristiques familiales et du ménage des aînés",
             "lang": "fr"
           }
         ],
@@ -20690,11 +20690,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Society and community; Civic participation; Social and personal networks",
+            "keyword": "Society and community; Civic participation; Social and personal networks",
             "lang": "en"
           },
           {
-            "keywords": "Société et communauté;Participation communautaire;Réseaux sociaux et personnels",
+            "keyword": "Société et communauté;Participation communautaire;Réseaux sociaux et personnels",
             "lang": "fr"
           }
         ],
@@ -20786,11 +20786,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Travel and tourism; Domestic travel; International travel",
+            "keyword": "Travel and tourism; Domestic travel; International travel",
             "lang": "en"
           },
           {
-            "keywords": "Voyages et tourisme;Voyages intérieurs;Voyages internationaux",
+            "keyword": "Voyages et tourisme;Voyages intérieurs;Voyages internationaux",
             "lang": "fr"
           }
         ],
@@ -20882,11 +20882,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Energy; Energy supply and use",
+            "keyword": "Energy; Energy supply and use",
             "lang": "en"
           },
           {
-            "keywords": "Énergie;Disponibilité et utilisation d'énergie",
+            "keyword": "Énergie;Disponibilité et utilisation d'énergie",
             "lang": "fr"
           }
         ],
@@ -20978,11 +20978,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Environment; Environmental protection; Land use",
+            "keyword": "Environment; Environmental protection; Land use",
             "lang": "en"
           },
           {
-            "keywords": "Environnement;Protection de l'environnement;Utilisation des terres",
+            "keyword": "Environnement;Protection de l'environnement;Utilisation des terres",
             "lang": "fr"
           }
         ],
@@ -21074,11 +21074,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
+            "keyword": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
+            "keyword": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -21170,11 +21170,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Business performance and ownership; Business ownership; Innovation and business strategy",
+            "keyword": "Business performance and ownership; Business ownership; Innovation and business strategy",
             "lang": "en"
           },
           {
-            "keywords": "Rendement des entreprises et propriété;Propriété des entreprises;Innovation et stratégies d'entreprise",
+            "keyword": "Rendement des entreprises et propriété;Propriété des entreprises;Innovation et stratégies d'entreprise",
             "lang": "fr"
           }
         ],
@@ -21266,11 +21266,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Disability",
+            "keyword": "Health; Disability",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Incapacité",
+            "keyword": "Santé;Incapacité",
             "lang": "fr"
           }
         ],
@@ -21362,11 +21362,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Diseases and physical health conditions; Cancer; Health care services; Life expectancy and deaths",
+            "keyword": "Health; Diseases and physical health conditions; Cancer; Health care services; Life expectancy and deaths",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Maladies et état de santé physique;Cancer;Services de soins de santé;Espérance de vie et décès",
+            "keyword": "Santé;Maladies et état de santé physique;Cancer;Services de soins de santé;Espérance de vie et décès",
             "lang": "fr"
           }
         ],
@@ -21458,11 +21458,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Child development and behaviour; Diseases and physical health conditions; Health of children and youth",
+            "keyword": "Children and youth; Child development and behaviour; Diseases and physical health conditions; Health of children and youth",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Développement et comportement de l'enfant;Maladies et état de santé physique;Santé des enfants et des jeunes",
+            "keyword": "Enfants et jeunes;Développement et comportement de l'enfant;Maladies et état de santé physique;Santé des enfants et des jeunes",
             "lang": "fr"
           }
         ],
@@ -21554,11 +21554,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Business performance and ownership; Financial statements and performance",
+            "keyword": "Business performance and ownership; Financial statements and performance",
             "lang": "en"
           },
           {
-            "keywords": "Rendement des entreprises et propriété;États financiers et rendement",
+            "keyword": "Rendement des entreprises et propriété;États financiers et rendement",
             "lang": "fr"
           }
         ],
@@ -21650,11 +21650,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth",
+            "keyword": "Children and youth",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes",
+            "keyword": "Enfants et jeunes",
             "lang": "fr"
           }
         ],
@@ -21746,11 +21746,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Child care",
+            "keyword": "Children and youth; Child care",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Soins aux enfants",
+            "keyword": "Enfants et jeunes;Soins aux enfants",
             "lang": "fr"
           }
         ],
@@ -21842,11 +21842,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Prices and price indexes; Consumer price indexes",
+            "keyword": "Prices and price indexes; Consumer price indexes",
             "lang": "en"
           },
           {
-            "keywords": "Prix et indices des prix;Indices des prix à la consommation",
+            "keyword": "Prix et indices des prix;Indices des prix à la consommation",
             "lang": "fr"
           }
         ],
@@ -21938,11 +21938,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Correctional services",
+            "keyword": "Children and youth; Correctional services",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Services correctionnels",
+            "keyword": "Enfants et jeunes;Services correctionnels",
             "lang": "fr"
           }
         ],
@@ -22034,11 +22034,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Energy; Energy supply and use",
+            "keyword": "Energy; Energy supply and use",
             "lang": "en"
           },
           {
-            "keywords": "Énergie;Disponibilité et utilisation d'énergie",
+            "keyword": "Énergie;Disponibilité et utilisation d'énergie",
             "lang": "fr"
           }
         ],
@@ -22130,11 +22130,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Mortality (deaths)",
+            "keyword": "Health; Mortality (deaths)",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Mortalité (décès)",
+            "keyword": "Santé;Mortalité (décès)",
             "lang": "fr"
           }
         ],
@@ -22226,11 +22226,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Prices and price indexes; Producer price indexes",
+            "keyword": "Prices and price indexes; Producer price indexes",
             "lang": "en"
           },
           {
-            "keywords": "Prix et indices des prix;Indices des prix à la production",
+            "keyword": "Prix et indices des prix;Indices des prix à la production",
             "lang": "fr"
           }
         ],
@@ -22322,11 +22322,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Prices and price indexes",
+            "keyword": "Prices and price indexes",
             "lang": "en"
           },
           {
-            "keywords": "Prix et indices des prix",
+            "keyword": "Prix et indices des prix",
             "lang": "fr"
           }
         ],
@@ -22418,11 +22418,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Census; Household spending and savings",
+            "keyword": "Census; Household spending and savings",
             "lang": "en"
           },
           {
-            "keywords": "Recensement;Dépenses et épargne des ménages",
+            "keyword": "Recensement;Dépenses et épargne des ménages",
             "lang": "fr"
           }
         ],
@@ -22514,11 +22514,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Crime and justice; Correctional services; Courts",
+            "keyword": "Crime and justice; Correctional services; Courts",
             "lang": "en"
           },
           {
-            "keywords": "Crime et justice;Services correctionnels;Tribunaux",
+            "keyword": "Crime et justice;Services correctionnels;Tribunaux",
             "lang": "fr"
           }
         ],
@@ -22610,11 +22610,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Families, households and marital status; Household, family and personal income; Low income and inequality",
+            "keyword": "Families, households and marital status; Household, family and personal income; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": "Familles, ménages et état matrimonial;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
+            "keyword": "Familles, ménages et état matrimonial;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -22706,11 +22706,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Child development and behaviour; Health of children and youth",
+            "keyword": "Children and youth; Child development and behaviour; Health of children and youth",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Développement et comportement de l'enfant;Santé des enfants et des jeunes",
+            "keyword": "Enfants et jeunes;Développement et comportement de l'enfant;Santé des enfants et des jeunes",
             "lang": "fr"
           }
         ],
@@ -22802,11 +22802,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Children and youth; Child care; Disability",
+            "keyword": "Children and youth; Child care; Disability",
             "lang": "en"
           },
           {
-            "keywords": "Enfants et jeunes;Soins aux enfants;Incapacité",
+            "keyword": "Enfants et jeunes;Soins aux enfants;Incapacité",
             "lang": "fr"
           }
         ],
@@ -22898,11 +22898,11 @@
         ],
         "keywords": [
           {
-            "keywords": "Health; Diseases and physical health conditions; Lifestyle and social conditions",
+            "keyword": "Health; Diseases and physical health conditions; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": "Santé;Maladies et état de santé physique;Mode de vie et conditions sociales",
+            "keyword": "Santé;Maladies et état de santé physique;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
