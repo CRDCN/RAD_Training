@@ -50,15 +50,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["PALS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability; Equity and inclusion",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EPLA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité;Égalité et inclusion",
             "lang": "fr"
           }
         ],
@@ -150,15 +146,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -250,15 +242,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NLSCY", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Child development and behaviour",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ELNEJ", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Développement et comportement de l'enfant",
             "lang": "fr"
           }
         ],
@@ -350,15 +338,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["EDS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Immigration and ethnocultural diversity",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EDE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Immigration et diversité ethnoculturelle",
             "lang": "fr"
           }
         ],
@@ -450,15 +434,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["Census", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Census; Census counts; Families, households and marital status; Families",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "Recensement", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Recensement;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
             "lang": "fr"
           }
         ],
@@ -550,15 +530,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SLID", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Population and demography; Census counts; Families, households and marital status; Families; Household, family and personal income; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EDTR", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -650,15 +626,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NPHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENSP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé",
             "lang": "fr"
           }
         ],
@@ -750,15 +722,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["LSIC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Immigration and ethnocultural diversity; Immigrants and non-permanent residents",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ELIC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Immigration et diversité ethnoculturelle;Immigrants et résidents non permanents",
             "lang": "fr"
           }
         ],
@@ -850,15 +818,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NGS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "END", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -950,15 +914,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["IPS APS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Indigenous peoples; Demographic characteristics and Indigenous groups; Education, learning and skills; Health and well-being; Income and spending; Labour and employment; Language and culture; Living arrangements and housing; Culture; Other content related to Culture; Student pathways; Education indicators; Transitions and outcomes, indicators",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EAPA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Peuples autochtones;Caractéristiques démographiques et groupes autochtones;Éducation, apprentissage et compétences;Santé et bien-être;Revenu et dépenses;Travail et emploi;Langues et cultures;Situation des particuliers et logement;Culture;Autre contenu lié à la Culture;Cheminement des étudiants;Indicateurs de l'éducation;Transitions et résultats, indicateurs",
             "lang": "fr"
           }
         ],
@@ -1050,15 +1010,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["FES", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Income, pensions, spending and wealth; Household spending and savings",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EDA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Revenu, pensions, dépenses et richesse;Dépenses et épargne des ménages",
             "lang": "fr"
           }
         ],
@@ -1150,15 +1106,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SFS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Income, pensions, spending and wealth; Household and family assets, debts and wealth; Net worth",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESF", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Revenu, pensions, dépenses et richesse;Actif, endettement et richesse des ménages et des familles;Valeur nette",
             "lang": "fr"
           }
         ],
@@ -1250,15 +1202,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["Famex", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Population and demography; Census counts; Families, households and marital status; Families; Household spending and savings; Household spending",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "Famex", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Dépenses et épargne des ménages;Dépenses des ménages",
             "lang": "fr"
           }
         ],
@@ -1350,15 +1298,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["MES", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Pregnancy and births",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EEM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Grossesses et naissances",
             "lang": "fr"
           }
         ],
@@ -1450,15 +1394,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CSGVP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Unpaid work; Volunteering and donating",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECDBP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Travail non rémunéré;Don et bénévolat",
             "lang": "fr"
           }
         ],
@@ -1550,15 +1490,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["YITS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Child development and behaviour",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EJET", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Développement et comportement de l'enfant",
             "lang": "fr"
           }
         ],
@@ -1650,15 +1586,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["WES", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Education, training and learning; Adult learning; Educational attainment and qualifications; Hours of work and work arrangements; Earnings, wages and non-wage benefits; Non-wage benefits; Workplace organization, innovation and performance",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EMTE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Éducation, formation et apprentissage;Apprentissage des adultes;Niveau de scolarité et qualifications;Heures de travail et conditions de travail;Gains, salaires et avantages sociaux;Avantages sociaux;Organisation du milieu de travail, innovation et rendement",
             "lang": "fr"
           }
         ],
@@ -1750,15 +1682,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["AETS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EÉFA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes",
             "lang": "fr"
           }
         ],
@@ -1850,15 +1778,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["LFS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Employment and unemployment; Hours of work and work arrangements",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EPA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Emploi et chômage;Heures de travail et conditions de travail",
             "lang": "fr"
           }
         ],
@@ -1950,15 +1874,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["PISA", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education; Literacy",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "PISA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation;Littératie",
             "lang": "fr"
           }
         ],
@@ -2050,15 +1970,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["RCFS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability; Health and disability among seniors; Health care services",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESBI", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité;Santé et incapacité chez les aînés;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -2150,15 +2066,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NAS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Education, training and learning; Apprenticeship and trades; Education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Éducation, formation et apprentissage;Apprentis et métiers;Éducation",
             "lang": "fr"
           }
         ],
@@ -2250,15 +2162,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SCF", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Income, pensions, spending and wealth; Household, family and personal income; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EFC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Revenu, pensions, dépenses et richesse;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -2350,15 +2258,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SSP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Employment insurance, social assistance and other",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "PA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Assurance-emploi, aide sociale et autres transferts",
             "lang": "fr"
           }
         ],
@@ -2450,15 +2354,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Population and demography; Census counts; Families, households and marital status; Families; Health of children and youth; Other content related to Children and youth",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EDM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Santé des enfants et des jeunes;Autre contenu lié aux Enfants et les jeunes",
             "lang": "fr"
           }
         ],
@@ -2550,15 +2450,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CTUMS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESUTC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "",
             "lang": "fr"
           }
         ],
@@ -2650,15 +2546,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["IALSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education; Literacy",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EIACA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation;Littératie",
             "lang": "fr"
           }
         ],
@@ -2750,15 +2642,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NSWHN", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Hours of work and work arrangements; Lifestyle and social conditions; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENTSPI", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Heures de travail et conditions de travail;Mode de vie et conditions sociales;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -2850,15 +2738,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["HSAS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EASS", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -2950,15 +2834,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCR", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Life expectancy and deaths",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "RCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Espérance de vie et décès",
             "lang": "fr"
           }
         ],
@@ -3050,15 +2930,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SVOLM", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Languages; Language groups; Use of languages",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EVMLO", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Langues;Groupes linguistiques;Utilisation des langues",
             "lang": "fr"
           }
         ],
@@ -3150,15 +3026,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SAEP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Postsecondary education; Student financial assistance and debt; Postsecondary education; Tuition and other fees",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EAPE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Études postsecondaires;Aide financière aux études et endettement étudiant;Études postsecondaires;Frais de scolarité et autres frais",
             "lang": "fr"
           }
         ],
@@ -3250,15 +3122,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["PSES", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Government; Employment and remuneration",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "SAFF", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Gouvernement;Emploi et rémunération",
             "lang": "fr"
           }
         ],
@@ -3350,15 +3218,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["HS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Crime and justice; Crimes and offences",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EH", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Crime et justice;Crimes et infractions",
             "lang": "fr"
           }
         ],
@@ -3450,15 +3314,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CFCS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Income, pensions, spending and wealth; Household spending and savings",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECCF", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Revenu, pensions, dépenses et richesse;Dépenses et épargne des ménages",
             "lang": "fr"
           }
         ],
@@ -3550,15 +3410,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CHPS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education; Census counts; Families, households and marital status; Families",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EPMC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
             "lang": "fr"
           }
         ],
@@ -3650,15 +3506,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CIUS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Digital economy and society; Internet use; Individual and household Internet use; Information and communications technology sector",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECUI", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Économie et société numériques;Utilisation d'Internet;Utilisation d'Internet par les particuliers et les ménages;Secteur des technologies de l'information et des communications",
             "lang": "fr"
           }
         ],
@@ -3750,15 +3602,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NPVUS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Transportation",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENUVP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Transport",
             "lang": "fr"
           }
         ],
@@ -3850,15 +3698,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["ACS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Indigenous children",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EEA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Enfants autochtones",
             "lang": "fr"
           }
         ],
@@ -3950,15 +3794,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Population and demography; Census counts; Families, households and marital status; Families",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
             "lang": "fr"
           }
         ],
@@ -4050,15 +3890,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["PIAAC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Education, training and learning; Educational attainment and qualifications; Other content related to Education, training and l",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "PEICA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Éducation, formation et apprentissage;Niveau de scolarité et qualifications;Autre contenu lié à l'Éducation, la formation et l'apprentissage",
             "lang": "fr"
           }
         ],
@@ -4150,15 +3986,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["ASETS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EASEF", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -4250,15 +4082,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["EICS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Employment insurance, social assistance and other; Earnings, wages and non-wage benefits; Non-wage benefits",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECAE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Assurance-emploi, aide sociale et autres transferts;Gains, salaires et avantages sociaux;Avantages sociaux",
             "lang": "fr"
           }
         ],
@@ -4350,15 +4178,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["HPS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EPS", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -4450,15 +4274,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["HES", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Environment; Pollution and waste",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EME", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Environnement;Pollution et déchets",
             "lang": "fr"
           }
         ],
@@ -4550,15 +4370,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NCCS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Child care; Child development and behaviour",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENSE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Soins aux enfants;Développement et comportement de l'enfant",
             "lang": "fr"
           }
         ],
@@ -4650,15 +4466,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["OALS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EAAO", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -4750,15 +4562,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["PEPS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Postsecondary education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EPEP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Études postsecondaires",
             "lang": "fr"
           }
         ],
@@ -4850,15 +4658,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SLCDC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Diseases and physical health conditions; Chronic conditions",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EPMCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Maladies et état de santé physique;Maladies chroniques",
             "lang": "fr"
           }
         ],
@@ -4950,15 +4754,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SED", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Postsecondary education; Graduates, postsecondary",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ETD", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Études postsecondaires;Diplômés, études postsecondaires",
             "lang": "fr"
           }
         ],
@@ -5050,15 +4850,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SOW", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Work transitions and life stages",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ETA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Transitions professionnelles et stades de la vie",
             "lang": "fr"
           }
         ],
@@ -5150,15 +4946,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SYC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Child care; Child development and behaviour; Education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EJC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Soins aux enfants;Développement et comportement de l'enfant;Éducation",
             "lang": "fr"
           }
         ],
@@ -5250,15 +5042,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SLNCC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Diseases and physical health conditions; Neurological conditions",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EPPNC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Maladies et état de santé physique;Problèmes neurologiques",
             "lang": "fr"
           }
         ],
@@ -5350,15 +5138,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["YSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Lifestyle and social conditions; Smoking",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ETJ", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Mode de vie et conditions sociales;Tabagisme",
             "lang": "fr"
           }
         ],
@@ -5450,15 +5234,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["LSUDA", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECLEUQ", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -5550,15 +5330,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["LAD", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Income, pensions, spending and wealth; Household, family and personal income; Personal and household taxation",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "DAL", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Revenu, pensions, dépenses et richesse;Revenu des ménages, des familles et des particuliers;Imposition des particuliers et des ménages",
             "lang": "fr"
           }
         ],
@@ -5650,15 +5426,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["UCR", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Crime and justice; Crimes and offences",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "DUC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Crime et justice;Crimes et infractions",
             "lang": "fr"
           }
         ],
@@ -5750,15 +5522,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["BCPCHC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESPPSC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -5850,15 +5618,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Diseases and physical health conditions; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Maladies et état de santé physique;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -5950,15 +5714,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé",
             "lang": "fr"
           }
         ],
@@ -6050,15 +5810,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -6150,15 +5906,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé",
             "lang": "fr"
           }
         ],
@@ -6250,15 +6002,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["GSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Population and demography; Census counts; Families, households and marital status; Fertility (births)",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESG", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Fécondité (naissances)",
             "lang": "fr"
           }
         ],
@@ -6350,15 +6098,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["GSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Seniors and aging; Care and social support; Census counts; Families, households and marital status",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESG", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Aînés et vieillissement;Soins et soutien social;Chiffres du recensement;Familles, ménages et état matrimonial",
             "lang": "fr"
           }
         ],
@@ -6450,15 +6194,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["GSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Hours of work and work arrangements; Time use",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESG", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Heures de travail et conditions de travail;Emploi du temps",
             "lang": "fr"
           }
         ],
@@ -6550,15 +6290,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["GSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Society and community; Civic participation; Social and personal networks; Coronavirus; Social impacts of COVID-19",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESG", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Société et communauté;Participation communautaire;Réseaux sociaux et personnels;Coronavirus;Impacts sociaux de COVID-19",
             "lang": "fr"
           }
         ],
@@ -6650,15 +6386,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["GSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Crime and justice",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESG", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Crime et justice",
             "lang": "fr"
           }
         ],
@@ -6750,15 +6482,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["GSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Digital economy and society; Internet use",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESG", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Économie et société numériques;Utilisation d'Internet",
             "lang": "fr"
           }
         ],
@@ -6850,15 +6578,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["GSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Education, training and learning; Adult learning; Employment and unemployment; Education and the labour market; Student pathways; Work and retirement; Work transitions and life stages",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESG", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Éducation, formation et apprentissage;Apprentissage des adultes;Emploi et chômage;Éducation et marché du travail;Cheminement des étudiants;Travail et retraite;Transitions professionnelles et stades de la vie",
             "lang": "fr"
           }
         ],
@@ -6950,15 +6674,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["GSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability; Diseases and physical health conditions; Health care services; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESG", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité;Maladies et état de santé physique;Services de soins de santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -7050,15 +6770,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["GSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Society and community",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESG", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Société et communauté",
             "lang": "fr"
           }
         ],
@@ -7150,15 +6866,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NPHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability; Health and disability among seniors; Health care services",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENSP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité;Santé et incapacité chez les aînés;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -7250,15 +6962,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NPHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENSP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé",
             "lang": "fr"
           }
         ],
@@ -7350,15 +7058,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NPHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENSP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -7450,15 +7154,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NPHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Health and disability among seniors; Health and well-being; Health care services; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENSP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Santé et incapacité chez les aînés;Santé et bien-être;Services de soins de santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -7550,15 +7250,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["LISA", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education; Census counts; Families, households and marital status; Families",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ELIA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
             "lang": "fr"
           }
         ],
@@ -7650,15 +7346,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["OCHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESJO", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes",
             "lang": "fr"
           }
         ],
@@ -7750,15 +7442,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CSD", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECI", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité",
             "lang": "fr"
           }
         ],
@@ -7850,15 +7538,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CSE", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -7950,15 +7634,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["HIFE", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Population and demography; Census counts; Families, households and marital status; Families; Household spending and savings",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "RMEM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Dépenses et épargne des ménages",
             "lang": "fr"
           }
         ],
@@ -8050,15 +7730,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["IYS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Child development and behaviour",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EIJ", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Développement et comportement de l'enfant",
             "lang": "fr"
           }
         ],
@@ -8150,15 +7826,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["ICTSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Elementary and secondary education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ETICE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Études primaires et secondaires",
             "lang": "fr"
           }
         ],
@@ -8250,15 +7922,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CSEW", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Income, pensions, spending and wealth; Household, family and personal income; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECBE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Revenu, pensions, dépenses et richesse;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -8350,15 +8018,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CFMHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESMFC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -8450,15 +8114,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["LASS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EVAS", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé",
             "lang": "fr"
           }
         ],
@@ -8550,15 +8210,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CNICS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECVNE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -8650,15 +8306,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["MOHLTC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "MSSLDO", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé",
             "lang": "fr"
           }
         ],
@@ -8750,15 +8402,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["FTD", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "UAD", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -8850,15 +8498,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["ISRS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education; Literacy",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EICL", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation;Littératie",
             "lang": "fr"
           }
         ],
@@ -8950,15 +8594,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NSNVO", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Society and community; Volunteering and donating",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENONB", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Société et communauté;Don et bénévolat",
             "lang": "fr"
           }
         ],
@@ -9050,15 +8690,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["OMDS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Income, pensions, spending and wealth; Household, family and personal income; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EPMO", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Revenu, pensions, dépenses et richesse;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -9150,15 +8786,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["RTSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Digital economy and society; Information and communications technology sector; Telecommunications",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESTR", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Économie et société numériques;Secteur des technologies de l'information et des communications;Télécommunications",
             "lang": "fr"
           }
         ],
@@ -9250,15 +8882,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SSE", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Employment and unemployment",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ETI", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Emploi et chômage",
             "lang": "fr"
           }
         ],
@@ -9350,15 +8978,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["LMAS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Employment insurance, social assistance and other; Hours of work and work arrangements",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Assurance-emploi, aide sociale et autres transferts;Heures de travail et conditions de travail",
             "lang": "fr"
           }
         ],
@@ -9450,15 +9074,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CNHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Environmental factors; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EBAS", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Facteurs environnementaux;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -9550,15 +9170,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["GSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Society and community; Civic participation; Volunteering and donating",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESG", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Société et communauté;Participation communautaire;Don et bénévolat",
             "lang": "fr"
           }
         ],
@@ -9650,15 +9266,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["STCL", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ETVC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé",
             "lang": "fr"
           }
         ],
@@ -9750,15 +9362,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CTADS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECTAD", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -9850,15 +9458,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CIS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Population and demography; Census counts; Families, households and marital status; Families; Household, family and personal income; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECR", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -9950,15 +9554,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -10050,15 +9650,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SEPR", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Society and community",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EPUR", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Société et communauté",
             "lang": "fr"
           }
         ],
@@ -10150,15 +9746,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["ICCS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EITJC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes",
             "lang": "fr"
           }
         ],
@@ -10250,15 +9842,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SSH", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EHF", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -10350,15 +9938,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -10450,15 +10034,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["PRLF", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Immigration and ethnocultural diversity; Immigrants and non-permanent residents",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "FERP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Immigration et diversité ethnoculturelle;Immigrants et résidents non permanents",
             "lang": "fr"
           }
         ],
@@ -10550,15 +10130,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["MCSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Seniors and aging; Income, pensions and wealth; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "MSSC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Aînés et vieillissement;Revenu, pension et patrimoine;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -10650,15 +10226,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CanCHEC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Environment; Life expectancy and deaths",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "CSERCan", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Environnement;Espérance de vie et décès",
             "lang": "fr"
           }
         ],
@@ -10750,15 +10322,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CanBCC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Pregnancy and births",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "CCanNR", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Grossesses et naissances",
             "lang": "fr"
           }
         ],
@@ -10850,15 +10418,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SLID-CNEF", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Population and demography; Census counts; Families, households and marital status; Families; Household, family and personal income; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EDTR-CNEF", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -10950,15 +10514,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SUM", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Unionization and industrial relations",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EAS", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Syndicalisation et relations industrielles",
             "lang": "fr"
           }
         ],
@@ -11050,15 +10610,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SWA", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Hours of work and work arrangements",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EHCT", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Heures de travail et conditions de travail",
             "lang": "fr"
           }
         ],
@@ -11150,15 +10706,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SWH", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Employment and unemployment",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EAT", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Emploi et chômage",
             "lang": "fr"
           }
         ],
@@ -11250,15 +10802,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -11350,15 +10898,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["IALS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education; Literacy",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EIAA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation;Littératie",
             "lang": "fr"
           }
         ],
@@ -11450,15 +10994,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NSGVP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Unpaid work; Volunteering and donating",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENDBP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Travail non rémunéré;Don et bénévolat",
             "lang": "fr"
           }
         ],
@@ -11550,15 +11090,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["Census-DAD", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "Recensement-BDCP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -11650,15 +11186,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SSMCAF", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Society and community",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "SISFAC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Société et communauté",
             "lang": "fr"
           }
         ],
@@ -11750,15 +11282,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NGES", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Government",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EFGN", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Gouvernement",
             "lang": "fr"
           }
         ],
@@ -11850,15 +11378,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SOS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Government; Employment and remuneration",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "SSD", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Gouvernement;Emploi et rémunération",
             "lang": "fr"
           }
         ],
@@ -11950,15 +11474,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCHS-CVSD", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESCC-BCDECD", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -12050,15 +11570,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["ERLF", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education; Census counts; Families, households and marital status; Families; Household, family and personal income; Low income and inequality; Census counts; Mobility and migration",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EPFL", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité;Chiffres du recensement;Mobilité et migration",
             "lang": "fr"
           }
         ],
@@ -12150,15 +11666,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCHS-DAD", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESCC-BDIM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -12250,15 +11762,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["GSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESG", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail",
             "lang": "fr"
           }
         ],
@@ -12350,15 +11858,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["PSIS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "SIEP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -12450,15 +11954,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CVSB", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Pregnancy and births",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "BCDECN", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Grossesses et naissances",
             "lang": "fr"
           }
         ],
@@ -12550,15 +12050,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CVSD", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Life expectancy and deaths",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "BCDECD", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Espérance de vie et décès",
             "lang": "fr"
           }
         ],
@@ -12650,15 +12146,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["HSUS-T1FF-Census-NHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Access to health care",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "GUSS-FFT1-Recensement-ENM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Accès aux soins de santé",
             "lang": "fr"
           }
         ],
@@ -12750,15 +12242,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SOA", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESO", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Santé et bien-être",
             "lang": "fr"
           }
         ],
@@ -12850,15 +12338,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["T2LEAP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Hours of work and work arrangements",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "PALET2", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Heures de travail et conditions de travail",
             "lang": "fr"
           }
         ],
@@ -12950,15 +12434,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["UCASS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education; Elementary and secondary education; Teachers and educators",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "SPEUC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation;Études primaires et secondaires;Enseignants et éducateurs",
             "lang": "fr"
           }
         ],
@@ -13050,15 +12530,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["IID", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Income, pensions, spending and wealth; Personal and household taxation",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "BDMIR", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Revenu, pensions, dépenses et richesse;Imposition des particuliers et des ménages",
             "lang": "fr"
           }
         ],
@@ -13150,15 +12626,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CAFTWS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ETBFAC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé",
             "lang": "fr"
           }
         ],
@@ -13250,15 +12722,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["GSS-T1FF-ILF", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Society and community",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESG-FFT1-FEI", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Société et communauté",
             "lang": "fr"
           }
         ],
@@ -13350,15 +12818,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NCS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé",
             "lang": "fr"
           }
         ],
@@ -13450,15 +12914,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCR-CVSD-T1PMF", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Life expectancy and deaths",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "RCC-BCDECD-FMPT1", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Espérance de vie et décès",
             "lang": "fr"
           }
         ],
@@ -13550,15 +13010,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["IMDB", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education; Census counts; Mobility and migration",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "BDIM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation;Chiffres du recensement;Mobilité et migration",
             "lang": "fr"
           }
         ],
@@ -13650,15 +13106,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["LSIC-IMDB", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education; Census counts; Mobility and migration",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ELIC-BDIM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation;Chiffres du recensement;Mobilité et migration",
             "lang": "fr"
           }
         ],
@@ -13750,15 +13202,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["ELMLP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "PLEMT", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -13850,15 +13298,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCHS-IMDB", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Lifestyle and social conditions; Mental health and well-being; Census counts; Mobility and migration; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESCC-BDIM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Chiffres du recensement;Mobilité et migration;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -13950,15 +13394,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["EISV", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Employment and unemployment; Employment insurance, social assistance and other",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "PVAE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Emploi et chômage;Assurance-emploi, aide sociale et autres transferts",
             "lang": "fr"
           }
         ],
@@ -14050,15 +13490,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["DAD-NACRS-OMHRS-CVSD", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "BDCP-SNISA-SIOSM-BCDECD", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -14150,15 +13586,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["EIB", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Government; Employment and remuneration; Employment and unemployment; Employment insurance, social assistance and other",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "PAE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Gouvernement;Emploi et rémunération;Emploi et chômage;Assurance-emploi, aide sociale et autres transferts",
             "lang": "fr"
           }
         ],
@@ -14250,15 +13682,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["DES", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Economic accounts",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EEN", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Comptes économiques",
             "lang": "fr"
           }
         ],
@@ -14350,15 +13778,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["ROE", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Government; Employment and remuneration; Employment and unemployment",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "RE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Gouvernement;Emploi et rémunération;Emploi et chômage",
             "lang": "fr"
           }
         ],
@@ -14450,15 +13874,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CVSD-DAD-NACRS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Life expectancy and deaths; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "BCDECD-BDCP-SNISA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Espérance de vie et décès;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -14550,15 +13970,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["IMDB-DAD", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Immigrants and non-permanent residents",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "BDIM-BDCP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Immigrants et résidents non permanents",
             "lang": "fr"
           }
         ],
@@ -14650,15 +14066,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["RAIS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "SIAI", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -14750,15 +14162,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CSLP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Education, training and learning; Financial resources invested in education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "PCPE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Éducation, formation et apprentissage;Ressources financières investies dans l'éducation",
             "lang": "fr"
           }
         ],
@@ -14850,15 +14258,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["BRM", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Business and consumer services and culture; Business ownership; Earnings, wages and non-wage benefits; Earnings and wages by occupation, industry or sect; Business dynamics; Entry, exit, mergers and growth; Earnings, wages and non-wage benefits; Other content related to Earnings, wages and non-w; Other content related to Labour; Business dynamics; Small and medium sized business; Workplace organization, innovation and performance",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "MRE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Services aux entreprises et aux consommateurs et culture;Propriété des entreprises;Gains, salaires et avantages sociaux;Gains et salaires selon la profession, l'industrie ou le secteur;Dynamique des entreprises;Création, disparitions, fusions et croissance;Gains, salaires et avantages sociaux;Autre contenu lié aux Gains, les salaires et les avantages sociaux;Autre contenu lié au Travail;Dynamique des entreprises;Petites et moyennes entreprises;Organisation du milieu de travail, innovation et rendement",
             "lang": "fr"
           }
         ],
@@ -14950,15 +14354,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SELCCA", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Child care",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EMAGJE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Soins aux enfants",
             "lang": "fr"
           }
         ],
@@ -15050,15 +14450,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["LWF", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Income, pensions, spending and wealth",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "FDLMO", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Revenu, pensions, dépenses et richesse",
             "lang": "fr"
           }
         ],
@@ -15150,15 +14546,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CDSP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "PCEI", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité",
             "lang": "fr"
           }
         ],
@@ -15250,15 +14642,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CVSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "BCDECM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé",
             "lang": "fr"
           }
         ],
@@ -15350,15 +14738,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SIMT", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Globalization and the labour market; Household, family and personal income; Immigrant children and youth; Immigrants and non-permanent residents",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ETFI", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Mondialisation et marché du travail;Revenu des ménages, des familles et des particuliers;Enfants et jeunes immigrants;Immigrants et résidents non permanents",
             "lang": "fr"
           }
         ],
@@ -15450,15 +14834,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCHS-CVSD-DAD-NACRS-OMHRS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability; Health and disability among seniors; Health and well-being; Health care services; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "BCDECD-BDCP-ESCC-SNISA-SIOSM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité;Santé et incapacité chez les aînés;Santé et bien-être;Services de soins de santé;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -15550,15 +14930,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CanCHEC-DAD-NACRS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Indigenous peoples; Health and well-being; Health care services",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "CSERCan-BDCP-SNISA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Peuples autochtones;Santé et bien-être;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -15650,15 +15026,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SHRP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Research and development",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EPRS", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Recherche et développement",
             "lang": "fr"
           }
         ],
@@ -15750,15 +15122,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["BCK12-Cen-T1FF", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "CBM12-rec-FFT1", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Éducation",
             "lang": "fr"
           }
         ],
@@ -15850,15 +15218,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SSPPS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Crime and justice; Victimization; Family violence",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESEPP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Crime et justice;Victimisation;Violence familiale",
             "lang": "fr"
           }
         ],
@@ -15950,15 +15314,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SMH", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Mental health and well-being; Pregnancy and births",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Santé mentale et bien-être;Grossesses et naissances",
             "lang": "fr"
           }
         ],
@@ -16050,15 +15410,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["TSRC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Travel and tourism; Domestic travel",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EVRC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Voyages et tourisme;Voyages intérieurs",
             "lang": "fr"
           }
         ],
@@ -16150,15 +15506,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CPSS-COVID", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "SEPC-COVID", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé",
             "lang": "fr"
           }
         ],
@@ -16250,15 +15602,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Population and demography; Census counts; Families, households and marital status; Families",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECL", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles",
             "lang": "fr"
           }
         ],
@@ -16350,15 +15698,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CHSCY", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Health care services",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECSEJ", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -16450,15 +15794,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CHSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECSA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -16550,15 +15890,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["LAD-DAD", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Personal and household taxation",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "DAL-BDCP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Imposition des particuliers et des ménages",
             "lang": "fr"
           }
         ],
@@ -16650,15 +15986,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CAFHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESFAC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -16750,15 +16082,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SISPSP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Crime and justice; Crimes and offences; Education",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "SISPSP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Crime et justice;Crimes et infractions;Éducation",
             "lang": "fr"
           }
         ],
@@ -16850,15 +16178,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CSD-Census", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability; Census counts; Families, households and marital status; Families; Census counts; Families, households and marital status; Households",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECI-Recensement", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Chiffres du recensement;Familles, ménages et état matrimonial;Ménages",
             "lang": "fr"
           }
         ],
@@ -16950,15 +16274,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CERB", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Revenue and expenditures",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "PCU", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Recettes et dépenses",
             "lang": "fr"
           }
         ],
@@ -17050,15 +16370,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["LSTD-CCR", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "CDST-RCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -17150,15 +16466,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CSD-T1FF", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability; Income and spending",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECI-FFT1", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité;Revenu et dépenses",
             "lang": "fr"
           }
         ],
@@ -17250,15 +16562,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SDTIU", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Digital economy and society; Internet use; Business and government Internet use",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ETNUI", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Économie et société numériques;Utilisation d'Internet;Utilisation d'Internet par les entreprises et les gouvernements",
             "lang": "fr"
           }
         ],
@@ -17350,15 +16658,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SQE", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Hours of work and work arrangements; Income and spending",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EQE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Heures de travail et conditions de travail;Revenu et dépenses",
             "lang": "fr"
           }
         ],
@@ -17450,15 +16754,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CSCSC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Digital economy and society; Internet use; Business and government Internet use",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Économie et société numériques;Utilisation d'Internet;Utilisation d'Internet par les entreprises et les gouvernements",
             "lang": "fr"
           }
         ],
@@ -17550,15 +16850,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CTNS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Lifestyle and social conditions; Alcohol and drug use; Lifestyle and social conditions; Other content related to Lifestyle and social cond; Lifestyle and social conditions; Smoking",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECTN", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Mode de vie et conditions sociales;Consommation d'alcool et de drogues;Mode de vie et conditions sociales;Autre contenu lié à la Mode de vie et les conditions sociales;Mode de vie et conditions sociales;Tabagisme",
             "lang": "fr"
           }
         ],
@@ -17650,15 +16946,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CVCS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECVCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -17750,15 +17042,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SCMH", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Crime and justice; Victimization; Family violence; Lifestyle and social conditions; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECSM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Crime et justice;Victimisation;Violence familiale;Mode de vie et conditions sociales;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -17850,15 +17138,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["HALS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability; Equity and inclusion",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESLA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité;Égalité et inclusion",
             "lang": "fr"
           }
         ],
@@ -17950,15 +17234,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CHMS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Environmental factors; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECMS", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Facteurs environnementaux;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -18050,15 +17330,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CHSP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Business and consumer services and culture; Business and consumer services; Housing and family and household characteristics o; Immigrants and non-permanent residents; Vacancy rates",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "PSLC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Services aux entreprises et aux consommateurs et culture;Services aux entreprises et aux consommateurs;Logement et caractéristiques familiales et du ménage des aînés;Immigrants et résidents non permanents;Taux d'inoccupation",
             "lang": "fr"
           }
         ],
@@ -18150,15 +17426,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["BCIA", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Income, pensions, spending and wealth; Household spending and savings; Household, family and personal income; Income, pensions and wealth; Personal and household taxation",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "SRBC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Revenu, pensions, dépenses et richesse;Dépenses et épargne des ménages;Revenu des ménages, des familles et des particuliers;Revenu, pension et patrimoine;Imposition des particuliers et des ménages",
             "lang": "fr"
           }
         ],
@@ -18250,15 +17522,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CanFED", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Agriculture and food; Food",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "BDEACan", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Agriculture et alimentation;Alimentation",
             "lang": "fr"
           }
         ],
@@ -18350,15 +17618,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["PCS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Society and community; Coronavirus",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "PSC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Société et communauté;Coronavirus",
             "lang": "fr"
           }
         ],
@@ -18450,15 +17714,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CPHS-CVSD-DAD-T1FF-CCR-Cen", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Life expectancy and deaths; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESPC-BCDD-BDCP-FFT1-RCC-Rec", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Espérance de vie et décès;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -18550,15 +17810,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["MAID", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Diseases and physical health conditions; Life expectancy and deaths",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "AMM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Maladies et état de santé physique;Espérance de vie et décès",
             "lang": "fr"
           }
         ],
@@ -18650,15 +17906,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CADS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECAD", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -18750,15 +18002,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SAFSO", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability; Diseases and physical health conditions; Hours of work and work arrangements",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EAOSP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité;Maladies et état de santé physique;Heures de travail et conditions de travail",
             "lang": "fr"
           }
         ],
@@ -18850,15 +18098,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["MC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Health of children and youth; Immigrant children and youth; Immigrant generations",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "CM", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Santé des enfants et des jeunes;Enfants et jeunes immigrants;Générations d'immigrants",
             "lang": "fr"
           }
         ],
@@ -18950,15 +18194,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CLPS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Crime and justice; Other content related to Crime and justice",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECPJ", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Crime et justice;Autre contenu lié au Crime et la justice",
             "lang": "fr"
           }
         ],
@@ -19050,15 +18290,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Population and demography; Census counts; Families, households and marital status; Families; Census counts; Families, households and marital status; Households; Unpaid work; Work transitions and life stages",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Population et démographie;Chiffres du recensement;Familles, ménages et état matrimonial;Familles;Chiffres du recensement;Familles, ménages et état matrimonial;Ménages;Travail non rémunéré;Transitions professionnelles et stades de la vie",
             "lang": "fr"
           }
         ],
@@ -19150,15 +18386,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SAHCPDP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EASSPPP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -19250,15 +18482,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SSPD", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EEPH", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité",
             "lang": "fr"
           }
         ],
@@ -19350,15 +18578,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["HCPIP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Crime and justice; Crimes and offences",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "PIPCMH", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Crime et justice;Crimes et infractions",
             "lang": "fr"
           }
         ],
@@ -19450,15 +18674,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SHCWEP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Mental health and well-being; Workplace organization, innovation and performance",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EEVTSP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Santé mentale et bien-être;Organisation du milieu de travail, innovation et rendement",
             "lang": "fr"
           }
         ],
@@ -19550,15 +18770,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["TORCA", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Crime and justice; Crimes and offences",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "TAACC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Crime et justice;Crimes et infractions",
             "lang": "fr"
           }
         ],
@@ -19650,15 +18866,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["IPB", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health of children and youth; Income and spending",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "INP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Santé des enfants et des jeunes;Revenu et dépenses",
             "lang": "fr"
           }
         ],
@@ -19750,15 +18962,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["EWHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Government; Employment and remuneration; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "STSCS", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Gouvernement;Emploi et rémunération;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -19850,15 +19058,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["ICC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "RCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -19950,15 +19154,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["DAD-NACRS-CCHS-T1FF", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "BDCP-SNISA-ESCC-FFT1", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé",
             "lang": "fr"
           }
         ],
@@ -20050,15 +19250,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SHSCC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EDMCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé",
             "lang": "fr"
           }
         ],
@@ -20150,15 +19346,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SNPS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Government",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "SDIP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Gouvernement",
             "lang": "fr"
           }
         ],
@@ -20250,15 +19442,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SMHSE", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESMES", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -20350,15 +19538,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CEAG", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Agriculture and food",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "REAG", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Agriculture et alimentation",
             "lang": "fr"
           }
         ],
@@ -20450,15 +19634,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SBASCC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Seniors and aging; Care and social support; Child care; Children at home",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EMGAAEC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Aînés et vieillissement;Soins et soutien social;Soins aux enfants;Présence d'enfants à la maison",
             "lang": "fr"
           }
         ],
@@ -20550,15 +19730,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["PSSCSC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Crime and justice; Information and communications technology sector; Internet use",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESPCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Crime et justice;Secteur des technologies de l'information et des communications;Utilisation d'Internet",
             "lang": "fr"
           }
         ],
@@ -20650,15 +19826,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCAHS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Diseases and physical health conditions; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECSAC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Maladies et état de santé physique;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],
@@ -20750,15 +19922,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["COSGO", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Crime and justice; Correctional services; Crimes and offences",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "IOCGR", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Crime et justice;Services correctionnels;Crimes et infractions",
             "lang": "fr"
           }
         ],
@@ -20850,15 +20018,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SEFJ", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Commuting to work; Earnings, wages and non-wage benefits; Mental health and well-being; Unionization and industrial relations",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EECF", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Navettage;Gains, salaires et avantages sociaux;Santé mentale et bien-être;Syndicalisation et relations industrielles",
             "lang": "fr"
           }
         ],
@@ -20950,15 +20114,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NRCFS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability; Health and disability among seniors; Health care services",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EESISBI", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité;Santé et incapacité chez les aînés;Services de soins de santé",
             "lang": "fr"
           }
         ],
@@ -21050,15 +20210,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["BEAM", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Business performance and ownership; Business dynamics; Earnings, wages and non-wage benefits; Labour and employment",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "MAEE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Rendement des entreprises et propriété;Dynamique des entreprises;Gains, salaires et avantages sociaux;Travail et emploi",
             "lang": "fr"
           }
         ],
@@ -21150,15 +20306,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["PSEW", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Business and consumer services and culture; Culture; Mental health and well-being",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EPBQ", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Services aux entreprises et aux consommateurs et culture;Culture;Santé mentale et bien-être",
             "lang": "fr"
           }
         ],
@@ -21250,15 +20402,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["FMS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Environment; Environmental protection; Land use",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EGF", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Environnement;Protection de l'environnement;Utilisation des terres",
             "lang": "fr"
           }
         ],
@@ -21350,15 +20498,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["ESDC EWS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Labour; Hours of work and work arrangements; Mental health and well-being; Workplace organization, innovation and performance",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "SMP EDSC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Travail;Heures de travail et conditions de travail;Santé mentale et bien-être;Organisation du milieu de travail, innovation et rendement",
             "lang": "fr"
           }
         ],
@@ -21450,15 +20594,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NHNS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Seniors and aging; Housing and family and household characteristics o",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EBLN", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Aînés et vieillissement;Logement et caractéristiques familiales et du ménage des aînés",
             "lang": "fr"
           }
         ],
@@ -21550,15 +20690,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SSPC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Society and community; Civic participation; Social and personal networks",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "SEGC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Société et communauté;Participation communautaire;Réseaux sociaux et personnels",
             "lang": "fr"
           }
         ],
@@ -21650,15 +20786,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["NTS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Travel and tourism; Domestic travel; International travel",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENV", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Voyages et tourisme;Voyages intérieurs;Voyages internationaux",
             "lang": "fr"
           }
         ],
@@ -21750,15 +20882,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SCIEU", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Energy; Energy supply and use",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EUCIE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Énergie;Disponibilité et utilisation d'énergie",
             "lang": "fr"
           }
         ],
@@ -21850,15 +20978,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["FMS-CEAG", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Environment; Environmental protection; Land use",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EGF-REAG", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Environnement;Protection de l'environnement;Utilisation des terres",
             "lang": "fr"
           }
         ],
@@ -21950,15 +21074,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["MHACS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Health care services; Lifestyle and social conditions; Mental health and well-being; Prevention and detection of disease",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESMAS", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Services de soins de santé;Mode de vie et conditions sociales;Santé mentale et bien-être;Prévention et détection de la maladie",
             "lang": "fr"
           }
         ],
@@ -22050,15 +21170,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SIBS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Business performance and ownership; Business ownership; Innovation and business strategy",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EISE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Rendement des entreprises et propriété;Propriété des entreprises;Innovation et stratégies d'entreprise",
             "lang": "fr"
           }
         ],
@@ -22150,15 +21266,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SAPM", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Disability",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ETIA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Incapacité",
             "lang": "fr"
           }
         ],
@@ -22250,15 +21362,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CPAC-AllYears", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Diseases and physical health conditions; Cancer; Health care services; Life expectancy and deaths",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "PCCC-AllYears", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Maladies et état de santé physique;Cancer;Services de soins de santé;Espérance de vie et décès",
             "lang": "fr"
           }
         ],
@@ -22350,15 +21458,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["SELCCA-CLCD", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Child development and behaviour; Diseases and physical health conditions; Health of children and youth",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EMAGJE-EPSLDI", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Développement et comportement de l'enfant;Maladies et état de santé physique;Santé des enfants et des jeunes",
             "lang": "fr"
           }
         ],
@@ -22450,15 +21554,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["ASML", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Business performance and ownership; Financial statements and performance",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "EAMEF", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Rendement des entreprises et propriété;États financiers et rendement",
             "lang": "fr"
           }
         ],
@@ -22550,15 +21650,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CHIRP", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ENPIR", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes",
             "lang": "fr"
           }
         ],
@@ -22650,15 +21746,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CSELCC", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Child care",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECAGJE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Soins aux enfants",
             "lang": "fr"
           }
         ],
@@ -22750,15 +21842,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CPI", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Prices and price indexes; Consumer price indexes",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "IPC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Prix et indices des prix;Indices des prix à la consommation",
             "lang": "fr"
           }
         ],
@@ -22850,15 +21938,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCSS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Correctional services",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ESCC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Services correctionnels",
             "lang": "fr"
           }
         ],
@@ -22950,15 +22034,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["ICE", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Energy; Energy supply and use",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "CIE", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Énergie;Disponibilité et utilisation d'énergie",
             "lang": "fr"
           }
         ],
@@ -23050,15 +22130,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CCMED", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Mortality (deaths)",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "BCDCML", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Mortalité (décès)",
             "lang": "fr"
           }
         ],
@@ -23150,15 +22226,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["IPPI", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Prices and price indexes; Producer price indexes",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "IPPI", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Prix et indices des prix;Indices des prix à la production",
             "lang": "fr"
           }
         ],
@@ -23250,15 +22322,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["IPAI", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Prices and price indexes",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "IPI", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Prix et indices des prix",
             "lang": "fr"
           }
         ],
@@ -23350,15 +22418,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["LAD-CEN", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Census; Household spending and savings",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "DAL-REC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Recensement;Dépenses et épargne des ménages",
             "lang": "fr"
           }
         ],
@@ -23450,15 +22514,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CJRD", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Crime and justice; Correctional services; Courts",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "BDRJP", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Crime et justice;Services correctionnels;Tribunaux",
             "lang": "fr"
           }
         ],
@@ -23550,15 +22610,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CIS-T1FF", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Families, households and marital status; Household, family and personal income; Low income and inequality",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECR-FFT1", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Familles, ménages et état matrimonial;Revenu des ménages, des familles et des particuliers;Faible revenu et inégalité",
             "lang": "fr"
           }
         ],
@@ -23650,15 +22706,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CHSCY-DAD-NACRS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Child development and behaviour; Health of children and youth",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECSEJ-BDCP-SNISA", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Développement et comportement de l'enfant;Santé des enfants et des jeunes",
             "lang": "fr"
           }
         ],
@@ -23750,15 +22802,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["LMSI", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Children and youth; Child care; Disability",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ISMT", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Enfants et jeunes;Soins aux enfants;Incapacité",
             "lang": "fr"
           }
         ],
@@ -23850,15 +22898,11 @@
         ],
         "keywords": [
           {
-            "keywords": [
-              ["CHCS", "Health", "Disability", "Equity and inclusion"]
-            ],
+            "keywords": "Health; Diseases and physical health conditions; Lifestyle and social conditions",
             "lang": "en"
           },
           {
-            "keywords": [
-              ["CDR", "ECSC", "Santé", "Incapacité", "Égalité et inclusion"]
-            ],
+            "keywords": "Santé;Maladies et état de santé physique;Mode de vie et conditions sociales",
             "lang": "fr"
           }
         ],

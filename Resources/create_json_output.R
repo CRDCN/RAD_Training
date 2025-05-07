@@ -2,8 +2,10 @@
 
 ##read in the data, with the foreign library, many different types of data can be read in. Our export type here is a .csv (comma separated value). A very common format for text-data
 library(foreign)
-import<-read.csv("C:/Users/gibso/Documents/CRDCN/RAD_Training/Resources/Data/2025_05_01_WPDATA.csv")
-
+setwd("S:/CRDCN/RAD_Training/") #office
+#setwd("C:/Users/gibso/Documents/CRDCN/RAD_Training)
+#alternate
+import<-read.csv("Resources/Data/2025_05_01_WPDATA.csv")
 ##This is where we begin to transform our output file to match the Schema provided by Lunaris
 library(dplyr)
 library(tidyr)
@@ -47,7 +49,7 @@ text_to_columns <- function(data, column) {
 import<-text_to_columns(import,"subjects_en")
 
 ## insheet the dataframe of translations
-subjectsdata<-read.csv("C:/Users/gibso/Documents/CRDCN/RAD_Training/Resources/Data/subject_translations.csv")
+subjectsdata<-read.csv("Resources/Data/subject_translations.csv")
 translate_subject <- function(subject, translations) {
   if (length(subject) > 1) {
     translated_subjects <- map_chr(subject, ~ {
@@ -187,8 +189,8 @@ datacite_conversion <- function(data) {
           list(publisher = data$publisher.fr, lang = "fr",ROR = data$publisher.ROR)
         ),
         keywords = list(
-          list(keywords = data$keywords.en, lang="en"),
-          list(keywords = data$keywords.fr, lang="fr")
+          list(keywords = data$subjects_en, lang="en"),
+          list(keywords = data$subjects_fr, lang="fr")
         ),
         rights = list(
           list(rights = data$rights.en, lang = "en"),
@@ -215,4 +217,6 @@ json_ex<-lapply(1:nrow(export), function(i) datacite_conversion(export[i,]))
 
 json_output<-toJSON(json_ex, pretty=TRUE, auto_unbox= TRUE)
 
-write(json_output, file="C:/Users/gibso/Documents/CRDCN/RAD_Training/Resources/Data/json_dictionary")
+write(json_output, file="Resources/Data/json_dictionary")
+
+
