@@ -9,7 +9,9 @@ import pandas as pd
 import numpy as np
 
 
+
 ####################### Loading and Creating Dataframe #########################
+
 
 # Read the CSV file (adjust the file path as needed)
 path = "/Your/Path/Here"
@@ -32,37 +34,59 @@ df.rename(columns = {"title.fr": "Dataset Title (French)",
 ####################### Removing Hierarchal Symbols ############################
 
 """
-Subject terms are divided by ">" and "|" symbols. 
-These represent the hierarchal nature of these subjects. 
-The following code is used to remove this hierarchal symbology.
+Note: Subject terms are divided by ">" and "|" symbols. 
+      These represent the hierarchal nature of these subjects. 
+      The following code is used to remove this hierarchal symbology.
 """
 
+# Replacing NaN (Null) values with empty strings to facilitate editing
 df.fillna('', inplace=True)
 
+# Seperating strings at every ">" 
 df['Subjects'] = df['Subjects'].str.split('>')
 
 
+"""
+Note: The use of the above line prevents using the same approach for other 
+      symbols such as "|". To circumvent this issue, a while loop (see below) 
+      was used to parse through the now seperate strings, to then run
+      .split('|').
+
+"""
+
+# Creating necessary while loop talies and empty list
 count = 0
 list_count = 0
 merged_list = []
 
+
+# Code keeps going for as long as it hasn't parsed through the entire list of subjects
 while count != (len(df['Subjects'])):
     
+    # If list_count is equal to the length of the indexed list
     if list_count == len(df['Subjects'][count]):
         
+        # For all strings in the indexed list
         for i in df['Subjects'][count]:
+            
+            # If the indexed list itself contains a list (of strings), add all of them to "merged_list"
             if isinstance(i, list):
                 merged_list.extend(i)
             
+            # otherwise, add the singular string to the merged list.
             else:
                 merged_list.append(i)
         
+        # take all strings in "merged_list", join them with ; in one string, update dataframe value
         concatenation = "; ".join(merged_list)
         df['Subjects'][count] = concatenation
+        
+        # Updating counters to go on to the next indexed list, refresh merged_list
         count += 1
         list_count = 0
         merged_list = []
     
+    # If a string contains |, split them there into their own strings
     elif '|' in df['Subjects'][count][list_count]:
         
         df['Subjects'][count][list_count] = df['Subjects'][count][list_count].split('|')
@@ -73,20 +97,20 @@ while count != (len(df['Subjects'])):
 
 
 
-
 ################## Creating Individual Columns for Subjects ####################
 
 
 # Function to split the concatenated subjects into multiple columns
-# Split the string in the specified column by semicolon and whitespace
-# Determine the maximum number of elements in any row
-# Create new columns for each split element
-
 def text_to_columns(data, column):
+    
+    # Split the string in the specified column by semicolon and whitespace
     split_columns = data[column].str.split(';\\s*')
     max_elements = max(split_columns.apply(len))
     
+    # Determine the maximum number of elements in any row
     for i in range(1, max_elements + 1):
+        
+        # Create new columns for each split element
         new_column_name = f"subjen_{i}"
         data[new_column_name] = split_columns.apply(lambda x: x[i-1].strip() if len(x) >= i else "")
     
@@ -106,12 +130,15 @@ subjectsdata = pd.read_csv(translations_path)
 
 
 
+############################ Translation Functions #############################
 
 
 # Function to translate subjects
 def translate_subject(subject, translations):
     if isinstance(subject, list):
-        translated_subjects = [translations.loc[translations['subject_title'].str.lower().str.strip() == s.lower().strip(), 'subject_fr'].values[0] if not translations.loc[translations['subject_title'].str.lower().str.strip() == s.lower().strip(), 'subject_fr'].empty else np.nan for s in subject]
+        translated_subjects = [translations.loc[translations['subject_title'].str.lower().str.strip() == s.lower().strip(), 'subject_fr'].values[0] 
+                               if not translations.loc[translations['subject_title'].str.lower().str.strip() == s.lower().strip(), 'subject_fr'].empty 
+                               else np.nan for s in subject]
         
         return '; '.join([s for s in translated_subjects if pd.notna(s)])
     
@@ -127,10 +154,7 @@ def translate_subject(subject, translations):
 
 
 
-#Translating column names
-
-# Function to translate columns
-
+# Function to translate columns -- This function calls the one above.
 def translate_columns(data, translations):
     
     # Create the list of columns to translate
@@ -147,6 +171,9 @@ def translate_columns(data, translations):
 
 
 
+########################### Translation and Clean-up ###########################
+
+
 # Apply the translate_columns function
 df = translate_columns(df, subjectsdata)
 
@@ -160,6 +187,9 @@ df['subjects_en'] = df[subj_cols].apply(lambda row: '; '.join(row.dropna()), axi
 fr_cols = [col for col in df.columns if col.endswith("_fr")]
 df['subjects_fr'] = df[fr_cols].apply(lambda row: '; '.join(row.dropna()), axis=1)
 
+
+
+##################### Keyword Creation & Constant Values #######################
 
 
 # Create keywords from various fields in the data
@@ -181,7 +211,6 @@ df['keywords.fr'] = df.apply(lambda row:
                                        if pd.notna(row[f"subjen_{i}_fr"])])), axis=1)
 
 
-
 # Add constant values to specific columns
 df['creators.ROR'] = "https://ror.org/05k71ja87"
 df['creators.en'] = "Statistics Canada"
@@ -200,10 +229,12 @@ df['access'] = "Restricted"
 
 
 
-# Drop unnecessary columns
+###################### File Clean-up & Formatting Function #####################
+
+
+# Drop unnecessary columns (these are substituted by the 'keyword' columns)
 export_df = df.drop(columns = ['Subjects'])
 export_df = export_df.drop(columns = [col for col in export_df.columns if col.startswith("subjen_")])
-
 
 
 # Define the mapping and convert to JSON
@@ -252,6 +283,9 @@ def datacite_conversion(data):
     }
     return datacite
 
+
+
+############################## JSON File Creation ##############################
 
 
 class NpEncoder(json.JSONEncoder):
