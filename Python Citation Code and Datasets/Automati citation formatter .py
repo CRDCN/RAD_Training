@@ -1,13 +1,18 @@
-# Automatic Cittion formatter
+# Automatic Citation formatter
+
+# Importing used modules
 import os
-import json
 import pandas as pd
 import numpy as np
-import datetime
 
 
-path = "/Users/thierryletendre/Desktop/CRDCN/RAD_Training/Python Citation Code and Datasets"
+# Setting and directing path
+path = "/your/path/here"
 os.chdir(path)
+
+
+
+####################### Loading and Creating Dataframe #########################
 
 
 # Setting up the dataset as a dataframe which will allow for editing
@@ -19,104 +24,132 @@ df.rename(columns = {"title.fr": "Dataset Title (French)",
                      "identifier": "Dataset ID"}, inplace = True)
 
 
+
+###################### Clean-up and Helpful variables ##########################
+
+
+# Splitting sampling method/frequencies
 df['Data Types'] = df['Data Types'].str.split('>')
 
-current_time = datetime.datetime.now()
-if current_time.month == 1:
-    month_en = 'January'
-    month_fr = 'janvier'
-elif current_time.month == 2:
-    month_en = 'February'
-    month_fr = 'février'
-elif current_time.month == 3:
-    month_en = 'March'
-    month_fr = 'mars'
-elif current_time.month == 4:
-    month_en = 'April'
-    month_fr = 'avril'
-elif current_time.month == 5:
-    month_en = 'May'
-    month_fr = 'mai'
-elif current_time.month == 6:
-    month_en = 'June'
-    month_fr = 'juin'
-elif current_time.month == 7:
-    month_en = 'July'
-    month_fr = 'juillet'
-elif current_time.month == 8:
-    month_en = 'August'
-    month_fr = 'août'
-elif current_time.month == 9:
-    month_en = 'September'
-    month_fr = 'septembre'
-elif current_time.month == 10:
-    month_en = 'October'
-    month_fr = 'octobre'
-elif current_time.month == 11:
-    month_en = 'November'
-    month_fr = 'novembre'
-elif current_time.month == 12:
-    month_en = 'December'
-    month_fr = 'décembre'
-    
-    
+
+# Creating a temporary column to identify URL Ref availabilty
+df['is nan'] = df['URL Ref'].isna()
+
+
+# Creating variables for frequently used string
+sponsor = "Research Data Centre Program"
+#sponsor_fr = "Programme des Centres de données de recherche"
+
+
 citation_en = []
-citation_fr = []
-    
+#citation_fr = []
+
+
+
+############################# Citation While Loop ##############################
+
+
 count2 = 0
+
 while count2 != len(df['Data Types']):
     
+    
+    # Setting-up appropriate url variable as a function of the 'is nan' column
+    if df['is nan'][count2] == True:
+        url = df["Permalink"][count2]
+        #url_fr = df["Permalink"][count2]
+
+    else:
+        url = df['URL Ref'][count2]
+        #url_fr = df['URL Ref French'][count2]
+    
+    
+    # Creation of citation for entries fitting these conditions
     if df['Data Types'][count2][0] == 'Longitudinal' and df['Data Types'][count2][1] == 'Administrative':
-        citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}) {df["Title"][count2]}. Canadian Research Data Center Network. {df["Permalink"][count2]}. Accessed {current_time.day} {month_en} {current_time.year}.'
-        citation_val_fr = f'Statistique Canada. ({df["dataset_years_0_max_year"][count2]}) {df["Dataset Title (French)"][count2]}. Réseau canadien des Centres de données de recherche. {df["Permalink"][count2]}. Accédé {current_time.day} {month_en} {current_time.year}.'
+        
+        citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}. {sponsor}. {url}. Accessed [day] [month] [year].'
         citation_en.append(citation_val_en)
-        citation_fr.append(citation_val_fr)
+        
+        #citation_val_fr = f'Statistique Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Dataset Title (French)"][count2]}. {sponsor_fr}. {url_fr}. Accédé [jour] [mois] [année].'
+        #citation_fr.append(citation_val_fr)
+        
         count2 += 1
     
     
-    # NOTE THAT THESE MAY EVANTUALLY BECOME REPEATED, AND AS SUCH, 
-    # MAY REQUIRE SOME TUNING. THIS SHOULD AUTOMATICALLY BE FIXED IF THE ENTRY
-    # IS CHANGED FROM 'Single' to 'Repeated'
     
-    elif df['Data Types'][count2][0] == 'Cross-Sectional' and df['Data Types'][count2][1] == 'Single':
-        citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}) {df["Title"][count2]}. Canadian Research Data Center Network. {df["Permalink"][count2]}. Accessed {current_time.day} {month_en} {current_time.year}.'
-        citation_val_fr = f'Statistique Canada. ({df["dataset_years_0_max_year"][count2]}) {df["Dataset Title (French)"][count2]}. Réseau canadien des Centres de données de recherche. {df["Permalink"][count2]}. Accédé {current_time.day} {month_en} {current_time.year}.'
-        citation_en.append(citation_val_en)
-        citation_fr.append(citation_val_fr)
-        count2 += 1
-    
+    # Creation of citation for entries fitting these conditions
     elif df['Data Types'][count2][0] == 'Longitudinal' and df['Data Types'][count2][1] == 'Integrated':
-        citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}) {df["Title"][count2]}. Canadian Research Data Center Network. {df["Permalink"][count2]}. Accessed {current_time.day} {month_en} {current_time.year}.'
-        citation_val_fr = f"Statistique Canada. ({df['dataset_years_0_max_year'][count2]}) {df['Dataset Title (French)'][count2]}. Réseau canadien des Centres de données de recherche. {df['Permalink'][count2]}. Accédé {current_time.day} {month_en} {current_time.year}."
+        
+        citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}. {sponsor}. {url}. Accessed [day] [month] [year].'
         citation_en.append(citation_val_en)
-        citation_fr.append(citation_val_fr)
-        count2 += 1        
-    
-    elif df['Data Types'][count2][0] == 'Cross-Sectional' and df['Data Types'][count2][1] == 'Repeated':
-        citation_val_en = f'Statistics Canada. (*PUB_YEAR*) {df["Title"][count2]}. Canadian Research Data Center Network. {df["Permalink"][count2]}. Accessed {current_time.day} {month_en} {current_time.year}.'
-        citation_val_fr = f"Statistique Canada. (*ANNÉE_DE_PUBLICATION*) {df['Dataset Title (French)'][count2]}. Réseau canadien des Centres de données de recherche. {df['Permalink'][count2]}. Accédé {current_time.day} {month_en} {current_time.year}."
-        citation_en.append(citation_val_en)
-        citation_fr.append(citation_val_fr)
-        count2 += 1    
+        
+        #citation_val_fr = f"Statistique Canada. ({df['dataset_years_0_max_year'][count2]}). {df['Dataset Title (French)'][count2]}. {sponsor_fr}. {url_fr}. Accédé [jour] [mois] [année]."
+        #citation_fr.append(citation_val_fr)
+        
+        count2 += 1     
     
     
-    # NOTE THAT THESE MAY EVANTUALLY BECOME REPEATED, AND AS SUCH, 
-    # MAY REQUIRE SOME TUNING. THIS SHOULD AUTOMATICALLY BE FIXED IF THE ENTRY
-    # IS CHANGED FROM 'Single' to 'Repeated'    
     
+    # Creation of citation for entries fitting these conditions
+    # NOTE THAT THESE MAY EVANTUALLY BECOME REPEATED, AND AS SUCH, MAY REQUIRE SOME TUNING. THIS SHOULD AUTOMATICALLY BE FIXED IF THE ENTRY IS CHANGED FROM 'Single' to 'Repeated'    
     elif df['Data Types'][count2][0] == 'Longitudinal' and df['Data Types'][count2][1] == 'Survey':
-        citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}) {df["Title"][count2]}. Canadian Research Data Center Network. {df["Permalink"][count2]}. Accessed {current_time.day} {month_en} {current_time.year}.'
-        citation_val_fr = f"Statistique Canada. ({df['dataset_years_0_max_year'][count2]}) {df['Dataset Title (French)'][count2]}. Réseau canadien des Centres de données de recherche. {df['Permalink'][count2]}. Accédé {current_time.day} {month_en} {current_time.year}."
+        
+        citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}. {sponsor}. {url}. Accessed [day] [month] [year].'
         citation_en.append(citation_val_en)
-        citation_fr.append(citation_val_fr)       
+        
+        #citation_val_fr = f"Statistique Canada. ({df['dataset_years_0_max_year'][count2]}). {df['Dataset Title (French)'][count2]}. {sponsor_fr}. {url_fr}. Accédé [jour] [mois] [année]."
+        #citation_fr.append(citation_val_fr)  
+        
         count2 += 1
 
+
+
+    # Creation of citation for entries fitting these conditions
+    # NOTE THAT THESE MAY EVANTUALLY BECOME REPEATED, AND AS SUCH, MAY REQUIRE SOME TUNING. THIS SHOULD AUTOMATICALLY BE FIXED IF THE ENTRY IS CHANGED FROM 'Single' to 'Repeated'
+    elif df['Data Types'][count2][0] == 'Cross-Sectional' and df['Data Types'][count2][1] == 'Single':
+        
+        # Checking recency of the data entry
+        if df["dataset_years_0_max_year"][count2] < 2020:
+            citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}. {sponsor}. {url}. Accessed [day] [month] [year].'
+            #citation_val_fr = f"Statistique Canada. (df["dataset_years_0_max_year"][count2]}). {df['Dataset Title (French)'][count2]}. {sponsor_fr}. {url_fr}. Accédé [jour] [mois] [année]."
+        
+        else:
+            citation_val_en = f'Statistics Canada. (*PUB_YEAR*). {df["Title"][count2]}. {sponsor}. {url}. Accessed [day] [month] [year].'
+            #citation_val_fr = f"Statistique Canada. (*ANNÉE_DE_PUBLICATION*). {df['Dataset Title (French)'][count2]}. {sponsor_fr}. {url_fr}. Accédé [jour] [mois] [année]." 
+        
+        
+        citation_en.append(citation_val_en)
+        #citation_fr.append(citation_val_fr)
+        count2 += 1
+
+
+
+    # Creation of citation for entries fitting these conditions
+    elif df['Data Types'][count2][0] == 'Cross-Sectional' and df['Data Types'][count2][1] == 'Repeated':
+        
+        # Checking recency of the data entry
+        if df["dataset_years_0_max_year"][count2] < 2020:
+            citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}. {sponsor}. {url}. Accessed [day] [month] [year].'
+            #citation_val_fr = f"Statistique Canada. (df["dataset_years_0_max_year"][count2]}). {df['Dataset Title (French)'][count2]}. {sponsor_fr}. {url_fr}. Accédé [jour] [mois] [année]."
+        
+        else:
+            citation_val_en = f'Statistics Canada. (*PUB_YEAR*). {df["Title"][count2]}. {sponsor}. {url}. Accessed [day] [month] [year].'
+            #citation_val_fr = f"Statistique Canada. (*ANNÉE_DE_PUBLICATION*). {df['Dataset Title (French)'][count2]}. {sponsor_fr}. {url_fr}. Accédé [jour] [mois] [année]."            
+        
+        
+        citation_en.append(citation_val_en)
+        #citation_fr.append(citation_val_fr)
+        count2 += 1    
+
+
+
+######################## Clean-up and Output Creation ##########################
+
+
+del df['is nan']
 
 df['English Citation'] = np.asarray(citation_en)
-df['Citation française'] = np.asarray(citation_fr)
+#df['Citation française'] = np.asarray(citation_fr)
 
-
-y = df.to_string()
-#print(y)
 
 df.to_csv('Testing Citations.csv')
