@@ -64,6 +64,7 @@ while count2 != len(df['Data Types']):
         #url_fr = df['URL Ref French'][count2]
     
     
+    
     # Creation of citation for entries fitting these conditions
     if df['Data Types'][count2][0] == 'Longitudinal' and df['Data Types'][count2][1] == 'Administrative':
         
