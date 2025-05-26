@@ -133,6 +133,23 @@ Concepts:
 - "Access available on request" NOT sufficient
 - Encourage data source to template this language! If no, DIY with review
 
+## Data Accessibility Statement Contents
+
+## Data Accessibility Statement Contents
+- Who can access
+  - Rank?
+  - Research themes?
+  - Citizenship?
+- Terms of access
+  - Consultation?
+  - Ethics?
+  - Proposal?
+  - Citation?
+  - TRE?
+- Licensing/Agreements
+  - Ex. CC-BY vs. CC-BY-NC
+- Costs
+
 ## Data discovery efforts
 - Any datasource can now be indexed in Lunaris relatively easily.
 - Metadata only deposits where there is some info to provide to potential users.
@@ -147,3 +164,107 @@ Concepts:
 - Raise the issue
 - Highlight the benefits
 - Point to resources
+
+## Case study; indexing in Lunaris
+- Lunaris is a service of the Digital Research Alliance of Canada
+- It collates metadata from a variety of sources
+- Data sources can work with Lunaris to have their datasets indexed
+
+## Lunaris page
+[insert screenshot of Lunaris Page]
+
+## System needs
+- Lunaris has a metadata schema (list of information it can process and display)
+- Any data source can provide a database of information about their datasets to be "harvested"
+- Work with Lunaris team to determine how the data should be formatted
+
+## Case study
+
+[Screenshot of a CRDCN data page]
+
+## Case study
+
+[Screenshot of CRDCN dataset database]
+
+## Step 1: Metadata crosswalk
+
+- Sounds fancier than it is
+- Map fields from my database to the schema from Lunaris
+- In some cases these will be dynamic (ex. "Database name")
+- In some cases these will be static (ex. "Rights")
+
+## Crosswalk examples
+
+## Step 2: Translation code
+
+- Example in the resources (.py and .R) for our translations
+- Dynamic fields mapped against the current database
+- Static fields added at the end
+- If you have EN/FR metadata both can be included in one file
+- Write output as .json file
+
+## Step 3: Publish
+
+- Post the .json file somewhere accessible on the web and share this with the Lunaris team
+- Updates made to the file will be automatically reflected in Lunaris ("Harvester" checks back on occasion)
+
+## Result
+
+- Restricted dataset is much more discoverable to those seeking information on a given topic
+- Updates to metadata including access protocols, dataset info, even new data available are machine readable
+
+## Result
+
+[screenshot of same datapage, only in Lunaris]
+
+## Option 2 - Metadata only deposits
+
+- More detailed and of greater use to others
+- Create similar metadata profile to previous example
+- BUT, can include documentation
+
+## Introducing: Borealis
+
+- National collection of Dataverse instances (one from *most* Canadian universities)
+- Your dataverse ingests data, Borealis rolls it up into a national service
+- Borealis info is collected by other search tools (including Lunaris).
+
+## Borealis & restricted data
+
+- Can't deposit personally identifiable info into Borealis
+- CAN create metadata records including deposit of supporting documents
+- With the right supporting documents, Borealis can be a very effective tool for data discovery
+  - Anonymized version of dataset
+  - Questionnaires
+  - Structural files
+
+## Borealis & restricted data
+
+- Metadata only < Metadata w summary docs < Metadata w variable level information
+- Resource document and explainer available
+
+## Why choose Borealis or Lunaris
+
+Lunaris Pros:
+- Dynamic updates to content automatic
+- Minimal lift to create a series of entries from existing data
+
+Borealis Pros:
+- Permits a greater level of detail about the resource
+- Allows document upload
+- Creates a permanent landing page for the resource
+- Mints a DOI for the resource
+
+## Why choose Borealis or Lunaris
+
+Lunaris Cons:
+- Limited and inflexible info about data source
+- Needs a landing page to point to
+- No "permanence" to the record, nothing is created to cite or point to
+- System needs some data skill to populate automatically/navigate
+
+Borealis Cons:
+- Process to create/update records tedious
+- Many fields to populate (though most are optional)
+- Records cannot be deleted
+- Accessibility (for upload) limited to consortia members
