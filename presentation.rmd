@@ -34,11 +34,16 @@ output:
 - "As open as possible, as closed as necessary"
 - This is not binary, but a continuum
 
+
 ## Researcher support for discoverability
-- FAIR data
 
 F - [Findable](https://faircookbook.elixir-europe.org/content/recipes/findability.html)
 
+## Researcher support for discoverability
+
+F - [Findable](https://faircookbook.elixir-europe.org/content/recipes/findability.html)
+
+Can anyone discover that your data even exist?
 Can others even figure out where the data you used are?
 
 Concepts:
@@ -47,7 +52,11 @@ Concepts:
 - Indexing (including metadata)
 
 ## Researcher support for discoverability
-- FAIR data
+
+A - [Accessible](https://faircookbook.elixir-europe.org/content/recipes/accessibility.html)
+
+
+## Researcher support for discoverability
 
 A - [Accessible](https://faircookbook.elixir-europe.org/content/recipes/accessibility.html)
 
@@ -62,22 +71,30 @@ Concepts:
 - Transparent process
 
 ## Researcher support for discoverability
-- FAIR data
+
+I - [Interoperable](https://faircookbook.elixir-europe.org/content/recipes/interoperability.html)
+
+## Researcher support for discoverability
 
 I - [Interoperable](https://faircookbook.elixir-europe.org/content/recipes/interoperability.html)
 
 Concepts:
 
+- Open source
 - Machine-readable
 - Metadata
 - Control vocabularies
 
 ## Researcher support for discoverability
-- FAIR data
+
+R - [Reusable](https://faircookbook.elixir-europe.org/content/recipes/reusability.html) 
+
+## Researcher support for discoverability
 
 R - [Reusable](https://faircookbook.elixir-europe.org/content/recipes/reusability.html) 
 
 Concepts:
+
 - Provenance
 - Licensing
 - Archiving
@@ -89,6 +106,15 @@ Concepts:
 2. Outline the process you would follow to get the data
 - We'll take up these questions and discuss how "FAIR" we think the data are.
 
+## Case study: CBS
+- Canadian Blood Services offers secondary use research data (that is databases about donors that you can request)
+- Suppose you were a researcher interested in research on data about donors
+1. Think about a research question and evaluate whether you could answer it
+2. Outline the process you would follow to get the data
+- We'll take up these questions and discuss how "FAIR" we think the data are.
+
+**INSERT FAIR GRAPHIC**
+
 ## Takeup (GA)
 
 ## FAIR Restricted data
@@ -97,7 +123,7 @@ Concepts:
 - Interoperability can sometimes be tricky
 - Reusability can be better, but this requires effort
 
-## Under the F
+## Findability
 - Organizations providing data as a non-priority activity
 - Resources to make it findable may not even be considered
 - Knowledge of how to make data discoverable might not exist
@@ -121,7 +147,6 @@ Concepts:
 
 ## What would success look like? (GA)
 
-# What gets us there?
 
 ## Data management planning
 - [*DMP template tool*](https://dmp-pgd.ca/)
@@ -153,7 +178,7 @@ Concepts:
 ## Data discovery efforts
 - Any datasource can now be indexed in Lunaris relatively easily.
 - Metadata only deposits where there is some info to provide to potential users.
-- Metadata only also creates a PID (persistent identifier) which makes the data a lot easier to find for someone who wants to use it in the future because YOU CAN [CITE IT](https://guides.library.oregonstate.edu/research-data-services/data-management-data-citation)
+- Metadata only deposits also create a PID (persistent identifier) which makes the data a lot easier to find for someone who wants to use it in the future because [YOU CAN CITE IT](https://guides.library.oregonstate.edu/research-data-services/data-management-data-citation)
 
 ## Preservation efforts
 - If a datasource overwrites my data with a new copy and doesn't say anything then someone trying to recreate my work will be very confused at best
@@ -175,12 +200,16 @@ Concepts:
 
 ## System needs
 - Lunaris has a metadata schema (list of information it can process and display)
-- Any data source can provide a database of information about their datasets to be "harvested"
+- Any data source can provide a database of this information about their datasets to be "harvested"
 - Work with Lunaris team to determine how the data should be formatted
 
 ## Case study
 
 [Screenshot of a CRDCN data page]
+
+## Case study
+
+[Screenshot of a CRDCN data page - highlighted]
 
 ## Case study
 
@@ -190,8 +219,9 @@ Concepts:
 
 - Sounds fancier than it is
 - Map fields from my database to the schema from Lunaris
-- In some cases these will be dynamic (ex. "Database name")
-- In some cases these will be static (ex. "Rights")
+- In some cases these will be dynamic and obvious (ex. "Database name")
+  - Some will be dynamic and non-obvious
+- In some cases these will be static and need to be generated (ex. "Rights")
 
 ## Crosswalk examples
 
@@ -246,10 +276,12 @@ Concepts:
 ## Why choose Borealis or Lunaris
 
 Lunaris Pros:
+
 - Dynamic updates to content automatic
 - Minimal lift to create a series of entries from existing data
 
 Borealis Pros:
+
 - Permits a greater level of detail about the resource
 - Allows document upload
 - Creates a permanent landing page for the resource
@@ -258,13 +290,15 @@ Borealis Pros:
 ## Why choose Borealis or Lunaris
 
 Lunaris Cons:
+
 - Limited and inflexible info about data source
 - Needs a landing page to point to
 - No "permanence" to the record, nothing is created to cite or point to
 - System needs some data skill to populate automatically/navigate
 
 Borealis Cons:
+
 - Process to create/update records tedious
 - Many fields to populate (though most are optional)
-- Records cannot be deleted
+- Records cannot be deleted (this is also a pro)
 - Accessibility (for upload) limited to consortia members
