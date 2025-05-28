@@ -14,61 +14,65 @@ output:
 
 ## Introduction
 
-- Evolution of data discovery & open science
-- Journal pressures
-- Council pressures
-- University pressures
+-   Evolution of data discovery & open science
+-   Journal pressures
+-   Council pressures
+-   University pressures
 
 ## Containing this
 
-- Today we're talking about restricted access data
-- Not all sensitive data, and not open data, but data that have an access process or mechanism
+-   Today we're talking about restricted access data
+-   Not all sensitive data, and not open data, but data that have an access process or mechanism
+
+<!-- Thierry comment: I made a general comment about this at the end, but I'm wondering if the
+use of punctuation would be useful at the end of sentences (despite being in point form)
+since they're actual phrases and no just lists of things -->
 
 ## Data lifecycle
 
-- Image of data lifecycle & description (credit: University of Wisconsin Data Governance Program)
-![“Data Lifecycle model” by University of Wisconsin Data Governance Program. Updated Aug 9, 2022. License: CC-BY-NC 4.0.]("./content/research_data_lifecycle.png")
+-   Image of data lifecycle & description (credit: University of Wisconsin Data Governance Program) !["Data Lifecycle model" by University of Wisconsin Data Governance Program. Updated Aug 9, 2022. License: CC-BY-NC 4.0.](%22./content/research_data_lifecycle.png%22)
 
 ## Targets
-- FAIR data
-- "As open as possible, as closed as necessary"
-- This is not binary, but a continuum
 
-
-## Researcher support for discoverability
-
-F - [Findable](https://faircookbook.elixir-europe.org/content/recipes/findability.html)
+-   FAIR data
+-   "As open as possible, as closed as necessary"
+-   This is not binary, but a continuum
 
 ## Researcher support for discoverability
 
 F - [Findable](https://faircookbook.elixir-europe.org/content/recipes/findability.html)
 
-Can anyone discover that your data even exist?
-Can others even figure out where the data you used are?
+## Researcher support for discoverability
+
+F - [Findable](https://faircookbook.elixir-europe.org/content/recipes/findability.html)
+
+Can anyone discover that your data even exist? Can others even figure out where the data you used are?
 
 Concepts:
 
-- Persistent Identifiers
-- Indexing (including metadata)
+-   Persistent Identifiers
+-   Indexing (including metadata)
+
+<!-- Thierry comment: I would put the 2 questions above on different lines instead of sequentially
+on the same line. That was done 2 slides over-->
 
 ## Researcher support for discoverability
 
 A - [Accessible](https://faircookbook.elixir-europe.org/content/recipes/accessibility.html)
 
-
 ## Researcher support for discoverability
 
 A - [Accessible](https://faircookbook.elixir-europe.org/content/recipes/accessibility.html)
 
-Can others access the data you used? 
+Can others access the data you used?
 
 Can they figure out HOW to do so?
 
 Concepts:
 
-- Data accessibility statement
-- Access metadata
-- Transparent process
+-   Data accessibility statement
+-   Access metadata
+-   Transparent process
 
 ## Researcher support for discoverability
 
@@ -80,128 +84,149 @@ I - [Interoperable](https://faircookbook.elixir-europe.org/content/recipes/inter
 
 Concepts:
 
-- Open source
-- Machine-readable
-- Metadata
-- Control vocabularies
+-   Open source
+-   Machine-readable
+-   Metadata
+-   Control vocabularies
 
 ## Researcher support for discoverability
 
-R - [Reusable](https://faircookbook.elixir-europe.org/content/recipes/reusability.html) 
+R - [Reusable](https://faircookbook.elixir-europe.org/content/recipes/reusability.html)
 
 ## Researcher support for discoverability
 
-R - [Reusable](https://faircookbook.elixir-europe.org/content/recipes/reusability.html) 
+R - [Reusable](https://faircookbook.elixir-europe.org/content/recipes/reusability.html)
 
 Concepts:
 
-- Provenance
-- Licensing
-- Archiving
+-   Provenance
+-   Licensing
+-   Archiving
 
 ## Case study: CBS
-- Canadian Blood Services offers secondary use research data (that is databases about donors that you can request)
-- Suppose you were a researcher interested in research on data about donors
-1. Think about a research question and evaluate whether you could answer it
-2. Outline the process you would follow to get the data
-- We'll take up these questions and discuss how "FAIR" we think the data are.
+
+-   Canadian Blood Services offers secondary use research data (that is databases about donors that you can request)
+-   Suppose you were a researcher interested in research on data about donors
+<!-- Thierry comment: would put a comma after "that is" or just remove it altogether -->
+1.  Think about a research question and evaluate whether you could answer it
+2.  Outline the process you would follow to get the data
+
+-   We'll take up these questions and discuss how "FAIR" we think the data are.
 
 ## Case study: CBS
-- Canadian Blood Services offers secondary use research data (that is databases about donors that you can request)
-- Suppose you were a researcher interested in research on data about donors
-1. Think about a research question and evaluate whether you could answer it
-2. Outline the process you would follow to get the data
-- We'll take up these questions and discuss how "FAIR" we think the data are.
+
+-   Canadian Blood Services offers secondary use research data (that is databases about donors that you can request)
+-   Suppose you were a researcher interested in research on data about donors
+
+1.  Think about a research question and evaluate whether you could answer it
+2.  Outline the process you would follow to get the data
+
+-   We'll take up these questions and discuss how "FAIR" we think the data are.
 
 **INSERT FAIR GRAPHIC**
-
+<!-- Thierry comment: this slide is the same as that above, minus the comment. I assume this is by design-->
 ## Takeup (GA)
 
 ## FAIR Restricted data
-- Findability doesn't **need** to be affected, but often is
-- Accessibility might mean something different
-- Interoperability can sometimes be tricky
-- Reusability can be better, but this requires effort
+
+-   Findability doesn't **need** to be affected, but often is
+-   Accessibility might mean something different
+-   Interoperability can sometimes be tricky
+-   Reusability can be better, but this requires effort
 
 ## Findability
-- Organizations providing data as a non-priority activity
-- Resources to make it findable may not even be considered
-- Knowledge of how to make data discoverable might not exist
-- Even where a core dataset from an academic source exists there can be
-  a. A research team primarily using the data and making it available is secondary (see item 1)
-  b. Because it isn't open it's not posted and making it findable is a separate activity (where with open data it's often put into a service that manages both curation and discoverability)
 
+-   Organizations providing data as a non-priority activity
+-   Resources to make it findable may not even be considered
+-   Knowledge of how to make data discoverable might not exist
+-   Even where a core dataset from an academic source exists there can be
+    a.  A research team primarily using the data and making it available is secondary (see item 1)
+    b.  Because it isn't open it's not posted and making it findable is a separate activity (where with open data it's often put into a service that manages both curation and discoverability)
+
+<!-- Thierry comment: I would add commas in b. after "isn't open"-->
 ## Accessibility
-- Is it even considered?
-  - I would argue yes, very seriously, but not with a lens of FAIR
-  - Some of this is foundational see [Read et al. 2024](https://doi.org/10.7191/jeslib.907)
+
+-   Is it even considered?
+    -   I would argue yes, very seriously, but not with a lens of FAIR
+    -   Some of this is foundational see [Read et al. 2024](https://doi.org/10.7191/jeslib.907)
 
 ## Interoperability
-- This goes hand-in-hand with findability and suffers the same resourcing issue
-- Metadata can have the potential to disclose individuals
-- Restricted datasets [don't generally have good metadata](https://doi.org/10.1139/facets-2023-0102) 
 
+-   This goes hand-in-hand with findability and suffers the same resourcing issue
+-   Metadata can have the potential to disclose individuals
+-   Restricted datasets [don't generally have good metadata](https://doi.org/10.1139/facets-2023-0102)
+
+<!-- Thierry comment: this comment applies to the two above slides: it's not really clear that those are hyperlinks, at least not in the pdf on my end. Maybe changing the font colour for those would make this more obvious. This comment applies to all above and below links that are of the same font and colour-->
 ## Reusability
-- Data often belong to an organization and so don't suffer the same risks that data held by individuals do
-- Similar to Interoperability/Findability issues though, improper data management makes data less reusable
+
+-   Data often belong to an organization and so don't suffer the same risks that data held by individuals do
+-   Similar to Interoperability/Findability issues though, improper data management makes data less reusable
 
 ## What would success look like? (GA)
 
-
 ## Data management planning
-- [*DMP template tool*](https://dmp-pgd.ca/)
-  - Consider what anyone following on from you will be starting from. Everything that got you from that step to another point becomes part of your research data
-  - Not every part of the project data will therefore be restricted and you need to plan for that
+
+-   [*DMP template tool*](https://dmp-pgd.ca/)
+    -   Consider what anyone following on from you will be starting from. Everything that got you from that step to another point becomes part of your research data
+    -   Not every part of the project data will therefore be restricted and you need to plan for that
 
 ## Data Accessibility Statements
-- Thorough description of the access process, links to info, financing considerations, and licensing info/terms-of-use
-- "Access available on request" NOT sufficient
-- Encourage data source to template this language! If no, DIY with review
+
+-   Thorough description of the access process, links to info, financing considerations, and licensing info/terms-of-use
+-   "Access available on request" NOT sufficient
+-   Encourage data source to template this language! If no, DIY with review
 
 ## Data Accessibility Statement Contents
 
 ## Data Accessibility Statement Contents
-- Who can access
-  - Rank?
-  - Research themes?
-  - Citizenship?
-- Terms of access
-  - Consultation?
-  - Ethics?
-  - Proposal?
-  - Citation?
-  - TRE?
-- Licensing/Agreements
-  - Ex. CC-BY vs. CC-BY-NC
-- Costs
+
+-   Who can access
+    -   Rank?
+    -   Research themes?
+    -   Citizenship?
+-   Terms of access
+    -   Consultation?
+    -   Ethics?
+    -   Proposal?
+    -   Citation?
+    -   TRE?
+-   Licensing/Agreements
+    -   Ex. CC-BY vs. CC-BY-NC
+-   Costs
 
 ## Data discovery efforts
-- Any datasource can now be indexed in Lunaris relatively easily.
-- Metadata only deposits where there is some info to provide to potential users.
-- Metadata only deposits also create a PID (persistent identifier) which makes the data a lot easier to find for someone who wants to use it in the future because [YOU CAN CITE IT](https://guides.library.oregonstate.edu/research-data-services/data-management-data-citation)
+
+-   Any datasource can now be indexed in Lunaris relatively easily.
+-   Metadata only deposits where there is some info to provide to potential users.
+-   Metadata only deposits also create a PID (persistent identifier) which makes the data a lot easier to find for someone who wants to use it in the future because [YOU CAN CITE IT](https://guides.library.oregonstate.edu/research-data-services/data-management-data-citation)
 
 ## Preservation efforts
-- If a datasource overwrites my data with a new copy and doesn't say anything then someone trying to recreate my work will be very confused at best
-- Ideally new versions get new PIDs and older versions point to the newest
-- Frequency of versioning will depend on frequency of access and preferences of organizations. 
 
+-   If a datasource overwrites my data with a new copy and doesn't say anything then someone trying to recreate my work will be very confused at best
+-   Ideally new versions get new PIDs and older versions point to the newest
+-   Frequency of versioning will depend on frequency of access and preferences of organizations.
+<!-- Thierry comment: borealis, for instance, actually attributes the PID to the dataset (cursed word) and tracks every version updates via the version tab. so the DOI never changes. Changing metadata is a minor update (1.1) and data file change is a major update (2.0)-->
 ## How do I talk to my data source?
-- Raise the issue
-- Highlight the benefits
-- Point to resources
+
+-   Raise the issue
+-   Highlight the benefits
+-   Point to resources
 
 ## Case study; indexing in Lunaris
-- Lunaris is a service of the Digital Research Alliance of Canada
-- It collates metadata from a variety of sources
-- Data sources can work with Lunaris to have their datasets indexed
+
+-   Lunaris is a service of the Digital Research Alliance of Canada
+-   It collates metadata from a variety of sources
+-   Data sources can work with Lunaris to have their datasets indexed
 
 ## Lunaris page
+
 [insert screenshot of Lunaris Page]
 
 ## System needs
-- Lunaris has a metadata schema (list of information it can process and display)
-- Any data source can provide a database of this information about their datasets to be "harvested"
-- Work with Lunaris team to determine how the data should be formatted
+
+-   Lunaris has a metadata schema (list of information it can process and display)
+-   Any data source can provide a database of this information about their datasets to be "harvested"
+-   Work with Lunaris team to determine how the data should be formatted
 
 ## Case study
 
@@ -217,31 +242,34 @@ Concepts:
 
 ## Step 1: Metadata crosswalk
 
-- Sounds fancier than it is
-- Map fields from my database to the schema from Lunaris
-- In some cases these will be dynamic and obvious (ex. "Database name")
-  - Some will be dynamic and non-obvious
-- In some cases these will be static and need to be generated (ex. "Rights")
+-   Sounds fancier than it is
+-   Map fields from my database to the schema from Lunaris
+-   In some cases these will be dynamic and obvious (ex. "Database name")
+    -   Some will be dynamic and non-obvious
+-   In some cases these will be static and need to be generated (ex. "Rights")
 
 ## Crosswalk examples
 
 ## Step 2: Translation code
 
-- Example in the resources (.py and .R) for our translations
-- Dynamic fields mapped against the current database
-- Static fields added at the end
-- If you have EN/FR metadata both can be included in one file
-- Write output as .json file
+-   Example in the resources (.py and .R) for our translations
+-   Dynamic fields mapped against the current database
+-   Static fields added at the end
+-   If you have EN/FR metadata both can be included in one file
+-   Write output as .json file
+
+<!-- Thierry comment: we may want to write a guide about that at one point. If researchers are bad at one thing, it's most likely python and .R - I feel as though most just delegate to their junior members - image examples could be useful here just to depict what we're conveying-->
 
 ## Step 3: Publish
 
-- Post the .json file somewhere accessible on the web and share this with the Lunaris team
-- Updates made to the file will be automatically reflected in Lunaris ("Harvester" checks back on occasion)
+-   Post the .json file somewhere accessible on the web and share this with the Lunaris team
+-   Updates made to the file will be automatically reflected in Lunaris ("Harvester" checks back on occasion)
 
+<!-- Thierry comment: "somewhere accessible on the web" seems a bit ambiguous - could an example like GitHub be given? or something like that?-->
 ## Result
 
-- Restricted dataset is much more discoverable to those seeking information on a given topic
-- Updates to metadata including access protocols, dataset info, even new data available are machine readable
+-   Restricted dataset is much more discoverable to those seeking information on a given topic
+-   Updates to metadata including access protocols, dataset info, even new data available are machine readable
 
 ## Result
 
@@ -249,56 +277,82 @@ Concepts:
 
 ## Option 2 - Metadata only deposits
 
-- More detailed and of greater use to others
-- Create similar metadata profile to previous example
-- BUT, can include documentation
+-   More detailed and of greater use to others
+-   Create similar metadata profile to previous example
+-   BUT, can include documentation
 
 ## Introducing: Borealis
 
-- National collection of Dataverse instances (one from *most* Canadian universities)
-- Your dataverse ingests data, Borealis rolls it up into a national service
-- Borealis info is collected by other search tools (including Lunaris).
+-   National collection of Dataverse instances (one from *most* Canadian universities)
+-   Your dataverse ingests data, Borealis rolls it up into a national service
+-   Borealis info is collected by other search tools (including Lunaris).
 
 ## Borealis & restricted data
 
-- Can't deposit personally identifiable info into Borealis
-- CAN create metadata records including deposit of supporting documents
-- With the right supporting documents, Borealis can be a very effective tool for data discovery
-  - Anonymized version of dataset
-  - Questionnaires
-  - Structural files
+-   Can't deposit personally identifiable info into Borealis
+-   CAN create metadata records including deposit of supporting documents
+-   With the right supporting documents, Borealis can be a very effective tool for data discovery
+    -   Anonymized version of dataset
+    -   Questionnaires
+    -   Structural files
 
 ## Borealis & restricted data
 
-- Metadata only < Metadata w summary docs < Metadata w variable level information
-- Resource document and explainer available
-
+-   Metadata only \< Metadata w summary docs \< Metadata w variable level information
+-   Resource document and explainer available
+<!-- Thierry comment: I would write w/ instead of just w. Doesn't change much though. -->
 ## Why choose Borealis or Lunaris
 
 Lunaris Pros:
 
-- Dynamic updates to content automatic
-- Minimal lift to create a series of entries from existing data
+-   Dynamic updates to content automatic
+-   Minimal lift to create a series of entries from existing data
 
 Borealis Pros:
 
-- Permits a greater level of detail about the resource
-- Allows document upload
-- Creates a permanent landing page for the resource
-- Mints a DOI for the resource
+-   Permits a greater level of detail about the resource
+-   Allows document upload
+-   Creates a permanent landing page for the resource
+-   Mints a DOI for the resource
 
 ## Why choose Borealis or Lunaris
 
 Lunaris Cons:
 
-- Limited and inflexible info about data source
-- Needs a landing page to point to
-- No "permanence" to the record, nothing is created to cite or point to
-- System needs some data skill to populate automatically/navigate
+-   Limited and inflexible info about data source
+-   Needs a landing page to point to
+-   No "permanence" to the record, nothing is created to cite or point to
+-   System needs some data skill to populate automatically/navigate
 
 Borealis Cons:
 
-- Process to create/update records tedious
-- Many fields to populate (though most are optional)
-- Records cannot be deleted (this is also a pro)
-- Accessibility (for upload) limited to consortia members
+-   Process to create/update records tedious
+-   Many fields to populate (though most are optional)
+-   Records cannot be deleted (this is also a pro)
+-   Accessibility (for upload) limited to consortia members
+
+<!-- Thierry comment: i personally think the process to create stuff via borealis is pretty easy - of course I'm biased because I'm a curator. API calls also exist to automatically update the database via programs like Git, etc. --- seehttps://learn.scholarsportal.info/all-guides/borealis-admin/dataverse-api/ and https://guides.dataverse.org/en/latest/api/curation-labels.html This may be way too advanced though. But perhaps still of interest to you-->
+
+<!-- Thierry comment: I'm pretty sure access is also limited, I looked through the documentation, but it's pretty parsimonious about what is and isn't permitted by users of non-member institutions.-->
+
+
+
+
+
+<!-- General comment by Thierry: I'm not exactly sure if this was by design, or just the way
+the slides were made, but there's no real punctuation at the end of phrases.
+It is bullet point which makes sense, but I feel that it would make sense for whole sentences
+
+It may also be a good thing to make it more obvious when there's link content. Right now it's the exact same colour as the rest of the text, which makes it difficult to know if it's a hyperlink or just text.-->
+
+
+
+
+
+
+
+
+
+
+
+
