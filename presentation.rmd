@@ -223,15 +223,15 @@ Concepts:
 
 ## Case study
 
-[Screenshot of a CRDCN data page]
+![CRDCN data webpage screenshot](./content/CRDCN_screenshot.jpg)
 
 ## Case study
 
-[Screenshot of a CRDCN data page - highlighted]
+![CRDCN webpage data screenshot](./content/CRDCN_screenshot_hlt.jpg)
 
 ## Case study
 
-[Screenshot of CRDCN dataset database]
+![Screenshot of CRDCN dataset database](./content/DB screenshot.jpg)
 
 ## Step 1: Metadata crosswalk
 
@@ -288,7 +288,7 @@ Concepts:
 
 ## Borealis & restricted data
 
--   Metadata only \< Metadata w summary docs \< Metadata w variable level information
+-   Metadata only \< Metadata w summary docs \< Metadata with variable-level information
 -   Resource document and explainer available
 
 ## Why choose Borealis or Lunaris
@@ -320,5 +320,3 @@ Borealis Cons:
 -   Many fields to populate (though most are optional)
 -   Records cannot be deleted (this is also a pro)
 -   Accessibility (for upload) limited to consortia members
-
-<!-- Thierry comment: I'm pretty sure access is also limited, I looked through the documentation, but it's pretty parsimonious about what is and isn't permitted by users of non-member institutions.-->
