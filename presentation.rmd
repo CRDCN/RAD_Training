@@ -213,7 +213,7 @@ Concepts:
 
 ## Lunaris page
 
-[insert screenshot of Lunaris Page]
+![Lunaris webpage screenshot](./content/lunaris.png)
 
 ## System needs
 
