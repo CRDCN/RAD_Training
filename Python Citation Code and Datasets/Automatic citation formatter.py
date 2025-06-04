@@ -7,7 +7,7 @@ import numpy as np
 
 
 # Setting and directing path
-path = "/your/path/here"
+path = "C:/Users/gibso/Documents/CRDCN/RAD_Training"
 os.chdir(path)
 
 
@@ -16,7 +16,7 @@ os.chdir(path)
 
 
 # Setting up the dataset as a dataframe which will allow for editing
-data = pd.read_csv('Dataset-Export-2025-March-12-1920(2).csv')
+data = pd.read_csv('./Resources/Data/2025_05_01_WPDATA.csv')
 df = pd.DataFrame(data)
 df.rename(columns = {"title.fr": "Dataset Title (French)", 
                      "title.en": "Title", "summary.fr": "Summary French",
@@ -37,7 +37,7 @@ df['is nan'] = df['URL Ref'].isna()
 
 
 # Creating variables for frequently used string
-sponsor = "Research Data Centre Program"
+sponsor = "(Ottawa: Data Access Division)"
 #sponsor_fr = "Programme des Centres de données de recherche"
 
 
@@ -68,7 +68,7 @@ while count2 != len(df['Data Types']):
     # Creation of citation for entries fitting these conditions
     if df['Data Types'][count2][0] == 'Longitudinal' and df['Data Types'][count2][1] == 'Administrative':
         
-        citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}. {sponsor}. {url}. Accessed [day] [month] [year].'
+        citation_val_en = f'Canada. Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}, Catalogue no. {df["Dataset ID"][count2]}. {sponsor}. {url}. Accessed via the RDC program on [day of disclosure release] [month] [year].'
         citation_en.append(citation_val_en)
         
         #citation_val_fr = f'Statistique Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Dataset Title (French)"][count2]}. {sponsor_fr}. {url_fr}. Accédé [jour] [mois] [année].'
@@ -81,7 +81,7 @@ while count2 != len(df['Data Types']):
     # Creation of citation for entries fitting these conditions
     elif df['Data Types'][count2][0] == 'Longitudinal' and df['Data Types'][count2][1] == 'Integrated':
         
-        citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}. {sponsor}. {url}. Accessed [day] [month] [year].'
+        citation_val_en = f'Canada. Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}, Catalogue no. {df["Dataset ID"][count2]}. {sponsor}. {url}. Accessed via the RDC program on [day of disclosure release] [month] [year].'
         citation_en.append(citation_val_en)
         
         #citation_val_fr = f"Statistique Canada. ({df['dataset_years_0_max_year'][count2]}). {df['Dataset Title (French)'][count2]}. {sponsor_fr}. {url_fr}. Accédé [jour] [mois] [année]."
@@ -95,7 +95,7 @@ while count2 != len(df['Data Types']):
     # NOTE THAT THESE MAY EVANTUALLY BECOME REPEATED, AND AS SUCH, MAY REQUIRE SOME TUNING. THIS SHOULD AUTOMATICALLY BE FIXED IF THE ENTRY IS CHANGED FROM 'Single' to 'Repeated'    
     elif df['Data Types'][count2][0] == 'Longitudinal' and df['Data Types'][count2][1] == 'Survey':
         
-        citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}. {sponsor}. {url}. Accessed [day] [month] [year].'
+        citation_val_en = f'Canada. Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}, Catalogue no. {df["Dataset ID"][count2]}. {sponsor}. {url}. Accessed via the RDC program on [day of disclosure release] [month] [year].'
         citation_en.append(citation_val_en)
         
         #citation_val_fr = f"Statistique Canada. ({df['dataset_years_0_max_year'][count2]}). {df['Dataset Title (French)'][count2]}. {sponsor_fr}. {url_fr}. Accédé [jour] [mois] [année]."
@@ -111,11 +111,11 @@ while count2 != len(df['Data Types']):
         
         # Checking recency of the data entry
         if df["dataset_years_0_max_year"][count2] < 2020:
-            citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}. {sponsor}. {url}. Accessed [day] [month] [year].'
+            citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}, Catalogue no. {df["Dataset ID"][count2]}. {sponsor}. {url}. Accessed via the RDC program on [day of disclosure release] [month] [year].'
             #citation_val_fr = f"Statistique Canada. (df["dataset_years_0_max_year"][count2]}). {df['Dataset Title (French)'][count2]}. {sponsor_fr}. {url_fr}. Accédé [jour] [mois] [année]."
         
         else:
-            citation_val_en = f'Statistics Canada. (*PUB_YEAR*). {df["Title"][count2]}. {sponsor}. {url}. Accessed [day] [month] [year].'
+            citation_val_en = f'Statistics Canada. (*PUB_YEAR*). {df["Title"][count2]}. {sponsor}, Catalogue no. {df["Dataset ID"][count2]}. {sponsor}. {url}. Accessed via the RDC program on [day] [month] [year].'
             #citation_val_fr = f"Statistique Canada. (*ANNÉE_DE_PUBLICATION*). {df['Dataset Title (French)'][count2]}. {sponsor_fr}. {url_fr}. Accédé [jour] [mois] [année]." 
         
         
@@ -130,11 +130,11 @@ while count2 != len(df['Data Types']):
         
         # Checking recency of the data entry
         if df["dataset_years_0_max_year"][count2] < 2020:
-            citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}. {sponsor}. {url}. Accessed [day] [month] [year].'
+            citation_val_en = f'Statistics Canada. ({df["dataset_years_0_max_year"][count2]}). {df["Title"][count2]}, Catalogue no. {df["Dataset ID"][count2]}. {url}. Accessed via the RDC program on [date of disclosure] [month] [year].'
             #citation_val_fr = f"Statistique Canada. (df["dataset_years_0_max_year"][count2]}). {df['Dataset Title (French)'][count2]}. {sponsor_fr}. {url_fr}. Accédé [jour] [mois] [année]."
         
         else:
-            citation_val_en = f'Statistics Canada. (*PUB_YEAR*). {df["Title"][count2]}. {sponsor}. {url}. Accessed [day] [month] [year].'
+            citation_val_en = f'Statistics Canada. (*PUB_YEAR*). {df["Title"][count2]}. {sponsor}. {url}. Accessed via the RDC program on [day] [month] [year].'
             #citation_val_fr = f"Statistique Canada. (*ANNÉE_DE_PUBLICATION*). {df['Dataset Title (French)'][count2]}. {sponsor_fr}. {url_fr}. Accédé [jour] [mois] [année]."            
         
         
@@ -153,4 +153,4 @@ df['English Citation'] = np.asarray(citation_en)
 #df['Citation française'] = np.asarray(citation_fr)
 
 
-df.to_csv('Testing Citations.csv')
+df.to_csv('./Python Citation Code and Datasets/Testing Citations.csv')
