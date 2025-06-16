@@ -14,6 +14,15 @@ output:
 
 ## Introduction
 
+- Thanks to SSHRC for supporting this "Opening doors to data" project via the Connections Grant program: RDM stream
+- Thanks to CRDCN and its funders: CFI, CIHR, SSHRC, Provincial Partners and Collaborating Institutions. 
+
+Please access the project folder for this workshop: www.github.com/---/RAD_training
+
+![QR code to github landing page](./content/QR_slides.png)
+
+## Introduction
+
 -   Evolution of data discovery & open science
 -   Journal pressures
 -   Council pressures
@@ -24,15 +33,15 @@ output:
 -   Today we're talking about restricted access data
 -   Not all sensitive data, and not open data, but data that have an access process or mechanism
 
-## Data lifecycle
-
--   Image of data lifecycle & description (credit: University of Wisconsin Data Governance Program) !["Data Lifecycle model" by University of Wisconsin Data Governance Program. Updated Aug 9, 2022. License: CC-BY-NC 4.0.](%22./content/research_data_lifecycle.png%22)
-
 ## Targets
 
 -   FAIR data
 -   "As open as possible, as closed as necessary"
--   This is not binary, but a continuum
+-   This is not a binary, but a continuum
+
+## Data lifecycle
+
+-   Image of data lifecycle & description (credit: Memorial University OVPR) !["Research Data Lifecycle" by Memorial University OVPR. Updated Sept. 2022. 4.0.](./content/research_data_lifecycle.jpg)
 
 ## Researcher support for discoverability
 
@@ -165,7 +174,6 @@ Concepts:
 
 ## Data Accessibility Statements
 
--   Thorough description of the access process, links to info, financing considerations, and licensing info/terms-of-use
 -   "Access available on request" NOT sufficient
 -   Encourage data source to template this language! If no, DIY with review
 
@@ -187,6 +195,10 @@ Concepts:
     -   Ex. CC-BY vs. CC-BY-NC
 -   Costs
 
+## Data Accessibility Statements
+
+-   Thorough description of the access process, eligibility requirements links to info, financing considerations, and licensing info/terms-of-use
+
 ## Data discovery efforts
 
 -   Any datasource can now be indexed in Lunaris relatively easily.
@@ -196,7 +208,7 @@ Concepts:
 ## Preservation efforts
 
 -   If a datasource overwrites my data with a new copy and doesn't say anything then someone trying to recreate my work will be very confused at best
--   Ideally new versions get new PIDs and older versions point to the newest
+-   Ideally new versions get new PIDs and older versions point to the newest, or everything is gathered under one PID with versioning.
 -   Frequency of versioning will depend on frequency of access and preferences of organizations.
 
 ## How do I talk to my data source?
@@ -219,7 +231,7 @@ Concepts:
 
 -   Lunaris has a metadata schema (list of information it can process and display)
 -   Any data source can provide a database of this information about their datasets to be "harvested"
--   Work with Lunaris team to determine how the data should be formatted
+-   Work with Lunaris team to determine how the data should be formatted (samples from our case study in the workshop folder)
 
 ## Case study
 
@@ -318,5 +330,23 @@ Borealis Cons:
 
 -   Process to create/update records more involved
 -   Many fields to populate (though most are optional)
--   Records cannot be deleted (this is also a pro)
+-   Records cannot be deleted (this is also a pro!)
 -   Accessibility (for upload) limited to consortia members
+
+## When to use Lunaris
+
+- Pre-existing and established set of landing pages
+- No additional documentation to upload
+- Frequent changes/additions/updates *that don't reflect changes to the underlying data*
+- Data provider is not a consortium member
+
+## When to use Borealis
+
+- Want to create a PID for the dataset
+- Have additional contextual info to provide (ex. PDF uploads, more thorough metadata)
+
+## Thank you for your attention
+
+- Questions?
+
+- grant.gibson@crdcn.ca

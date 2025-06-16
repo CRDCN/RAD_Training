@@ -36,7 +36,7 @@ df.rename(columns = {"title.fr": "Dataset Title (French)",
 """
 Note: Subject terms are divided by ">" and "|" symbols. 
       These represent the hierarchal nature of these subjects. 
-      The following code is used to remove this hierarchal symbology.
+      The following code is used to remove this hierarchal symbols.
 """
 
 # Replacing NaN (Null) values with empty strings to facilitate editing

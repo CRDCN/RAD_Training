@@ -13,3 +13,9 @@ filepath<-"C:/Path/to/your/file"
 
 filename<-"yourfilename.xlsx"
 
+database<-import.excel(filepath/filename)
+
+json_output<-toJSON(json_ex, pretty=TRUE, auto_unbox= TRUE)
+
+write(json_output, file=filepath/filename)
+
