@@ -17,9 +17,7 @@ output:
 - Thanks to SSHRC for supporting this "Opening doors to data" project via the Connections Grant program: RDM stream
 - Thanks to CRDCN and its funders: CFI, CIHR, SSHRC, Provincial Partners and Collaborating Institutions. 
 
-Please access the project folder for this workshop: www.github.com/---/RAD_training
-
-![QR code to github landing page](./content/QR_slides.png)
+Please access the project folder for this workshop: www.github.com/CRDCN/RAD_training
 
 ## Introduction
 
@@ -45,11 +43,11 @@ Please access the project folder for this workshop: www.github.com/---/RAD_train
 
 ## Researcher support for discoverability
 
-F - [Findable](https://faircookbook.elixir-europe.org/content/recipes/findability.html)
+F - [_Findable_](https://faircookbook.elixir-europe.org/content/recipes/findability.html)
 
 ## Researcher support for discoverability
 
-F - [Findable](https://faircookbook.elixir-europe.org/content/recipes/findability.html)
+F - [_Findable_](https://faircookbook.elixir-europe.org/content/recipes/findability.html)
 
 Can anyone discover that your data even exist? 
 
@@ -62,11 +60,11 @@ Concepts:
 
 ## Researcher support for discoverability
 
-A - [Accessible](https://faircookbook.elixir-europe.org/content/recipes/accessibility.html)
+A - [_Accessible_](https://faircookbook.elixir-europe.org/content/recipes/accessibility.html)
 
 ## Researcher support for discoverability
 
-A - [Accessible](https://faircookbook.elixir-europe.org/content/recipes/accessibility.html)
+A - [_Accessible_](https://faircookbook.elixir-europe.org/content/recipes/accessibility.html)
 
 Can others access the data you used?
 
@@ -80,11 +78,11 @@ Concepts:
 
 ## Researcher support for discoverability
 
-I - [Interoperable](https://faircookbook.elixir-europe.org/content/recipes/interoperability.html)
+I - [_Interoperable_](https://faircookbook.elixir-europe.org/content/recipes/interoperability.html)
 
 ## Researcher support for discoverability
 
-I - [Interoperable](https://faircookbook.elixir-europe.org/content/recipes/interoperability.html)
+I - [_Interoperable_](https://faircookbook.elixir-europe.org/content/recipes/interoperability.html)
 
 Concepts:
 
@@ -95,11 +93,11 @@ Concepts:
 
 ## Researcher support for discoverability
 
-R - [Reusable](https://faircookbook.elixir-europe.org/content/recipes/reusability.html)
+R - [_Reusable_](https://faircookbook.elixir-europe.org/content/recipes/reusability.html)
 
 ## Researcher support for discoverability
 
-R - [Reusable](https://faircookbook.elixir-europe.org/content/recipes/reusability.html)
+R - [_Reusable_](https://faircookbook.elixir-europe.org/content/recipes/reusability.html)
 
 Concepts:
 
@@ -125,9 +123,7 @@ Concepts:
 1.  Think about a research question and evaluate whether you could answer it
 2.  Outline the process you would follow to get the data
 
--   We'll take up these questions and discuss how "FAIR" we think the data are.
-
-**INSERT FAIR GRAPHIC**
+![Fair Data Acronym](.\content\FAIR.png)
 
 ## Takeup (GA)
 
@@ -151,13 +147,13 @@ Concepts:
 
 -   Is it even considered?
     -   I would argue yes, very seriously, but not with a lens of FAIR
-    -   Some of this is foundational see [Read et al. 2024](https://doi.org/10.7191/jeslib.907)
+    -   Some of this is foundational see [_Read et al. 2024_](https://doi.org/10.7191/jeslib.907)
 
 ## Interoperability
 
 -   This goes hand-in-hand with findability and suffers the same resourcing issue
 -   Metadata can have the potential to disclose individuals
--   Restricted datasets [don't generally have good metadata](https://doi.org/10.1139/facets-2023-0102)
+-   Restricted datasets [_don't generally have good metadata_](https://doi.org/10.1139/facets-2023-0102)
 
 ## Reusability
 
@@ -168,7 +164,7 @@ Concepts:
 
 ## Data management planning
 
--   [*DMP template tool*](https://dmp-pgd.ca/)
+-   [_DMP template tool_](https://dmp-pgd.ca/)
     -   Consider what anyone following on from you will be starting from. Everything that got you from that step to another point becomes part of your research data
     -   Not every part of the project data will therefore be restricted and you need to plan for that
 
@@ -203,7 +199,7 @@ Concepts:
 
 -   Any datasource can now be indexed in Lunaris relatively easily.
 -   Metadata only deposits where there is some info to provide to potential users.
--   Metadata only deposits also create a PID (persistent identifier) which makes the data a lot easier to find for someone who wants to use it in the future because [YOU CAN CITE IT](https://guides.library.oregonstate.edu/research-data-services/data-management-data-citation)
+-   Metadata only deposits also create a PID (persistent identifier) which makes the data a lot easier to find for someone who wants to use it in the future because [_YOU CAN CITE IT_](https://guides.library.oregonstate.edu/research-data-services/data-management-data-citation)
 
 ## Preservation efforts
 
@@ -235,7 +231,7 @@ Concepts:
 
 ## Case study
 
-![CRDCN data webpage screenshot](./content/CRDCN_screenshot.jpg)
+![_CRDCN data webpage screenshot_](./content/CRDCN_screenshot.jpg)
 
 ## Case study
 
@@ -254,6 +250,10 @@ Concepts:
 -   In some cases these will be static and need to be generated (ex. "Rights")
 
 ## Crosswalk examples
+- Subjects + Static fields -> Keywords
+- Static access data -> Rights
+- Permalink (on crdcn.ca) -> URL
+- Catalogue ID -> Identifier
 
 ## Step 2: Translation code
 
@@ -275,7 +275,7 @@ Concepts:
 
 ## Result
 
-[screenshot of same datapage, only in Lunaris]
+[_Lunaris example page_](https://www.lunaris.ca/catalog/02f94897-9129-5cfa-82d7-1a4491704b93?locale=en&q=&sort=dc_date+desc%2C+dc_title_multi+asc&f%5Bfrdr_origin_id%5D%5B%5D=City+of+Edmonton+Open+Data+Portal&f%5Bdc_date%5D%5B%5D=2025-03-18to2025-06-16)
 
 ## Option 2 - Metadata only deposits
 
@@ -288,6 +288,7 @@ Concepts:
 -   National collection of Dataverse instances (one from *most* Canadian universities)
 -   Your dataverse ingests data, Borealis rolls it up into a national service
 -   Borealis info is collected by other search tools (including Lunaris).
+- [_Example_](https://demo.borealisdata.ca/dataset.xhtml?persistentId=doi%3A10.80240%2FFK2%2FDTCL3Z&version=DRAFT)
 
 ## Borealis & restricted data
 
