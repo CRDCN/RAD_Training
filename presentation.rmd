@@ -110,6 +110,8 @@ Concepts:
 -   Canadian Blood Services offers secondary use research data (that is, databases about donors that you can request)
 -   Suppose you were a researcher interested in research on data about donors
 
+Based on information you're able to get online:
+
 1.  Think about a research question and evaluate whether you could answer it
 2.  Outline the process you would follow to get the data
 
@@ -119,6 +121,8 @@ Concepts:
 
 -   Canadian Blood Services offers secondary use research data (that is databases about donors that you can request)
 -   Suppose you were a researcher interested in research on data about donors
+
+Based on information you're able to get online:
 
 1.  Think about a research question and evaluate whether you could answer it
 2.  Outline the process you would follow to get the data
