@@ -37,10 +37,6 @@ Please access the project folder for this workshop: www.github.com/CRDCN/RAD_tra
 -   "As open as possible, as closed as necessary"
 -   This is not a binary, but a continuum
 
-## Data lifecycle
-
--   Image of data lifecycle & description (credit: Memorial University OVPR) !["Research Data Lifecycle" by Memorial University OVPR. Updated Sept. 2022. 4.0.](./content/research_data_lifecycle.jpg)
-
 ## Researcher support for discoverability
 
 F - [_Findable_](https://faircookbook.elixir-europe.org/content/recipes/findability.html)
@@ -104,6 +100,10 @@ Concepts:
 -   Provenance
 -   Licensing
 -   Archiving
+
+## Data lifecycle
+
+-   Image of data lifecycle & description (credit: Memorial University OVPR) !["Research Data Lifecycle" by Memorial University OVPR. Updated Sept. 2022. 4.0.](./content/research_data_lifecycle.jpg)
 
 ## Case study: CBS
 
