@@ -15,9 +15,10 @@ output:
 ## Introduction
 
 - Merci au CRSH pour son soutien au projet « Portes ouvertes aux données » dans le cadre du programme Connexion, volet GDR. 
-- Merci au RCCDR et à ses bailleurs de fonds : la FCI, les IRSC, le CRSH, les partenaires provinciaux et les institutions collaboratrices.
+- Merci aussi au RCCDR et à ses bailleurs de fonds : la FCI, les IRSC, le CRSH, les partenaires provinciaux et les institutions collaboratrices.
+- Finalement, merci au CIQSS pour sa participation
 
-Merci d’accéder au dossier du projet pour cet atelier : www.github.com/CRDCN/RAD_training 
+Veuillez accéder au dossier du projet pour cet atelier : www.github.com/CRDCN/RAD_training 
 
 ## Introduction
 
@@ -35,11 +36,11 @@ Merci d’accéder au dossier du projet pour cet atelier : www.github.com/CRDCN/
 
 - Données FAIR 
 - « Aussi ouvertes que possible, aussi fermées que nécessaire » 
-- Ce n’est pas un choix binaire, mais d’un continuum 
+- Ce n’est pas un choix binaire, mais un continuum 
 
 ## Contibutions des chercheurs à FAIR
 
-F - [_Faciles à retrouver_](https://faircookbook.elixir-europe.org/content/recipes/findability.html) 
+F - [_Faciles à retrouver_](https://faircookbook.elixir-europe.org/content/recipes/findability.html) - (Findable)
 
 ## Contibutions des chercheurs à FAIR
 
@@ -50,12 +51,14 @@ Est-ce que quiconque peut découvrir vos données et savoir qu’elles existent?
 D’autres personnes peuvent-elles déterminer où se trouvent les données que vous avez utilisées? 
 
 Concepts : 
+
 - Identifiants persistants 
+
 - Indexation (y compris les métadonnées)
 
 ## Contibutions des chercheurs à FAIR
 
-A - [_Accessibles_](https://faircookbook.elixir-europe.org/content/recipes/accessibility.html)
+A - [_Accessibles_](https://faircookbook.elixir-europe.org/content/recipes/accessibility.html) (Accessible)
 
 ## Contibutions des chercheurs à FAIR
 
@@ -71,7 +74,7 @@ Savent-elles comment y accéder ?
 
 ## Contibutions des chercheurs à FAIR
 
-I - [_Interopérables_](https://faircookbook.elixir-europe.org/content/recipes/interoperability.html)
+I - [_Interopérables_](https://faircookbook.elixir-europe.org/content/recipes/interoperability.html) (Interoperable)
 
 ## Contibutions des chercheurs à FAIR
 
@@ -79,14 +82,14 @@ I - [_Interopérables_](https://faircookbook.elixir-europe.org/content/recipes/i
 
 Concepts : 
 
-- Code source ouvert 
+- Code source ouvert
 - Lisible par machine 
 - Métadonnées 
 - Vocabulaires contrôlés 
 
 ## Contibutions des chercheurs à FAIR
 
-R - [_Réutilisables_](https://faircookbook.elixir-europe.org/content/recipes/reusability.html)
+R - [_Réutilisables_](https://faircookbook.elixir-europe.org/content/recipes/reusability.html) (Reusable)
 
 ## Contibutions des chercheurs à FAIR
 
@@ -100,7 +103,7 @@ Concepts :
 
 ## Data lifecycle
 
--   Image of data lifecycle & description (credit: Memorial University OVPR) !["Gestion des données de recherche" Université du Québec](./content/research_data_lifecycle.jpg)
+-   Gestion de données de recherche (Université du Québec) !["Gestion des données de recherche" Université du Québec](./content_fr/research_data_lifecycle.jpg)
 
 ## Étude de cas : SCS
 
@@ -116,8 +119,6 @@ Supposons que vous ayez un intérêt pour la recherche sur des données relative
 Nous reviendrons sur ces questions et verrons dans quelle mesure les données sont FAIR 
 
 ## Étude de cas : SCS
-
-- La Société canadienne du sang offre des données de recherche à usage secondaire (c’est-à-dire des bases de données sur les donneurs que vous pouvez demander). 
 
 Supposons que vous ayez un intérêt pour la recherche sur des données relatives aux donneurs. 
 
@@ -143,6 +144,8 @@ Supposons que vous ayez un intérêt pour la recherche sur des données relative
 - Organisations offrant des données comme activité non prioritaire 
 - Les ressources pour les rendre trouvables peuvent ne même pas être envisagées 
 - Le savoir-faire pour rendre les données découvrables peut être inexistant 
+
+## Faciles à retrouver
 - Même lorsqu’un ensemble de données provenant d’une source universitaire existe, il peut y avoir : 
 
   a. Une équipe de recherche qui utilise les données de leur côté, leur mise à disposition étant secondaire (voir point 1) 
@@ -165,13 +168,15 @@ Supposons que vous ayez un intérêt pour la recherche sur des données relative
 
 - Les données appartiennent souvent à une organisation et ne présentent donc pas les mêmes risques que celles détenues par des individus. 
 - Comme pour les problèmes d’interopérabilité et de découvrabilité, une mauvaise gestion des données réduit leur réutilisabilité. 
+
 ## À quoi ressemble le succès ?
 
 ## Planification de la gestion des données
 
 [_PGD outil de gestion_](https://dmp-pgd.ca/) 
-  - Pensez à ce qui sera nécessaire à toute personne qui reprendra votre travail. Tout ce qui vous a permis de progresser d'une étape à l'autre fait partie de vos données de recherche. 
-  - Toutes les données du projet ne seront donc pas restreintes, et il est important d’en tenir compte dans votre planification. 
+
+- Pensez à ce qui sera nécessaire à toute personne qui reprendra votre travail. Tout ce qui vous a permis de progresser d'une étape à l'autre fait partie de vos données de recherche. 
+- Toutes les données du projet ne seront donc pas restreintes, et il est important d’en tenir compte dans votre planification. 
 
 ## Déclarations d’accessibilité des données
 
@@ -193,9 +198,10 @@ Supposons que vous ayez un intérêt pour la recherche sur des données relative
   b. Éthique ? 
   c. Proposition de recherche ? 
   d. Citation ? 
-  e. TRE-ERS(Trusted Research Environment / environnement de recherche sécurisé) ? 
+  e. TRE-ERS(Trusted Research Environment / environnement de recherche sécurisé) ?
+  f. Coûts
 - Types de licences / ententes - Ex. CC-BY (Creative Commons – Avec attribution) vs. CC-BY-NC (Creative Commons – Avec attribution – Sans utilisation commerciale) 
-- Coûts 
+
 
 ## Déclaration d’accessibilité des données
 
@@ -210,8 +216,9 @@ Supposons que vous ayez un intérêt pour la recherche sur des données relative
 ## Efforts de préservation
 
 - Si une source de données écrase mes données avec une nouvelle copie sans l’indiquer, toute personne cherchant à reproduire mon travail sera au mieux très confuse. 
-- Idéalement, les nouvelles versions devraient avoir de nouveaux identifiants persistants (PID), et les anciennes versions devraient renvoyer vers la plus récente, ou bien tout devrait être regroupé sous un seul PID avec une gestion des versions. 
+- Idéalement, les nouvelles versions devraient avoir de nouveaux identifiants persistants (PID), et les anciennes versions devraient renvoyer vers la plus récente, ou bien, tout devrait être regroupé sous un seul PID avec une gestion des versions. 
 - La fréquence de suivi des versions dépendra de la fréquence d’accès et des préférences des organisations.
+
 ## Comment en discuter avec la source de mes données ?
 
 - Soulever la question 
@@ -226,7 +233,7 @@ Supposons que vous ayez un intérêt pour la recherche sur des données relative
 
 ## Lunaris page
 
-![Lunaris webpage screenshot](./content_fr/lunaris.png)
+![Page d'acceuil Lunaris](./content_fr/lunaris.png)
 
 ## Exigences du système
 
@@ -244,15 +251,15 @@ Supposons que vous ayez un intérêt pour la recherche sur des données relative
 
 ## Étude de cas
 
-![Screenshot of CRDCN dataset database](./content_fr/DB screenshot.jpg)
+![Base de données des bases de données dur RCCDR](./content_fr/DB screenshot.jpg)
 
 ## Étape 1 : Correspondance des métadonnées
 
 - Plus simple qu’il n’y paraît  
 - Faire correspondre les champs de ma base de données avec le schéma de Lunaris 
-- Dans certains cas, ces champs seront remplis automatiquement et faciles à repérer (ex. "Nom de la base de données").  
-- Certains seront dynamiques et moins évidents. 
-- Dans certains cas, ils seront statiques et devront être créés manuellement (ex. "Droits"). 
+- Dans certains cas, ces champs seront dynamique et seront faciles à repérer (ex. "Nom de la base de données").  
+  - Certains seront dynamiques et moins évidents. 
+- Dans certains cas, ils seront statiques et devront être créés manuellement (ex. "License"). 
 
 ## Exemples de correspondances 
 - Sujets + champs statiques -> Mots-clés
@@ -266,9 +273,9 @@ Supposons que vous ayez un intérêt pour la recherche sur des données relative
 - Champs dynamiques mis en correspondance avec la base de données actuelle 
 - Champs statiques ajoutés à la fin 
 - Si vous avez des métadonnées EN/FR, les deux devraient figurer dans un seul fichier 
-- Écrire la sortie dans un fichier .json 
+- La sortie écrit dans un fichier .json 
 
-## Étape 3 : Publier
+## Étape 3 : Publication
 
 - Publiez le fichier .json à un endroit accessible sur le web (n’importe où) et partagez-le avec l’équipe de Lunaris. 
 - Les mises à jour apportées au fichier se réflèteront automatiquement dans Lunaris (l’outil de collecte (« harvester ») revérifie périodiquement). 
@@ -277,11 +284,12 @@ Supposons que vous ayez un intérêt pour la recherche sur des données relative
 
 - Un ensemble de données restreint devient beaucoup plus facile à repérer pour celles et ceux qui recherchent de l’information sur un sujet donné. 
 - Les mises à jour des métadonnées, y compris les protocoles d’accès, les informations sur l’ensemble de données et même les nouvelles données disponibles, sont interprétables par un système informatique. 
+
 ## Résultat
 
 [_Example_](https://test.lunaris.ca/catalog/87dc478c-8d31-5d5f-8394-ce8c8d5f9448?locale=fr&q=&f%5Bfrdr_origin_id%5D%5B%5D=CRDCN)
 
-## Option 2 – Dépôts de métadonnées uniquement
+## Option 2 – Dépôts de métadonnées
 
 - Plus détaillés et plus utiles pour les autres 
 - Génèrent un profil de métadonnées similaire à l’exemple précédent 
@@ -290,18 +298,18 @@ Supposons que vous ayez un intérêt pour la recherche sur des données relative
 ## Présentation : Boréalis
 
 - Ensemble national d’instances Dataverse (provenant de la plupart des universités canadiennes) 
-- Votre Dataverse intègre les données, et Borealis les regroupe dans un service national 
-- Les informations de Borealis sont collectées par d’autres outils de recherche (y compris Lunaris) 
+- Votre Dataverse intègre les données, et Boréalis les regroupe dans un service national 
+- Les informations de Boréalis sont collectées par d’autres outils de recherche (y compris Lunaris) 
 - [_Exemple_](https://demo.borealisdata.ca/dataset.xhtml?persistentId=doi%3A10.80240%2FFK2%2FDTCL3Z&version=DRAFT)
 
 ## Boréalis et données à accès restreint
 
--   Can't deposit personally identifiable info into Borealis
--   CAN create metadata records including deposit of supporting documents
--   With the right supporting documents, Borealis can be a very effective tool for data discovery
-    -   Anonymized version of dataset
-    -   Questionnaires
-    -   Structural files
+- Il n'est pas permis de déposer dans Boréalis des renseignements identifiables
+- Il est toutefois possible de créer des fiches de métadonnées, incluant le dépôt de documents d’accompagnement
+- Avec les bons documents d’accompagnement, Boréalis peut devenir un outil très efficace pour la découverte de données :
+  - Version anonymisée des bases de données
+  - Questionnaires
+  - Fichiers structurels
 
 ## Boréalis et données à accès restreint
 
@@ -315,7 +323,7 @@ Avantages de Lunaris :
 - Mises à jour du contenu dynamiques et automatiques 
 - Effort minimal pour créer une série d’entrées à partir de données existantes 
 
-Avantages de Borealis : 
+Avantages de Boréalis : 
 
 - Offre un niveau de détail accru sur la ressource 
 - Autorise le dépôt de documents 
@@ -331,7 +339,7 @@ Lunaris – Inconvénients
 - Aucune permanence du dossier : rien n’est créé pour être cité ou référencé 
 - Le système exige certaines compétences techniques pour alimenter ou naviguer automatiquement 
 
-Borealis – Inconvénients 
+Boréalis – Inconvénients 
 - Processus de création ou de mise à jour des fiches est plus complexe 
 - De nombreux champs à remplir (même si la plupart sont facultatifs) 
 - Les fiches ne peuvent pas être supprimées (ce qui peut aussi être un avantage) 
@@ -344,7 +352,7 @@ Borealis – Inconvénients
 - Modifications, ajouts ou mises à jour fréquents qui ne reflètent pas de changements dans les données sous-jacentes 
 - Fournisseur de données qui n’est pas membre du consortium 
 
-## Quand utiliser Borealis
+## Quand utiliser Boréalis
 
 - Vous souhaitez attribuer un identifiant pérenne (PID) à l’ensemble de données 
 - Vous avez des informations contextuelles supplémentaires à fournir (ex. : téléversement de fichiers PDF, métadonnées plus détaillées)
