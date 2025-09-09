@@ -52,7 +52,7 @@ D’autres personnes peuvent-elles déterminer où se trouvent les données que 
 
 Concepts : 
 
-- Identifiants persistants 
+- Identifiants pérennes (PID) 
 
 - Indexation (y compris les métadonnées)
 
