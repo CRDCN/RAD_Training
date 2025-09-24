@@ -1,12 +1,4 @@
-
-
-The files in the project are as follows:
-
-presentation.pdf - the pdf slides of the RDM for restricted data content
-
-presentation.rmd - the r-markdown used to create the pdf presentation slides
-
-Provincial outreach deck.pptx - the powerpoint slides for the provincial outreach session
+he powerpoint slides for the provincial outreach session
 
 Resources:
  
