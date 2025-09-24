@@ -1,8 +1,4 @@
-# Opening doors to data
 
-This page hosts the workshop content for the SSHRC funded connection project presented by CRDCN in concert with universities across the country.
-
-The content on this page will be updated over the course of the project.
 
 The files in the project are as follows:
 
