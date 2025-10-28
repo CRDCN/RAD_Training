@@ -1,4 +1,4 @@
-he powerpoint slides for the provincial outreach session
+The powerpoint slides for the provincial outreach session
 
 Resources:
  
