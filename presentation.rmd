@@ -279,7 +279,7 @@ Based on information you're able to get online:
 
 ## Result
 
-[_Lunaris example page_](https://www.lunaris.ca/catalog/02f94897-9129-5cfa-82d7-1a4491704b93?locale=en&q=&sort=dc_date+desc%2C+dc_title_multi+asc&f%5Bfrdr_origin_id%5D%5B%5D=City+of+Edmonton+Open+Data+Portal&f%5Bdc_date%5D%5B%5D=2025-03-18to2025-06-16)
+[_Lunaris example page_](https://test.lunaris.ca/catalog/428f938c-0393-51bf-8ebe-8ded43e04c8d?locale=en&q=farm+management&f%5Bfrdr_origin_id%5D%5B%5D=CRDCN)
 
 ## Option 2 - Metadata only deposits
 

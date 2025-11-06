@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Opening doors to data
 
 This page hosts the workshop content for the SSHRC funded connection project presented by CRDCN in concert with universities across the country.
@@ -11,6 +12,9 @@ presentation.pdf - the pdf slides of the RDM for restricted data content
 presentation.rmd - the r-markdown used to create the pdf presentation slides
 
 Provincial outreach deck.pptx - the powerpoint slides for the provincial outreach session
+=======
+The powerpoint slides for the provincial outreach session
+>>>>>>> 11ba2244f3e0648e97c2d40664137c8e5b3a0288
 
 Resources:
  

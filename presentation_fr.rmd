@@ -52,8 +52,7 @@ D’autres personnes peuvent-elles déterminer où se trouvent les données que 
 
 Concepts : 
 
-- Identifiants persistants 
-
+- Identifiants pérennes (PID) 
 - Indexation (y compris les métadonnées)
 
 ## Contibutions des chercheurs à FAIR
@@ -200,7 +199,14 @@ Supposons que vous ayez un intérêt pour la recherche sur des données relative
   d. Citation ? 
   e. TRE-ERS(Trusted Research Environment / environnement de recherche sécurisé) ?
   f. Coûts
+<<<<<<< HEAD:présentation.rmd
 - Types de licences / ententes - Ex. CC-BY (Creative Commons – Avec attribution) vs. CC-BY-NC (Creative Commons – Avec attribution – Sans utilisation commerciale) 
+=======
+  
+## En plus  
+- Types de licences / ententes 
+  - Ex. CC-BY (Creative Commons – Avec attribution) vs. CC-BY-NC (Creative Commons – Avec attribution – Sans utilisation commerciale) 
+
 
 
 ## Déclaration d’accessibilité des données
@@ -278,7 +284,8 @@ Supposons que vous ayez un intérêt pour la recherche sur des données relative
 ## Étape 3 : Publication
 
 - Publiez le fichier .json à un endroit accessible sur le web (n’importe où) et partagez-le avec l’équipe de Lunaris. 
-- Les mises à jour apportées au fichier se réflèteront automatiquement dans Lunaris (l’outil de collecte (« harvester ») revérifie périodiquement). 
+- Les mises à jour apportées au fichier se réflèteront automatiquement dans Lunaris (l’outil de collecte « harvester » revérifie périodiquement). 
+
 
 ## Résultat
 
@@ -339,7 +346,10 @@ Lunaris – Inconvénients
 - Aucune permanence du dossier : rien n’est créé pour être cité ou référencé 
 - Le système exige certaines compétences techniques pour alimenter ou naviguer automatiquement 
 
+##  Pourquoi choisir Boréalis vs Lunaris
+
 Boréalis – Inconvénients 
+
 - Processus de création ou de mise à jour des fiches est plus complexe 
 - De nombreux champs à remplir (même si la plupart sont facultatifs) 
 - Les fiches ne peuvent pas être supprimées (ce qui peut aussi être un avantage) 
