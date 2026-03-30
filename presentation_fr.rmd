@@ -2,8 +2,7 @@
 title: "Portes ouvertes aux données"
 author: "Grant Gibson"
 date: '`r paste("Date:",Sys.Date())`'
-keep_tex: "FALSE"
-header-includes:
+keep_tex: false
 output: 
  beamer_presentation:
   includes: 
@@ -18,7 +17,7 @@ output:
 - Merci aussi au RCCDR et à ses bailleurs de fonds : la FCI, les IRSC, le CRSH, les partenaires provinciaux et les institutions collaboratrices.
 - Finalement, merci au CIQSS pour sa participation
 
-Veuillez accéder au dossier du projet pour cet atelier : www.github.com/CRDCN/RAD_training 
+Veuillez accéder au dossier du projet pour cet atelier : www.github.com/CRDCN/RAD_training ou doi.org/10.17605/OSF.IO/ATWNJ 
 
 ## Introduction
 
@@ -199,10 +198,9 @@ Supposons que vous ayez un intérêt pour la recherche sur des données relative
   d. Citation ? 
   e. TRE-ERS(Trusted Research Environment / environnement de recherche sécurisé) ?
   f. Coûts
-<<<<<<< HEAD:présentation.rmd
+
 - Types de licences / ententes - Ex. CC-BY (Creative Commons – Avec attribution) vs. CC-BY-NC (Creative Commons – Avec attribution – Sans utilisation commerciale) 
-=======
-  
+
 ## En plus  
 - Types de licences / ententes 
   - Ex. CC-BY (Creative Commons – Avec attribution) vs. CC-BY-NC (Creative Commons – Avec attribution – Sans utilisation commerciale) 

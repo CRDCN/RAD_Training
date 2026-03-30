@@ -17,7 +17,8 @@ output:
 - Thanks to SSHRC for supporting this "Opening doors to data" project via the Connections Grant program: RDM stream
 - Thanks to CRDCN and its funders: CFI, CIHR, SSHRC, Provincial Partners and Collaborating Institutions. 
 
-Please access the project folder for this workshop: www.github.com/CRDCN/RAD_training
+Please access the project folder for this workshop: www.github.com/CRDCN/RAD_training; 
+or https://doi.org/10.17605/OSF.IO/ATWNJ 
 
 ## Introduction
 
